@@ -1,0 +1,51 @@
+vendor_id,vendor_name,service_type,business_unit,ai_vendor,criticality,risk_rating,data_access,security_assessment,ai_risk_review,contract_review,control_evidence_on_file,exception_approved,remediation_date_set,oversight_documented,data_retention_defined,owner
+VEN-001,Vendor 001,Data Analytics,Payments,False,Medium,High,PII,True,True,False,True,False,True,True,True,b.oconnell
+VEN-002,Vendor 002,Data Analytics,Wealth Management,False,Medium,Low,PII,True,True,False,True,True,True,True,True,UNASSIGNED
+VEN-003,Vendor 003,HR SaaS,Commercial Banking,False,Critical,High,None,True,True,False,True,True,True,False,False,UNASSIGNED
+VEN-004,Vendor 004,Data Analytics,Retail Banking,True,Critical,High,None,True,False,True,True,False,True,False,False,UNASSIGNED
+VEN-005,Vendor 005,HR SaaS,Digital & AI,False,Critical,High,Internal,False,True,False,True,False,True,True,False,m.leblanc
+VEN-006,Vendor 006,Managed AI Services,Commercial Banking,True,Medium,High,Internal,True,False,False,True,True,True,True,True,UNASSIGNED
+VEN-007,Vendor 007,Managed AI Services,Wealth Management,True,High,Critical,PII,True,True,False,True,True,True,True,True,m.leblanc
+VEN-008,Vendor 008,Data Analytics,Retail Banking,False,Critical,Medium,Internal,True,True,True,True,True,True,False,True,UNASSIGNED
+VEN-009,Vendor 009,Cloud Infrastructure,Commercial Banking,False,High,High,Internal,True,True,False,True,True,True,True,True,UNASSIGNED
+VEN-010,Vendor 010,Marketing SaaS,Shared Technology,True,Critical,Medium,PII,False,False,True,True,True,True,False,True,h.romano
+VEN-011,Vendor 011,Data Analytics,Retail Banking,True,High,Low,Internal,True,False,True,True,True,True,True,True,UNASSIGNED
+VEN-012,Vendor 012,Payment Processing,Retail Banking,True,Medium,High,None,True,False,True,True,False,True,True,True,k.anderson
+VEN-013,Vendor 013,Core Banking Platform,Commercial Banking,False,Low,Critical,None,True,True,True,True,True,True,True,False,m.leblanc
+VEN-014,Vendor 014,Cloud Infrastructure,Commercial Banking,False,High,High,Internal,True,True,True,True,True,True,True,False,k.anderson
+VEN-015,Vendor 015,Data Analytics,Wealth Management,False,Critical,High,Internal,True,True,False,True,True,True,False,True,t.gagnon
+VEN-016,Vendor 016,Security Services,Retail Banking,False,Medium,Medium,None,True,True,True,True,True,True,True,True,t.gagnon
+VEN-017,Vendor 017,Marketing SaaS,Shared Technology,True,Critical,Medium,Internal,False,False,True,True,True,True,False,True,h.romano
+VEN-018,Vendor 018,Core Banking Platform,Digital & AI,False,Medium,High,None,True,True,False,True,False,True,True,True,m.leblanc
+VEN-019,Vendor 019,Core Banking Platform,Digital & AI,False,High,High,Internal,True,True,True,True,True,True,True,True,m.leblanc
+VEN-020,Vendor 020,Data Analytics,Payments,False,High,High,None,True,True,False,True,False,True,True,True,s.okafor
+VEN-021,Vendor 021,Security Services,Digital & AI,False,Medium,High,Internal,True,True,True,True,True,True,True,True,s.okafor
+VEN-022,Vendor 022,Security Services,Commercial Banking,False,High,Medium,None,True,True,True,True,True,True,True,False,l.moreau
+VEN-023,Vendor 023,Data Analytics,Wealth Management,False,High,Low,Internal,True,True,False,True,True,True,True,False,l.moreau
+VEN-024,Vendor 024,Security Services,Wealth Management,False,High,High,None,True,True,True,True,True,True,True,True,t.gagnon
+VEN-025,Vendor 025,Cloud Infrastructure,Payments,False,High,High,Internal,True,True,True,True,False,True,True,True,s.okafor
+VEN-026,Vendor 026,Payment Processing,Shared Technology,False,Critical,Medium,PII,False,True,True,True,True,True,True,True,j.nguyen
+VEN-027,Vendor 027,Payment Processing,Commercial Banking,False,Critical,Medium,None,True,True,True,True,True,True,False,True,d.singh
+VEN-028,Vendor 028,Marketing SaaS,Wealth Management,False,High,Medium,PII,True,True,True,True,True,True,True,True,d.singh
+VEN-029,Vendor 029,Core Banking Platform,Payments,False,Critical,High,Internal,True,True,True,True,False,True,True,True,c.dubois
+VEN-030,Vendor 030,Data Analytics,Shared Technology,False,Critical,Medium,Internal,False,True,True,True,True,True,True,True,s.okafor
+VEN-031,Vendor 031,Payment Processing,Payments,False,Critical,Medium,Internal,True,True,True,True,True,True,True,True,c.dubois
+VEN-032,Vendor 032,Core Banking Platform,Retail Banking,False,Medium,Medium,Internal,True,True,True,True,True,True,True,True,m.leblanc
+VEN-033,Vendor 033,Payment Processing,Digital & AI,False,Critical,Medium,PII,False,True,True,True,True,True,True,False,k.anderson
+VEN-034,Vendor 034,Data Analytics,Retail Banking,True,Medium,Medium,PII,True,False,True,True,True,True,True,True,t.gagnon
+VEN-035,Vendor 035,Payment Processing,Digital & AI,False,High,High,PII,True,True,True,True,True,True,True,True,m.leblanc
+VEN-036,Vendor 036,Security Services,Payments,False,High,Low,None,True,True,True,True,True,True,True,False,s.okafor
+VEN-037,Vendor 037,Marketing SaaS,Commercial Banking,False,Critical,High,Internal,True,True,True,True,True,True,False,True,d.singh
+VEN-038,Vendor 038,Managed AI Services,Shared Technology,True,Medium,High,None,True,False,True,True,False,True,True,True,a.tremblay
+VEN-039,Vendor 039,Security Services,Shared Technology,False,Low,High,Internal,True,True,True,True,False,True,True,False,b.oconnell
+VEN-040,Vendor 040,Marketing SaaS,Retail Banking,False,Critical,High,None,False,True,True,True,False,True,False,True,h.romano
+VEN-041,Vendor 041,Payment Processing,Payments,False,Low,Medium,None,True,True,True,True,True,True,True,True,r.patel
+VEN-042,Vendor 042,Core Banking Platform,Shared Technology,False,High,High,Internal,True,True,True,True,False,True,True,True,r.patel
+VEN-043,Vendor 043,Managed AI Services,Wealth Management,True,Medium,Medium,PII,True,True,True,True,True,True,True,True,r.patel
+VEN-044,Vendor 044,Cloud Infrastructure,Shared Technology,False,Medium,Medium,None,True,True,True,True,True,True,True,True,r.patel
+VEN-045,Vendor 045,Data Analytics,Digital & AI,True,Critical,High,Internal,False,True,True,True,True,True,True,True,t.gagnon
+VEN-046,Vendor 046,HR SaaS,Wealth Management,False,High,High,Internal,True,True,True,True,True,True,True,True,h.romano
+VEN-047,Vendor 047,Payment Processing,Payments,False,Critical,Medium,PII,True,True,True,True,True,True,True,True,m.leblanc
+VEN-048,Vendor 048,Data Analytics,Retail Banking,False,Medium,Medium,Internal,True,True,True,True,True,True,True,False,m.leblanc
+VEN-049,Vendor 049,Security Services,Commercial Banking,False,High,High,None,True,True,True,True,True,True,True,True,k.anderson
+VEN-050,Vendor 050,Security Services,Digital & AI,False,Low,High,None,True,True,True,True,True,True,True,True,l.moreau

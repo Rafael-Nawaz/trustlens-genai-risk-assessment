@@ -1,0 +1,101 @@
+app_id,app_name,app_type,business_unit,environment,service_account,secret_rotation_days,data_sensitivity,risk_tier,ai_integrated,third_party_model,open_critical_vulns,owner,human_oversight,ai_logging_enabled,use_case_approved,input_filtering,ai_risk_classified,output_monitoring,model_data_handling_documented,siem_onboarded,alert_owner_assigned,monitored,ir_runbook_exists,ai_incident_playbook,event_severity_defined,vuln_sla_days,log_retention_days
+APP-0001,app-0001,BatchJob,Wealth Management,Prod,False,33,Low,Critical,True,True,True,UNASSIGNED,False,False,True,True,True,True,False,False,True,True,True,False,False,167,608
+APP-0002,app-0002,Integration,Commercial Banking,NonProd,True,78,Medium,Low,True,False,False,UNASSIGNED,False,True,True,False,True,False,True,True,True,True,True,False,True,0,662
+APP-0003,app-0003,API,Shared Technology,NonProd,True,53,Medium,High,False,False,False,c.dubois,True,True,True,True,True,True,True,True,False,False,True,True,True,0,686
+APP-0004,app-0004,API,Payments,Prod,True,57,Restricted,Critical,True,True,False,j.nguyen,False,False,False,True,True,True,True,False,False,True,True,False,False,0,396
+APP-0005,app-0005,WebApp,Payments,NonProd,True,75,Medium,Critical,False,False,False,b.oconnell,True,True,True,True,True,True,True,False,False,True,True,True,False,0,1014
+APP-0006,app-0006,WebApp,Payments,Prod,True,62,Medium,Critical,False,False,False,m.leblanc,True,True,True,True,True,True,True,False,False,True,True,True,True,0,934
+APP-0007,app-0007,API,Retail Banking,NonProd,False,73,Medium,Low,True,True,False,UNASSIGNED,True,True,True,False,False,False,True,True,False,True,True,True,True,0,608
+APP-0008,app-0008,API,Digital & AI,Prod,False,34,Low,Critical,True,False,False,k.anderson,False,False,False,False,True,True,True,False,False,False,True,False,True,0,765
+APP-0009,app-0009,Integration,Commercial Banking,NonProd,False,80,Low,Medium,False,False,False,r.patel,True,True,True,True,True,True,True,True,True,True,True,True,True,0,643
+APP-0010,app-0010,API,Wealth Management,NonProd,False,54,Medium,Critical,False,False,False,c.dubois,True,True,True,True,True,True,True,False,True,True,True,True,False,0,531
+APP-0011,app-0011,BatchJob,Wealth Management,NonProd,False,78,Low,Critical,False,False,False,t.gagnon,True,True,True,True,True,True,True,False,True,True,True,True,False,0,587
+APP-0012,app-0012,Integration,Shared Technology,NonProd,False,47,Low,Critical,True,True,False,j.nguyen,True,True,False,False,False,True,True,True,False,False,False,True,True,0,443
+APP-0013,app-0013,ServiceAccount,Digital & AI,Prod,False,66,Restricted,High,False,False,False,t.gagnon,True,True,True,True,True,True,True,True,False,False,True,True,True,0,956
+APP-0014,app-0014,API,Retail Banking,NonProd,True,65,High,Critical,False,False,True,m.leblanc,True,True,True,True,True,True,True,True,False,False,False,True,True,120,843
+APP-0015,app-0015,ServiceAccount,Commercial Banking,Prod,False,38,Restricted,Low,False,False,True,j.nguyen,True,True,True,True,True,True,True,True,True,True,True,True,True,72,1045
+APP-0016,app-0016,Integration,Digital & AI,Prod,False,58,Medium,Critical,True,True,True,a.tremblay,False,False,False,False,True,True,True,False,False,False,True,False,True,7,369
+APP-0017,app-0017,WebApp,Shared Technology,NonProd,False,68,Restricted,Critical,True,True,True,d.singh,True,True,False,False,False,True,True,True,True,True,False,True,True,25,826
+APP-0018,app-0018,API,Commercial Banking,Prod,False,81,Medium,Low,True,True,False,UNASSIGNED,False,True,True,False,True,False,False,True,True,True,True,False,True,0,774
+APP-0019,app-0019,WebApp,Wealth Management,Prod,False,84,Low,High,False,False,False,t.gagnon,True,True,True,True,True,True,True,True,True,True,True,True,False,0,820
+APP-0020,app-0020,BatchJob,Digital & AI,NonProd,False,53,High,Medium,False,False,False,m.leblanc,True,True,True,True,True,True,True,True,False,True,True,True,True,0,1088
+APP-0021,app-0021,API,Shared Technology,Prod,False,69,Low,High,True,True,False,h.romano,True,True,False,False,False,True,True,True,True,True,True,True,True,0,650
+APP-0022,app-0022,API,Wealth Management,Prod,False,40,Medium,Medium,True,True,False,UNASSIGNED,False,False,True,True,True,True,False,True,True,True,True,False,True,0,468
+APP-0023,app-0023,Integration,Shared Technology,Prod,True,84,High,High,True,False,False,l.moreau,True,True,False,False,True,True,True,True,True,True,True,True,True,0,374
+APP-0024,app-0024,API,Retail Banking,NonProd,True,82,High,High,True,True,True,UNASSIGNED,True,True,True,False,False,False,True,True,False,False,True,True,True,48,724
+APP-0025,app-0025,API,Retail Banking,NonProd,True,90,Medium,Medium,False,False,False,s.okafor,True,True,True,True,True,True,True,True,True,True,True,True,True,0,492
+APP-0026,app-0026,Integration,Payments,Prod,False,59,Medium,High,True,False,False,s.okafor,False,False,False,True,True,True,True,True,False,True,True,False,True,0,468
+APP-0027,app-0027,ServiceAccount,Digital & AI,NonProd,False,51,Low,High,True,True,False,a.tremblay,False,False,False,False,True,True,True,True,True,False,True,False,True,0,472
+APP-0028,app-0028,Integration,Wealth Management,Prod,False,76,Restricted,Critical,False,False,False,d.singh,True,True,True,True,True,True,True,False,True,True,True,True,True,0,567
+APP-0029,app-0029,WebApp,Digital & AI,NonProd,True,74,Low,Medium,True,False,False,l.moreau,False,False,True,False,True,True,True,True,True,True,True,True,True,0,449
+APP-0030,app-0030,WebApp,Shared Technology,NonProd,False,42,Medium,Critical,True,True,False,s.okafor,True,True,True,True,True,True,True,True,True,True,False,True,True,0,720
+APP-0031,app-0031,WebApp,Shared Technology,NonProd,True,62,Medium,High,True,True,False,k.anderson,True,True,True,True,True,True,True,True,True,True,True,True,True,0,843
+APP-0032,app-0032,API,Wealth Management,Prod,False,69,Restricted,High,True,False,True,UNASSIGNED,True,False,True,True,True,True,True,True,True,True,True,False,True,171,576
+APP-0033,app-0033,WebApp,Commercial Banking,Prod,False,57,High,High,True,True,True,m.leblanc,False,True,True,True,True,False,False,True,True,True,True,False,True,83,464
+APP-0034,app-0034,ServiceAccount,Payments,Prod,False,52,Medium,Medium,False,False,True,l.moreau,True,True,True,True,True,True,True,True,True,True,True,True,True,29,783
+APP-0035,app-0035,BatchJob,Wealth Management,Prod,False,44,Restricted,High,True,False,False,j.nguyen,True,False,True,True,True,True,True,True,True,True,True,False,True,0,427
+APP-0036,app-0036,API,Wealth Management,Prod,False,55,Low,Low,True,True,False,j.nguyen,True,True,True,True,True,True,True,True,True,True,True,True,True,0,904
+APP-0037,app-0037,WebApp,Wealth Management,Prod,False,45,Restricted,Medium,True,False,False,r.patel,True,True,True,True,True,True,True,True,True,True,True,True,True,0,644
+APP-0038,app-0038,API,Digital & AI,Prod,False,48,Low,Low,True,False,True,r.patel,True,True,True,True,True,True,True,True,True,True,True,True,True,29,664
+APP-0039,app-0039,API,Retail Banking,NonProd,False,41,Medium,Medium,True,False,False,UNASSIGNED,True,True,True,False,False,True,True,True,True,True,True,True,True,0,547
+APP-0040,app-0040,BatchJob,Wealth Management,Prod,False,52,Low,Critical,True,False,False,m.leblanc,True,True,True,True,True,True,True,False,True,True,True,True,True,0,571
+APP-0041,app-0041,WebApp,Payments,Prod,False,68,Restricted,Low,True,False,False,r.patel,False,False,True,True,True,True,True,True,True,True,True,True,True,0,471
+APP-0042,app-0042,Integration,Commercial Banking,NonProd,False,53,Restricted,Medium,False,False,False,l.moreau,True,True,True,True,True,True,True,True,True,True,True,True,True,0,772
+APP-0043,app-0043,WebApp,Commercial Banking,Prod,True,38,High,Medium,True,False,False,r.patel,False,True,True,True,True,True,True,True,True,True,True,True,True,0,471
+APP-0044,app-0044,WebApp,Retail Banking,Prod,True,78,Medium,Critical,False,False,False,l.moreau,True,True,True,True,True,True,True,True,True,False,False,True,True,0,862
+APP-0045,app-0045,ServiceAccount,Payments,Prod,True,56,Medium,Critical,True,False,False,s.okafor,True,False,True,True,True,True,True,False,True,True,True,True,True,0,552
+APP-0046,app-0046,WebApp,Wealth Management,Prod,False,65,Medium,Medium,True,False,False,s.okafor,True,True,True,True,True,True,True,True,True,True,True,True,True,0,778
+APP-0047,app-0047,WebApp,Shared Technology,Prod,False,61,Medium,High,True,False,False,t.gagnon,True,True,True,True,True,True,True,True,True,True,True,True,True,0,757
+APP-0048,app-0048,BatchJob,Digital & AI,NonProd,True,60,Low,Medium,True,True,False,c.dubois,True,True,True,True,True,True,True,True,True,True,True,True,True,0,828
+APP-0049,app-0049,API,Commercial Banking,Prod,False,56,High,High,True,False,True,l.moreau,False,True,True,True,True,True,True,True,True,True,True,True,True,178,919
+APP-0050,app-0050,WebApp,Payments,Prod,False,76,High,Medium,False,False,False,d.singh,True,True,True,True,True,True,True,True,True,True,True,True,True,0,774
+APP-0051,app-0051,WebApp,Wealth Management,Prod,False,82,Restricted,High,True,True,False,s.okafor,True,True,True,True,True,True,True,True,True,True,True,True,True,0,988
+APP-0052,app-0052,WebApp,Retail Banking,Prod,True,85,Medium,Critical,True,True,False,UNASSIGNED,True,True,True,False,False,True,True,True,True,True,True,True,True,0,554
+APP-0053,app-0053,API,Digital & AI,Prod,True,57,Medium,Critical,False,False,False,c.dubois,True,True,True,True,True,True,True,True,True,False,True,True,True,0,914
+APP-0054,app-0054,WebApp,Digital & AI,NonProd,False,50,Medium,Medium,True,False,False,t.gagnon,True,True,True,True,True,True,True,True,True,True,True,True,True,0,615
+APP-0055,app-0055,Integration,Payments,Prod,False,35,Low,Medium,True,True,True,c.dubois,True,True,True,True,True,True,True,True,True,True,True,True,True,26,824
+APP-0056,app-0056,Integration,Digital & AI,Prod,False,57,High,Low,True,True,False,r.patel,True,True,True,True,True,True,True,True,True,True,True,True,True,0,724
+APP-0057,app-0057,WebApp,Payments,Prod,False,90,High,Medium,True,True,False,l.moreau,True,True,True,True,True,True,True,True,True,True,True,True,True,0,1028
+APP-0058,app-0058,API,Wealth Management,NonProd,False,45,Low,Medium,False,False,False,m.leblanc,True,True,True,True,True,True,True,True,True,True,True,True,True,0,563
+APP-0059,app-0059,WebApp,Digital & AI,NonProd,False,81,Medium,Medium,True,True,False,l.moreau,True,True,True,True,True,True,True,True,True,True,True,True,True,0,744
+APP-0060,app-0060,WebApp,Retail Banking,Prod,False,76,Restricted,Medium,True,False,False,UNASSIGNED,True,True,True,True,True,True,True,True,True,True,True,True,True,0,485
+APP-0061,app-0061,WebApp,Commercial Banking,NonProd,False,70,Medium,Low,False,False,False,l.moreau,True,True,True,True,True,True,True,True,True,True,True,True,True,0,827
+APP-0062,app-0062,Integration,Payments,Prod,True,64,Medium,Medium,True,True,False,a.tremblay,True,True,True,True,True,True,True,True,True,True,True,True,True,0,391
+APP-0063,app-0063,API,Commercial Banking,NonProd,False,76,High,Critical,True,True,True,d.singh,True,True,True,True,True,True,False,True,True,True,True,True,True,84,665
+APP-0064,app-0064,API,Retail Banking,Prod,True,36,High,Medium,True,True,False,a.tremblay,True,True,True,True,True,True,True,True,True,True,True,True,True,0,372
+APP-0065,app-0065,BatchJob,Shared Technology,NonProd,False,37,Low,Critical,True,False,True,s.okafor,True,True,True,True,True,True,True,True,True,True,False,True,True,23,604
+APP-0066,app-0066,Integration,Digital & AI,NonProd,True,41,High,Critical,True,True,False,j.nguyen,True,True,True,True,True,True,True,True,True,True,True,True,True,0,718
+APP-0067,app-0067,API,Digital & AI,NonProd,False,76,Restricted,Medium,True,True,False,j.nguyen,True,True,True,True,True,True,True,True,True,True,True,True,True,0,607
+APP-0068,app-0068,WebApp,Wealth Management,Prod,False,56,Low,Low,True,False,True,a.tremblay,True,True,True,True,True,True,True,True,True,True,True,True,True,8,647
+APP-0069,app-0069,ServiceAccount,Commercial Banking,NonProd,True,42,Low,Critical,False,False,False,a.tremblay,True,True,True,True,True,True,True,True,True,True,True,True,True,0,473
+APP-0070,app-0070,API,Digital & AI,NonProd,True,32,High,Critical,False,False,False,h.romano,True,True,True,True,True,True,True,True,True,True,True,True,True,0,887
+APP-0071,app-0071,BatchJob,Shared Technology,Prod,False,59,High,Low,False,False,False,c.dubois,True,True,True,True,True,True,True,True,True,True,True,True,True,0,947
+APP-0072,app-0072,BatchJob,Commercial Banking,Prod,False,54,Medium,Critical,True,False,False,m.leblanc,True,True,True,True,True,True,True,True,True,True,True,True,True,0,697
+APP-0073,app-0073,API,Retail Banking,Prod,False,40,Medium,Critical,False,False,True,c.dubois,True,True,True,True,True,True,True,True,True,True,True,True,True,87,405
+APP-0074,app-0074,WebApp,Retail Banking,Prod,False,31,High,Medium,True,True,True,d.singh,True,True,True,True,True,True,True,True,True,True,True,True,True,114,410
+APP-0075,app-0075,WebApp,Shared Technology,NonProd,True,75,Medium,Low,False,False,False,d.singh,True,True,True,True,True,True,True,True,True,True,True,True,True,0,858
+APP-0076,app-0076,API,Shared Technology,Prod,False,77,Low,Medium,False,False,True,j.nguyen,True,True,True,True,True,True,True,True,True,True,True,True,True,25,1044
+APP-0077,app-0077,API,Digital & AI,NonProd,False,45,Low,Medium,True,True,False,m.leblanc,True,True,True,True,True,True,True,True,True,True,True,True,True,0,996
+APP-0078,app-0078,Integration,Retail Banking,NonProd,False,60,Medium,High,True,True,False,b.oconnell,True,True,True,True,True,True,True,True,True,True,True,True,True,0,661
+APP-0079,app-0079,BatchJob,Payments,NonProd,False,45,Restricted,High,False,False,False,l.moreau,True,True,True,True,True,True,True,True,True,True,True,True,True,0,728
+APP-0080,app-0080,ServiceAccount,Retail Banking,NonProd,False,54,High,Medium,False,False,False,b.oconnell,True,True,True,True,True,True,True,True,True,True,True,True,True,0,484
+APP-0081,app-0081,ServiceAccount,Commercial Banking,NonProd,False,36,Medium,Low,True,True,False,j.nguyen,True,True,True,True,True,True,False,True,True,True,True,True,True,0,416
+APP-0082,app-0082,Integration,Shared Technology,Prod,False,87,Restricted,High,False,False,False,s.okafor,True,True,True,True,True,True,True,True,True,True,True,True,True,0,924
+APP-0083,app-0083,WebApp,Commercial Banking,Prod,False,73,Medium,High,True,True,True,r.patel,True,True,True,True,True,True,True,True,True,True,True,True,True,17,678
+APP-0084,app-0084,API,Commercial Banking,NonProd,False,84,Medium,High,True,True,False,j.nguyen,True,True,True,True,True,True,True,True,True,True,True,True,True,0,728
+APP-0085,app-0085,BatchJob,Shared Technology,NonProd,False,48,Low,Critical,True,True,False,d.singh,True,True,True,True,True,True,True,True,True,True,True,True,True,0,615
+APP-0086,app-0086,BatchJob,Commercial Banking,Prod,False,83,High,High,False,False,False,d.singh,True,True,True,True,True,True,True,True,True,True,True,True,True,0,593
+APP-0087,app-0087,WebApp,Retail Banking,NonProd,False,61,High,Critical,True,True,False,a.tremblay,True,True,True,True,True,True,True,True,True,True,True,True,True,0,1085
+APP-0088,app-0088,BatchJob,Commercial Banking,NonProd,False,42,High,Medium,True,False,False,l.moreau,True,True,True,True,True,True,True,True,True,True,True,True,True,0,961
+APP-0089,app-0089,API,Retail Banking,Prod,False,50,Medium,High,True,True,False,r.patel,True,True,True,True,True,True,True,True,True,True,True,True,True,0,870
+APP-0090,app-0090,API,Payments,NonProd,False,79,Medium,Medium,True,True,False,l.moreau,True,True,True,True,True,True,True,True,True,True,True,True,True,0,649
+APP-0091,app-0091,Integration,Payments,NonProd,False,77,Low,Medium,True,False,False,r.patel,True,True,True,True,True,True,True,True,True,True,True,True,True,0,892
+APP-0092,app-0092,API,Wealth Management,Prod,False,73,Restricted,Low,True,True,True,k.anderson,True,True,True,True,True,True,True,True,True,True,True,True,True,24,612
+APP-0093,app-0093,API,Payments,Prod,False,43,Low,Low,False,False,False,d.singh,True,True,True,True,True,True,True,True,True,True,True,True,True,0,742
+APP-0094,app-0094,API,Wealth Management,Prod,False,69,High,High,True,True,False,j.nguyen,True,True,True,True,True,True,True,True,True,True,True,True,True,0,471
+APP-0095,app-0095,API,Retail Banking,NonProd,False,87,High,Critical,True,True,True,m.leblanc,True,True,True,True,True,True,True,True,True,True,True,True,True,12,883
+APP-0096,app-0096,WebApp,Shared Technology,Prod,False,32,Low,Medium,True,True,False,d.singh,True,True,True,True,True,True,True,True,True,True,True,True,True,0,409
+APP-0097,app-0097,BatchJob,Retail Banking,NonProd,False,49,Medium,Critical,True,True,False,b.oconnell,True,True,True,True,True,True,True,True,True,True,True,True,True,0,893
+APP-0098,app-0098,API,Shared Technology,NonProd,False,34,Low,High,True,True,False,c.dubois,True,True,True,True,True,True,True,True,True,True,True,True,True,0,806
+APP-0099,app-0099,BatchJob,Payments,NonProd,True,36,High,Critical,True,False,False,b.oconnell,True,True,True,True,True,True,True,False,True,True,True,True,True,0,413
+APP-0100,app-0100,WebApp,Payments,Prod,False,90,Restricted,Low,True,True,False,m.leblanc,True,True,True,True,True,True,True,True,True,True,True,True,True,0,734

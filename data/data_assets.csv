@@ -1,0 +1,101 @@
+data_asset_id,data_name,data_type,business_unit,contains_pii,classification,pii_classified,ai_accessible,region,region_outside_canada,encrypted,approved_ai_access,retention_defined,retention_days,minimisation_reviewed,transfer_approved,owner,risk_tier
+DA-0001,dataset-0001,Transaction Records,Shared Technology,True,Restricted,False,True,Canada,True,False,True,True,860,True,False,UNASSIGNED,Critical
+DA-0002,dataset-0002,Credit Bureau Data,Payments,True,Confidential,True,True,Canada,False,True,True,False,9180,True,True,UNASSIGNED,High
+DA-0003,dataset-0003,Employee Records,Commercial Banking,True,Confidential,False,True,Canada,False,False,False,False,722,True,True,b.oconnell,High
+DA-0004,dataset-0004,Internal Documentation,Wealth Management,False,Internal,True,True,Canada,False,True,False,False,1110,True,True,a.tremblay,Medium
+DA-0005,dataset-0005,Marketing Analytics,Shared Technology,False,Internal,True,True,Canada,False,True,True,True,1826,True,True,c.dubois,Medium
+DA-0006,dataset-0006,Employee Records,Wealth Management,True,Confidential,True,True,Canada,False,False,False,False,3692,True,True,r.patel,High
+DA-0007,dataset-0007,Employee Records,Shared Technology,True,Restricted,False,True,Canada,True,False,True,True,1692,True,False,UNASSIGNED,Critical
+DA-0008,dataset-0008,Customer PII,Digital & AI,True,Confidential,False,True,Canada,False,True,True,False,7251,True,True,UNASSIGNED,High
+DA-0009,dataset-0009,Internal Documentation,Payments,False,Public,True,True,Canada,False,True,True,False,2139,True,True,m.leblanc,Medium
+DA-0010,dataset-0010,Reference Data,Retail Banking,False,Internal,True,False,Canada,False,True,True,True,2282,True,True,k.anderson,Medium
+DA-0011,dataset-0011,Transaction Records,Shared Technology,True,Restricted,False,False,Canada,True,False,True,True,1349,True,False,UNASSIGNED,Critical
+DA-0012,dataset-0012,Employee Records,Digital & AI,True,Confidential,False,False,Canada,False,True,True,False,7794,True,True,UNASSIGNED,High
+DA-0013,dataset-0013,Credit Bureau Data,Commercial Banking,True,Confidential,False,False,Canada,False,False,True,False,975,True,True,d.singh,High
+DA-0014,dataset-0014,Aggregated Reporting,Shared Technology,False,Internal,True,False,Canada,False,True,True,True,1337,True,True,r.patel,Medium
+DA-0015,dataset-0015,Aggregated Reporting,Wealth Management,False,Public,True,False,Canada,False,True,True,True,2197,True,True,a.tremblay,Medium
+DA-0016,dataset-0016,Transaction Records,Wealth Management,True,Confidential,True,False,Canada,False,False,True,True,3462,True,True,s.okafor,High
+DA-0017,dataset-0017,Credit Bureau Data,Digital & AI,True,Restricted,False,False,Canada,False,True,True,False,4574,True,True,UNASSIGNED,Critical
+DA-0018,dataset-0018,Credit Bureau Data,Digital & AI,True,Confidential,False,False,Canada,False,True,True,False,4916,True,True,r.patel,High
+DA-0019,dataset-0019,Internal Documentation,Retail Banking,False,Internal,True,False,Canada,False,True,True,True,1913,True,True,t.gagnon,Medium
+DA-0020,dataset-0020,Reference Data,Payments,False,Internal,True,False,Canada,False,True,True,False,1925,True,True,s.okafor,Medium
+DA-0021,dataset-0021,KYC Documents,Payments,True,Confidential,True,True,Canada,False,True,True,True,4591,True,True,UNASSIGNED,High
+DA-0022,dataset-0022,Customer PII,Shared Technology,True,Confidential,True,True,Canada,True,False,True,True,2412,True,False,UNASSIGNED,High
+DA-0023,dataset-0023,Credit Bureau Data,Commercial Banking,True,Confidential,True,True,Canada,False,True,False,False,2284,True,True,a.tremblay,High
+DA-0024,dataset-0024,Aggregated Reporting,Commercial Banking,False,Internal,True,True,Canada,False,True,True,False,712,True,True,l.moreau,Medium
+DA-0025,dataset-0025,Aggregated Reporting,Shared Technology,False,Internal,True,True,Canada,False,True,True,True,864,True,True,d.singh,Medium
+DA-0026,dataset-0026,KYC Documents,Payments,True,Confidential,True,True,Canada,False,True,True,True,8261,True,True,UNASSIGNED,High
+DA-0027,dataset-0027,Transaction Records,Payments,True,Confidential,True,True,Canada,False,True,True,True,1245,True,True,UNASSIGNED,High
+DA-0028,dataset-0028,KYC Documents,Commercial Banking,True,Confidential,True,True,Canada,False,True,True,True,1045,True,True,j.nguyen,High
+DA-0029,dataset-0029,Internal Documentation,Wealth Management,False,Internal,True,True,Canada,False,True,False,True,2109,True,True,t.gagnon,Medium
+DA-0030,dataset-0030,Aggregated Reporting,Wealth Management,False,Internal,True,False,Canada,False,True,True,True,1684,True,True,m.leblanc,Medium
+DA-0031,dataset-0031,Transaction Records,Shared Technology,True,Confidential,True,False,Canada,False,False,True,True,656,True,True,d.singh,High
+DA-0032,dataset-0032,Employee Records,Digital & AI,True,Confidential,True,False,Canada,False,True,True,True,566,True,True,b.oconnell,High
+DA-0033,dataset-0033,Employee Records,Wealth Management,True,Restricted,True,False,Canada,False,False,True,True,2135,True,True,a.tremblay,Critical
+DA-0034,dataset-0034,Aggregated Reporting,Retail Banking,False,Internal,True,False,Canada,False,True,True,True,2040,True,True,b.oconnell,Medium
+DA-0035,dataset-0035,Reference Data,Commercial Banking,False,Internal,True,False,Canada,False,True,True,True,1137,True,True,m.leblanc,Medium
+DA-0036,dataset-0036,Credit Bureau Data,Digital & AI,True,Restricted,True,False,Canada,False,True,True,True,2254,True,True,c.dubois,Critical
+DA-0037,dataset-0037,Customer PII,Retail Banking,True,Confidential,False,False,Canada,True,False,True,True,639,True,False,j.nguyen,High
+DA-0038,dataset-0038,Transaction Records,Payments,True,Confidential,True,False,Canada,False,True,True,True,2269,True,True,s.okafor,High
+DA-0039,dataset-0039,Reference Data,Shared Technology,False,Internal,True,False,Canada,False,True,True,True,538,True,True,d.singh,Medium
+DA-0040,dataset-0040,Reference Data,Shared Technology,False,Internal,True,False,Canada,False,True,True,True,1758,True,True,c.dubois,Medium
+DA-0041,dataset-0041,Transaction Records,Wealth Management,True,Confidential,True,True,Canada,False,True,True,True,2212,True,True,k.anderson,High
+DA-0042,dataset-0042,Credit Bureau Data,Commercial Banking,True,Confidential,True,True,Canada,False,True,True,True,1721,True,True,c.dubois,High
+DA-0043,dataset-0043,Employee Records,Payments,True,Restricted,True,True,Canada,False,True,True,True,2070,True,True,d.singh,Critical
+DA-0044,dataset-0044,Internal Documentation,Digital & AI,False,Internal,True,True,Canada,False,True,True,True,1118,True,True,b.oconnell,Medium
+DA-0045,dataset-0045,Reference Data,Commercial Banking,False,Internal,True,True,Canada,False,True,True,True,996,True,True,k.anderson,Medium
+DA-0046,dataset-0046,Customer PII,Shared Technology,True,Restricted,True,True,Canada,False,False,True,True,947,True,True,s.okafor,Critical
+DA-0047,dataset-0047,Customer PII,Retail Banking,True,Restricted,False,True,Canada,True,False,False,True,619,True,False,j.nguyen,Critical
+DA-0048,dataset-0048,KYC Documents,Retail Banking,True,Restricted,False,True,Canada,True,False,False,True,972,True,False,c.dubois,Critical
+DA-0049,dataset-0049,Reference Data,Shared Technology,False,Internal,True,True,Canada,False,True,True,True,906,True,True,s.okafor,Medium
+DA-0050,dataset-0050,Marketing Analytics,Digital & AI,False,Internal,True,False,Canada,False,True,True,True,2022,True,True,m.leblanc,Medium
+DA-0051,dataset-0051,Credit Bureau Data,Payments,True,Restricted,True,False,Canada,False,True,True,True,831,True,True,m.leblanc,Critical
+DA-0052,dataset-0052,Transaction Records,Commercial Banking,True,Confidential,True,False,Canada,False,True,True,True,728,True,True,b.oconnell,High
+DA-0053,dataset-0053,Customer PII,Shared Technology,True,Confidential,True,False,Canada,False,False,True,True,1971,True,True,r.patel,High
+DA-0054,dataset-0054,Aggregated Reporting,Retail Banking,False,Internal,True,False,Canada,False,True,True,True,1543,True,True,t.gagnon,Medium
+DA-0055,dataset-0055,Marketing Analytics,Retail Banking,False,Internal,True,False,Canada,False,True,True,True,837,True,True,k.anderson,Medium
+DA-0056,dataset-0056,Credit Bureau Data,Commercial Banking,True,Restricted,True,False,Canada,False,True,True,True,1911,True,True,k.anderson,Critical
+DA-0057,dataset-0057,Employee Records,Payments,True,Confidential,True,False,Canada,False,True,True,True,838,True,True,b.oconnell,High
+DA-0058,dataset-0058,Customer PII,Digital & AI,True,Confidential,True,False,Canada,False,True,True,True,2086,True,True,d.singh,High
+DA-0059,dataset-0059,Reference Data,Wealth Management,False,Public,True,False,Canada,False,True,True,True,435,True,True,m.leblanc,Medium
+DA-0060,dataset-0060,Reference Data,Commercial Banking,False,Internal,True,False,Canada,False,True,True,True,1657,True,True,j.nguyen,Medium
+DA-0061,dataset-0061,KYC Documents,Digital & AI,True,Confidential,True,True,Canada,False,True,True,True,1672,True,True,l.moreau,High
+DA-0062,dataset-0062,KYC Documents,Retail Banking,True,Confidential,False,True,Canada,False,False,False,True,1181,True,True,a.tremblay,High
+DA-0063,dataset-0063,Customer PII,Retail Banking,True,Restricted,True,True,Canada,False,False,False,True,1874,True,True,s.okafor,Critical
+DA-0064,dataset-0064,Aggregated Reporting,Shared Technology,False,Internal,True,True,Canada,False,True,True,True,1196,True,True,a.tremblay,Medium
+DA-0065,dataset-0065,Reference Data,Commercial Banking,False,Internal,True,True,Canada,False,True,True,True,1796,True,True,d.singh,Medium
+DA-0066,dataset-0066,KYC Documents,Payments,True,Confidential,True,True,Canada,False,True,True,True,854,True,True,c.dubois,High
+DA-0067,dataset-0067,Transaction Records,Retail Banking,True,Confidential,True,True,Canada,False,False,False,True,1610,True,True,a.tremblay,High
+DA-0068,dataset-0068,Customer PII,Digital & AI,True,Confidential,True,True,Canada,False,True,True,True,2021,True,True,d.singh,High
+DA-0069,dataset-0069,Internal Documentation,Retail Banking,False,Internal,True,True,Canada,False,True,False,True,2481,True,True,l.moreau,Medium
+DA-0070,dataset-0070,Reference Data,Commercial Banking,False,Internal,True,False,Canada,False,True,True,True,1154,True,True,d.singh,Medium
+DA-0071,dataset-0071,Customer PII,Wealth Management,True,Restricted,True,False,Canada,False,True,True,True,1400,True,True,s.okafor,Critical
+DA-0072,dataset-0072,Customer PII,Wealth Management,True,Restricted,True,False,Canada,False,True,True,True,1408,True,True,t.gagnon,Critical
+DA-0073,dataset-0073,Transaction Records,Digital & AI,True,Confidential,True,False,Canada,False,True,True,True,2249,True,True,m.leblanc,High
+DA-0074,dataset-0074,Aggregated Reporting,Payments,False,Public,True,False,Canada,False,True,True,True,2473,True,True,k.anderson,Medium
+DA-0075,dataset-0075,Reference Data,Digital & AI,False,Internal,True,False,Canada,False,True,True,True,1780,True,True,k.anderson,Medium
+DA-0076,dataset-0076,Employee Records,Digital & AI,True,Restricted,True,False,Canada,False,True,True,True,2166,True,True,m.leblanc,Critical
+DA-0077,dataset-0077,KYC Documents,Commercial Banking,True,Confidential,True,False,Canada,False,True,True,True,549,True,True,r.patel,High
+DA-0078,dataset-0078,Employee Records,Digital & AI,True,Restricted,True,False,Canada,False,True,True,True,2028,True,True,a.tremblay,Critical
+DA-0079,dataset-0079,Aggregated Reporting,Payments,False,Public,True,False,Canada,False,True,True,True,2139,True,True,c.dubois,Medium
+DA-0080,dataset-0080,Reference Data,Wealth Management,False,Internal,True,False,Canada,False,True,True,True,1931,True,True,d.singh,Medium
+DA-0081,dataset-0081,Employee Records,Payments,True,Restricted,True,True,Canada,False,True,True,True,1645,True,True,j.nguyen,Critical
+DA-0082,dataset-0082,Credit Bureau Data,Retail Banking,True,Confidential,True,True,Canada,False,True,False,True,2335,True,True,k.anderson,High
+DA-0083,dataset-0083,Employee Records,Commercial Banking,True,Restricted,True,True,Canada,False,True,True,True,1796,True,True,b.oconnell,Critical
+DA-0084,dataset-0084,Aggregated Reporting,Shared Technology,False,Internal,True,True,Canada,False,True,True,True,2219,True,True,m.leblanc,Medium
+DA-0085,dataset-0085,Marketing Analytics,Retail Banking,False,Internal,True,True,Canada,False,True,False,True,759,True,True,j.nguyen,Medium
+DA-0086,dataset-0086,Employee Records,Payments,True,Confidential,True,True,Canada,False,True,True,True,1822,True,True,s.okafor,High
+DA-0087,dataset-0087,Credit Bureau Data,Retail Banking,True,Confidential,True,True,Canada,False,True,True,True,1323,True,True,k.anderson,High
+DA-0088,dataset-0088,Transaction Records,Payments,True,Restricted,True,True,Canada,False,True,True,True,2267,True,True,m.leblanc,Critical
+DA-0089,dataset-0089,Marketing Analytics,Digital & AI,False,Public,True,True,Canada,False,True,True,True,2294,True,True,t.gagnon,Medium
+DA-0090,dataset-0090,Internal Documentation,Payments,False,Internal,True,False,Canada,False,True,True,True,2214,True,True,j.nguyen,Medium
+DA-0091,dataset-0091,Employee Records,Commercial Banking,True,Confidential,True,False,Canada,False,True,True,True,837,True,True,l.moreau,High
+DA-0092,dataset-0092,Customer PII,Wealth Management,True,Confidential,True,False,Canada,False,True,True,True,1443,True,True,m.leblanc,High
+DA-0093,dataset-0093,Employee Records,Commercial Banking,True,Restricted,True,False,Canada,False,True,True,True,365,True,True,j.nguyen,Critical
+DA-0094,dataset-0094,Reference Data,Shared Technology,False,Internal,True,False,Canada,False,True,True,True,2511,True,True,m.leblanc,Medium
+DA-0095,dataset-0095,Aggregated Reporting,Wealth Management,False,Internal,True,False,Canada,False,True,True,True,929,True,True,k.anderson,Medium
+DA-0096,dataset-0096,Transaction Records,Wealth Management,True,Confidential,True,False,Canada,False,True,True,True,1733,True,True,a.tremblay,High
+DA-0097,dataset-0097,Customer PII,Retail Banking,True,Confidential,True,False,Canada,False,True,True,True,1433,True,True,a.tremblay,High
+DA-0098,dataset-0098,Transaction Records,Retail Banking,True,Restricted,True,False,Canada,False,True,True,True,2347,True,True,k.anderson,Critical
+DA-0099,dataset-0099,Reference Data,Wealth Management,False,Internal,True,False,Canada,False,True,True,True,2164,True,True,k.anderson,Medium
+DA-0100,dataset-0100,Reference Data,Wealth Management,False,Internal,True,False,Canada,False,True,True,True,2067,True,True,j.nguyen,Medium

@@ -1,0 +1,1501 @@
+identity_id,display_name,employee_type,department,business_unit,status,privileged,service_account,account_enabled,mfa_enabled,last_login_days,role_count,account_owner,access_review_completed,admin_used_daily,risk_level
+ID-00001,user00001,Employee,Technology,Digital & AI,Active,False,False,True,True,193,4,a.tremblay,True,False,Low
+ID-00002,user00002,Employee,Finance,Payments,Terminated,False,False,True,True,360,3,j.nguyen,True,False,Low
+ID-00003,user00003,Contractor,Retail Banking,Commercial Banking,Active,False,False,True,True,57,1,r.patel,True,False,Low
+ID-00004,user00004,Employee,Operations,Commercial Banking,Active,False,False,True,True,43,1,d.singh,True,False,Low
+ID-00005,user00005,Employee,Finance,Retail Banking,Active,True,False,True,False,179,9,UNASSIGNED,False,False,High
+ID-00006,user00006,ServiceAccount,Human Resources,Shared Technology,Active,False,True,True,True,328,2,h.romano,True,False,Medium
+ID-00007,user00007,Employee,Risk & Compliance,Wealth Management,Active,False,False,True,True,317,4,b.oconnell,True,False,Low
+ID-00008,user00008,Employee,Legal,Payments,Active,True,False,True,False,279,21,h.romano,True,True,High
+ID-00009,user00009,Employee,Retail Banking,Digital & AI,Active,True,False,True,True,225,13,a.tremblay,True,True,High
+ID-00010,user00010,Employee,Retail Banking,Retail Banking,Active,False,False,True,True,100,1,h.romano,True,False,Low
+ID-00011,user00011,Employee,Human Resources,Payments,Active,False,False,True,True,376,1,m.leblanc,True,False,Low
+ID-00012,user00012,Contractor,Finance,Wealth Management,Active,False,False,True,True,190,3,t.gagnon,True,False,Low
+ID-00013,user00013,Employee,Operations,Shared Technology,Active,False,False,True,True,311,4,b.oconnell,True,False,Low
+ID-00014,user00014,Contractor,Human Resources,Shared Technology,Active,False,False,True,True,242,4,s.okafor,True,False,Low
+ID-00015,user00015,Employee,Operations,Wealth Management,Disabled,False,False,True,True,242,6,s.okafor,True,False,Low
+ID-00016,user00016,Employee,Legal,Shared Technology,Active,False,False,True,True,348,6,d.singh,True,False,Low
+ID-00017,user00017,Employee,Operations,Digital & AI,Active,False,False,True,True,167,3,s.okafor,True,False,Low
+ID-00018,user00018,Employee,Retail Banking,Retail Banking,Terminated,True,False,False,False,51,9,UNASSIGNED,False,False,High
+ID-00019,user00019,Contractor,Legal,Shared Technology,Active,False,False,True,True,154,1,k.anderson,True,False,Low
+ID-00020,user00020,Employee,Technology,Payments,Active,False,False,True,True,113,6,k.anderson,True,False,Low
+ID-00021,user00021,Employee,Legal,Retail Banking,Active,False,False,True,True,131,3,t.gagnon,True,False,Low
+ID-00022,user00022,Employee,Finance,Retail Banking,Active,False,False,True,True,155,5,m.leblanc,True,False,Low
+ID-00023,user00023,ServiceAccount,Operations,Retail Banking,Active,False,True,True,True,64,3,k.anderson,True,False,Medium
+ID-00024,user00024,Contractor,Risk & Compliance,Payments,Active,False,False,True,True,354,5,b.oconnell,True,False,Low
+ID-00025,user00025,Employee,Risk & Compliance,Commercial Banking,Active,False,False,True,True,47,6,a.tremblay,True,False,Low
+ID-00026,user00026,Employee,Legal,Wealth Management,Active,False,False,True,True,126,1,m.leblanc,True,False,Low
+ID-00027,user00027,Employee,Legal,Digital & AI,Active,False,False,True,True,397,2,s.okafor,True,False,Low
+ID-00028,user00028,Employee,Customer Support,Retail Banking,Active,False,False,True,True,31,4,r.patel,True,False,Low
+ID-00029,user00029,Employee,Customer Support,Commercial Banking,Active,False,False,True,True,62,4,s.okafor,True,False,Low
+ID-00030,user00030,Employee,Operations,Commercial Banking,Active,False,False,True,True,65,1,m.leblanc,True,False,Low
+ID-00031,user00031,Employee,Human Resources,Commercial Banking,Active,False,False,True,True,17,5,t.gagnon,True,False,Low
+ID-00032,user00032,ServiceAccount,Customer Support,Shared Technology,Active,False,True,True,True,38,1,c.dubois,True,False,Medium
+ID-00033,user00033,Employee,Finance,Shared Technology,Active,False,False,True,True,25,6,r.patel,True,False,Low
+ID-00034,user00034,Employee,Human Resources,Commercial Banking,Active,False,False,True,True,39,1,c.dubois,True,False,Low
+ID-00035,user00035,Employee,Operations,Retail Banking,Active,False,False,True,True,28,3,b.oconnell,True,False,Low
+ID-00036,user00036,Employee,Retail Banking,Digital & AI,Active,False,False,True,True,368,5,c.dubois,True,False,Low
+ID-00037,user00037,Employee,Retail Banking,Digital & AI,Active,False,False,True,True,269,4,c.dubois,True,False,Low
+ID-00038,user00038,Employee,Human Resources,Shared Technology,Active,True,False,True,True,48,24,UNASSIGNED,True,False,High
+ID-00039,user00039,Employee,Operations,Retail Banking,Active,False,False,True,True,35,5,a.tremblay,True,False,Low
+ID-00040,user00040,Employee,Retail Banking,Retail Banking,Active,False,False,True,True,8,6,c.dubois,True,False,Low
+ID-00041,user00041,Employee,Finance,Digital & AI,Active,False,False,True,True,233,3,d.singh,True,False,Low
+ID-00042,user00042,Contractor,Operations,Retail Banking,Active,False,False,True,True,36,6,k.anderson,True,False,Low
+ID-00043,user00043,Employee,Finance,Digital & AI,Active,False,False,True,True,49,4,t.gagnon,True,False,Low
+ID-00044,user00044,Employee,Risk & Compliance,Digital & AI,Active,False,False,True,True,19,6,t.gagnon,True,False,Low
+ID-00045,user00045,Contractor,Legal,Retail Banking,Active,False,False,True,True,56,5,r.patel,True,False,Low
+ID-00046,user00046,Contractor,Retail Banking,Wealth Management,Active,False,False,True,True,234,1,h.romano,True,False,Low
+ID-00047,user00047,Employee,Legal,Wealth Management,Active,False,False,True,True,305,4,m.leblanc,True,False,Low
+ID-00048,user00048,Employee,Legal,Retail Banking,Active,False,False,True,True,40,6,m.leblanc,True,False,Low
+ID-00049,user00049,Employee,Finance,Shared Technology,Active,False,False,True,True,13,1,b.oconnell,True,False,Low
+ID-00050,user00050,Employee,Risk & Compliance,Wealth Management,Active,False,False,True,True,188,6,a.tremblay,True,False,Low
+ID-00051,user00051,Employee,Risk & Compliance,Digital & AI,Active,False,False,True,True,9,1,r.patel,True,False,Low
+ID-00052,user00052,Employee,Retail Banking,Shared Technology,Active,True,False,True,True,21,20,UNASSIGNED,True,False,High
+ID-00053,user00053,Employee,Human Resources,Payments,Active,False,False,True,True,108,5,r.patel,True,False,Low
+ID-00054,user00054,Employee,Retail Banking,Shared Technology,Active,False,False,True,True,75,1,t.gagnon,True,False,Low
+ID-00055,user00055,Employee,Finance,Retail Banking,Active,False,False,True,True,16,5,j.nguyen,True,False,Low
+ID-00056,user00056,Employee,Risk & Compliance,Wealth Management,Active,False,False,True,True,192,1,k.anderson,True,False,Low
+ID-00057,user00057,Employee,Technology,Payments,Disabled,False,False,True,True,14,4,s.okafor,True,False,Low
+ID-00058,user00058,Employee,Operations,Wealth Management,Active,False,False,True,True,236,6,m.leblanc,True,False,Low
+ID-00059,user00059,Employee,Risk & Compliance,Commercial Banking,Active,False,False,True,True,15,2,m.leblanc,True,False,Low
+ID-00060,user00060,Employee,Customer Support,Retail Banking,Active,False,False,True,True,24,2,d.singh,True,False,Low
+ID-00061,user00061,Employee,Operations,Commercial Banking,Terminated,False,False,True,True,73,3,m.leblanc,True,False,Low
+ID-00062,user00062,Employee,Retail Banking,Retail Banking,Active,False,False,True,True,28,3,d.singh,True,False,Low
+ID-00063,user00063,Employee,Finance,Wealth Management,Disabled,False,False,True,True,48,1,r.patel,True,False,Low
+ID-00064,user00064,Employee,Retail Banking,Digital & AI,Disabled,False,False,False,True,52,3,k.anderson,True,False,Low
+ID-00065,user00065,Employee,Risk & Compliance,Commercial Banking,Active,False,False,True,True,9,2,t.gagnon,True,False,Low
+ID-00066,user00066,Employee,Risk & Compliance,Shared Technology,Active,False,False,True,True,18,1,t.gagnon,True,False,Low
+ID-00067,user00067,Employee,Operations,Commercial Banking,Active,False,False,True,True,31,2,a.tremblay,True,False,Low
+ID-00068,user00068,Employee,Finance,Digital & AI,Active,False,False,True,True,34,1,h.romano,True,False,Low
+ID-00069,user00069,Employee,Risk & Compliance,Commercial Banking,Active,False,False,True,True,1,6,b.oconnell,True,False,Low
+ID-00070,user00070,Employee,Customer Support,Shared Technology,Active,False,False,True,True,49,6,d.singh,True,False,Low
+ID-00071,user00071,Employee,Finance,Retail Banking,Active,True,False,True,False,22,3,UNASSIGNED,False,False,High
+ID-00072,user00072,Employee,Risk & Compliance,Digital & AI,Active,False,False,True,True,24,6,l.moreau,True,False,Low
+ID-00073,user00073,Contractor,Finance,Digital & AI,Active,False,False,True,True,45,3,l.moreau,True,False,Low
+ID-00074,user00074,Employee,Retail Banking,Shared Technology,Active,False,False,True,True,72,6,l.moreau,True,False,Low
+ID-00075,user00075,Employee,Customer Support,Shared Technology,Active,False,False,True,True,65,2,c.dubois,True,False,Low
+ID-00076,user00076,Employee,Customer Support,Wealth Management,Active,False,False,True,True,74,2,k.anderson,True,False,Low
+ID-00077,user00077,Employee,Customer Support,Payments,Active,False,False,True,True,31,5,l.moreau,True,False,Low
+ID-00078,user00078,Employee,Human Resources,Payments,Active,False,False,True,True,9,2,c.dubois,True,False,Low
+ID-00079,user00079,Employee,Technology,Commercial Banking,Terminated,False,False,True,True,16,5,h.romano,True,False,Low
+ID-00080,user00080,Employee,Human Resources,Shared Technology,Active,False,False,True,True,26,3,d.singh,True,False,Low
+ID-00081,user00081,Employee,Operations,Wealth Management,Disabled,False,False,True,True,22,3,j.nguyen,True,False,Low
+ID-00082,user00082,Employee,Operations,Digital & AI,Active,True,False,True,True,15,16,l.moreau,True,True,High
+ID-00083,user00083,Contractor,Human Resources,Wealth Management,Active,False,False,True,True,11,5,h.romano,True,False,Low
+ID-00084,user00084,Employee,Operations,Wealth Management,Active,False,False,True,True,14,1,c.dubois,True,False,Low
+ID-00085,user00085,Employee,Finance,Retail Banking,Active,False,False,True,True,50,5,d.singh,True,False,Low
+ID-00086,user00086,Employee,Customer Support,Wealth Management,Disabled,False,False,True,True,37,5,s.okafor,True,False,Low
+ID-00087,user00087,Employee,Customer Support,Retail Banking,Active,False,False,True,True,2,5,r.patel,True,False,Low
+ID-00088,user00088,Employee,Risk & Compliance,Retail Banking,Active,False,False,True,True,42,6,d.singh,True,False,Low
+ID-00089,user00089,Employee,Technology,Retail Banking,Active,False,False,True,True,64,5,t.gagnon,True,False,Low
+ID-00090,user00090,Employee,Customer Support,Shared Technology,Active,False,False,True,True,32,4,l.moreau,True,False,Low
+ID-00091,user00091,Employee,Technology,Retail Banking,Active,False,False,True,True,24,3,l.moreau,True,False,Low
+ID-00092,user00092,Employee,Risk & Compliance,Commercial Banking,Active,False,False,True,True,20,3,r.patel,True,False,Low
+ID-00093,user00093,Employee,Risk & Compliance,Retail Banking,Terminated,False,False,False,True,28,5,d.singh,True,False,Low
+ID-00094,user00094,Employee,Human Resources,Commercial Banking,Active,False,False,True,True,21,3,r.patel,True,False,Low
+ID-00095,user00095,Employee,Legal,Retail Banking,Active,False,False,True,True,70,4,a.tremblay,True,False,Low
+ID-00096,user00096,Employee,Technology,Retail Banking,Active,True,False,True,False,75,4,m.leblanc,False,False,High
+ID-00097,user00097,Employee,Finance,Digital & AI,Active,True,False,True,True,26,13,l.moreau,True,True,High
+ID-00098,user00098,Employee,Risk & Compliance,Wealth Management,Active,False,False,True,True,70,2,b.oconnell,True,False,Low
+ID-00099,user00099,Employee,Legal,Commercial Banking,Active,False,False,True,True,64,3,c.dubois,True,False,Low
+ID-00100,user00100,ServiceAccount,Technology,Commercial Banking,Active,False,True,True,True,5,1,t.gagnon,True,False,Medium
+ID-00101,user00101,Contractor,Retail Banking,Retail Banking,Disabled,False,False,False,True,37,5,h.romano,True,False,Low
+ID-00102,user00102,Employee,Retail Banking,Payments,Active,False,False,True,True,49,3,k.anderson,True,False,Low
+ID-00103,user00103,Employee,Operations,Payments,Active,False,False,True,True,32,1,h.romano,True,False,Low
+ID-00104,user00104,ServiceAccount,Customer Support,Wealth Management,Active,False,True,True,True,34,5,r.patel,True,False,Medium
+ID-00105,user00105,Employee,Operations,Digital & AI,Active,False,False,True,True,37,1,c.dubois,True,False,Low
+ID-00106,user00106,Employee,Retail Banking,Commercial Banking,Active,False,False,True,True,52,6,d.singh,True,False,Low
+ID-00107,user00107,Employee,Human Resources,Digital & AI,Terminated,False,False,False,True,22,5,l.moreau,True,False,Low
+ID-00108,user00108,Employee,Retail Banking,Commercial Banking,Active,False,False,True,True,45,2,k.anderson,True,False,Low
+ID-00109,user00109,Employee,Finance,Retail Banking,Active,False,False,True,True,18,2,c.dubois,True,False,Low
+ID-00110,user00110,Contractor,Legal,Wealth Management,Active,False,False,True,True,67,1,b.oconnell,True,False,Low
+ID-00111,user00111,Employee,Operations,Payments,Active,False,False,True,True,6,3,a.tremblay,True,False,Low
+ID-00112,user00112,Employee,Human Resources,Retail Banking,Active,False,False,True,True,5,1,a.tremblay,True,False,Low
+ID-00113,user00113,Employee,Human Resources,Retail Banking,Active,False,False,True,True,2,6,c.dubois,True,False,Low
+ID-00114,user00114,Employee,Risk & Compliance,Digital & AI,Active,False,False,True,True,26,1,a.tremblay,True,False,Low
+ID-00115,user00115,Employee,Finance,Payments,Active,False,False,True,True,46,4,r.patel,True,False,Low
+ID-00116,user00116,Contractor,Legal,Shared Technology,Active,False,False,True,True,74,4,k.anderson,True,False,Low
+ID-00117,user00117,Employee,Customer Support,Digital & AI,Active,False,False,True,True,34,2,r.patel,True,False,Low
+ID-00118,user00118,Employee,Retail Banking,Retail Banking,Active,False,False,True,True,13,5,m.leblanc,True,False,Low
+ID-00119,user00119,Employee,Human Resources,Digital & AI,Terminated,False,False,False,True,27,1,j.nguyen,True,False,Low
+ID-00120,user00120,Employee,Human Resources,Retail Banking,Active,False,False,True,True,9,6,l.moreau,True,False,Low
+ID-00121,user00121,Employee,Human Resources,Payments,Active,False,False,True,True,35,5,b.oconnell,True,False,Low
+ID-00122,user00122,Employee,Technology,Digital & AI,Active,False,False,True,True,55,4,h.romano,True,False,Low
+ID-00123,user00123,Employee,Customer Support,Wealth Management,Active,False,False,True,True,2,6,k.anderson,True,False,Low
+ID-00124,user00124,Employee,Operations,Payments,Active,False,False,True,True,59,3,s.okafor,True,False,Low
+ID-00125,user00125,Employee,Finance,Commercial Banking,Active,False,False,True,True,17,2,m.leblanc,True,False,Low
+ID-00126,user00126,Employee,Operations,Wealth Management,Active,False,False,True,True,51,1,c.dubois,True,False,Low
+ID-00127,user00127,Employee,Finance,Digital & AI,Active,False,False,True,True,61,6,m.leblanc,True,False,Low
+ID-00128,user00128,Employee,Finance,Payments,Active,True,False,True,False,58,24,d.singh,True,True,High
+ID-00129,user00129,Employee,Customer Support,Shared Technology,Active,False,False,True,True,50,5,r.patel,True,False,Low
+ID-00130,user00130,Employee,Risk & Compliance,Payments,Active,False,False,True,True,52,2,t.gagnon,True,False,Low
+ID-00131,user00131,Employee,Retail Banking,Payments,Active,False,False,True,True,14,6,j.nguyen,True,False,Low
+ID-00132,user00132,Contractor,Technology,Payments,Active,False,False,True,True,10,6,c.dubois,True,False,Low
+ID-00133,user00133,Employee,Human Resources,Shared Technology,Active,True,False,True,True,28,26,UNASSIGNED,True,False,High
+ID-00134,user00134,Employee,Customer Support,Digital & AI,Active,True,False,True,True,46,23,m.leblanc,True,True,High
+ID-00135,user00135,Employee,Risk & Compliance,Digital & AI,Terminated,False,False,False,True,46,5,h.romano,True,False,Low
+ID-00136,user00136,Employee,Technology,Retail Banking,Active,False,False,True,True,59,2,l.moreau,True,False,Low
+ID-00137,user00137,ServiceAccount,Finance,Wealth Management,Active,False,True,True,True,23,1,l.moreau,True,False,Medium
+ID-00138,user00138,Employee,Finance,Payments,Disabled,True,False,True,False,65,21,c.dubois,True,True,High
+ID-00139,user00139,Employee,Finance,Retail Banking,Active,False,False,True,True,34,4,b.oconnell,True,False,Low
+ID-00140,user00140,Employee,Legal,Payments,Active,False,False,True,True,18,1,h.romano,True,False,Low
+ID-00141,user00141,Employee,Operations,Wealth Management,Active,False,False,True,True,55,3,m.leblanc,True,False,Low
+ID-00142,user00142,Employee,Customer Support,Wealth Management,Active,False,False,True,True,9,6,k.anderson,True,False,Low
+ID-00143,user00143,ServiceAccount,Legal,Payments,Active,False,True,True,True,30,6,t.gagnon,True,False,Medium
+ID-00144,user00144,Employee,Legal,Retail Banking,Active,True,False,True,False,59,10,j.nguyen,False,False,High
+ID-00145,user00145,Employee,Operations,Payments,Active,False,False,True,True,58,3,k.anderson,True,False,Low
+ID-00146,user00146,Employee,Retail Banking,Wealth Management,Active,False,False,True,True,19,1,h.romano,True,False,Low
+ID-00147,user00147,Employee,Retail Banking,Commercial Banking,Active,False,False,True,True,12,1,j.nguyen,True,False,Low
+ID-00148,user00148,Employee,Finance,Retail Banking,Active,False,False,True,True,2,2,k.anderson,True,False,Low
+ID-00149,user00149,Employee,Human Resources,Payments,Disabled,False,False,True,True,6,1,k.anderson,True,False,Low
+ID-00150,user00150,Employee,Risk & Compliance,Shared Technology,Active,False,False,True,True,62,5,m.leblanc,True,False,Low
+ID-00151,user00151,Contractor,Operations,Shared Technology,Active,True,False,True,True,59,23,UNASSIGNED,True,False,High
+ID-00152,user00152,Contractor,Risk & Compliance,Commercial Banking,Active,False,False,True,True,38,4,k.anderson,True,False,Low
+ID-00153,user00153,Employee,Customer Support,Shared Technology,Active,False,False,True,True,43,5,m.leblanc,True,False,Low
+ID-00154,user00154,Employee,Finance,Wealth Management,Active,True,False,True,False,24,10,b.oconnell,False,True,High
+ID-00155,user00155,Employee,Customer Support,Shared Technology,Terminated,False,False,False,True,14,4,k.anderson,True,False,Low
+ID-00156,user00156,Employee,Human Resources,Digital & AI,Active,False,False,True,True,0,3,d.singh,True,False,Low
+ID-00157,user00157,Employee,Customer Support,Shared Technology,Active,True,False,True,True,51,10,UNASSIGNED,True,False,High
+ID-00158,user00158,Employee,Risk & Compliance,Wealth Management,Active,True,False,True,False,2,6,j.nguyen,False,True,High
+ID-00159,user00159,Employee,Finance,Payments,Active,False,False,True,True,7,1,c.dubois,True,False,Low
+ID-00160,user00160,Employee,Customer Support,Shared Technology,Active,False,False,True,True,60,6,d.singh,True,False,Low
+ID-00161,user00161,Employee,Human Resources,Commercial Banking,Active,False,False,True,True,44,1,r.patel,True,False,Low
+ID-00162,user00162,Contractor,Retail Banking,Commercial Banking,Active,False,False,True,True,37,2,j.nguyen,True,False,Low
+ID-00163,user00163,Employee,Risk & Compliance,Wealth Management,Active,False,False,True,True,16,2,s.okafor,True,False,Low
+ID-00164,user00164,Employee,Risk & Compliance,Commercial Banking,Active,False,False,True,True,11,1,k.anderson,True,False,Low
+ID-00165,user00165,Employee,Finance,Shared Technology,Disabled,False,False,False,True,35,1,d.singh,True,False,Low
+ID-00166,user00166,Employee,Operations,Wealth Management,Active,False,False,True,True,27,4,k.anderson,True,False,Low
+ID-00167,user00167,Contractor,Human Resources,Shared Technology,Active,True,False,True,True,40,9,UNASSIGNED,True,False,High
+ID-00168,user00168,Contractor,Legal,Shared Technology,Active,False,False,True,True,12,1,m.leblanc,True,False,Low
+ID-00169,user00169,Employee,Operations,Wealth Management,Active,True,False,True,False,17,8,r.patel,False,True,High
+ID-00170,user00170,ServiceAccount,Retail Banking,Retail Banking,Active,False,True,True,True,8,3,r.patel,True,False,Medium
+ID-00171,user00171,Employee,Legal,Wealth Management,Active,False,False,True,True,32,5,m.leblanc,True,False,Low
+ID-00172,user00172,Employee,Technology,Shared Technology,Active,False,False,True,True,20,5,b.oconnell,True,False,Low
+ID-00173,user00173,Employee,Operations,Commercial Banking,Active,False,False,True,True,16,4,j.nguyen,True,False,Low
+ID-00174,user00174,ServiceAccount,Finance,Commercial Banking,Active,False,True,True,True,41,5,j.nguyen,True,False,Medium
+ID-00175,user00175,Employee,Technology,Shared Technology,Active,False,False,True,True,37,1,l.moreau,True,False,Low
+ID-00176,user00176,Employee,Customer Support,Payments,Disabled,True,False,True,False,15,19,h.romano,True,False,High
+ID-00177,user00177,Employee,Operations,Payments,Active,False,False,True,True,53,6,c.dubois,True,False,Low
+ID-00178,user00178,ServiceAccount,Legal,Payments,Active,False,True,True,True,26,6,d.singh,True,False,Medium
+ID-00179,user00179,Contractor,Legal,Digital & AI,Active,True,False,True,True,25,19,s.okafor,True,False,High
+ID-00180,user00180,Employee,Legal,Shared Technology,Active,False,False,True,True,36,5,k.anderson,True,False,Low
+ID-00181,user00181,Contractor,Customer Support,Shared Technology,Active,False,False,True,True,10,5,a.tremblay,True,False,Low
+ID-00182,user00182,Contractor,Customer Support,Retail Banking,Active,False,False,True,True,31,1,s.okafor,True,False,Low
+ID-00183,user00183,Employee,Risk & Compliance,Retail Banking,Active,False,False,True,True,44,1,l.moreau,True,False,Low
+ID-00184,user00184,Employee,Legal,Commercial Banking,Active,False,False,True,True,9,1,m.leblanc,True,False,Low
+ID-00185,user00185,Employee,Finance,Retail Banking,Active,True,False,True,False,42,11,a.tremblay,False,False,High
+ID-00186,user00186,Employee,Customer Support,Payments,Active,True,False,True,False,2,16,m.leblanc,True,False,High
+ID-00187,user00187,Employee,Technology,Payments,Active,False,False,True,True,45,1,h.romano,True,False,Low
+ID-00188,user00188,Employee,Operations,Shared Technology,Active,False,False,True,True,2,4,l.moreau,True,False,Low
+ID-00189,user00189,Employee,Operations,Payments,Active,False,False,True,True,13,2,r.patel,True,False,Low
+ID-00190,user00190,Employee,Risk & Compliance,Retail Banking,Active,False,False,True,True,26,6,b.oconnell,True,False,Low
+ID-00191,user00191,ServiceAccount,Human Resources,Digital & AI,Active,False,True,True,True,46,3,r.patel,True,False,Medium
+ID-00192,user00192,Employee,Finance,Commercial Banking,Disabled,True,False,True,False,54,11,t.gagnon,False,True,High
+ID-00193,user00193,Employee,Risk & Compliance,Payments,Active,False,False,True,True,35,3,r.patel,True,False,Low
+ID-00194,user00194,Contractor,Technology,Retail Banking,Active,False,False,True,True,9,1,a.tremblay,True,False,Low
+ID-00195,user00195,Employee,Finance,Wealth Management,Active,False,False,True,True,29,1,s.okafor,True,False,Low
+ID-00196,user00196,Employee,Retail Banking,Digital & AI,Active,False,False,True,True,59,4,j.nguyen,True,False,Low
+ID-00197,user00197,Employee,Risk & Compliance,Retail Banking,Active,False,False,True,True,6,1,m.leblanc,True,False,Low
+ID-00198,user00198,Contractor,Technology,Payments,Active,True,False,True,True,54,14,s.okafor,True,False,High
+ID-00199,user00199,Employee,Retail Banking,Wealth Management,Terminated,False,False,True,True,29,3,r.patel,True,False,Low
+ID-00200,user00200,Employee,Legal,Shared Technology,Active,False,False,True,True,0,1,b.oconnell,True,False,Low
+ID-00201,user00201,Employee,Operations,Payments,Disabled,False,False,True,True,52,4,m.leblanc,True,False,Low
+ID-00202,user00202,ServiceAccount,Legal,Digital & AI,Active,False,True,True,True,2,7,m.leblanc,True,False,Medium
+ID-00203,user00203,Employee,Human Resources,Wealth Management,Active,False,False,True,True,28,5,b.oconnell,True,False,Low
+ID-00204,user00204,Employee,Operations,Commercial Banking,Active,False,False,True,True,14,2,m.leblanc,True,False,Low
+ID-00205,user00205,Employee,Risk & Compliance,Wealth Management,Active,False,False,True,True,44,4,h.romano,True,False,Low
+ID-00206,user00206,Employee,Customer Support,Shared Technology,Terminated,False,False,False,True,4,6,l.moreau,True,False,Low
+ID-00207,user00207,Employee,Retail Banking,Wealth Management,Active,True,False,True,False,6,5,b.oconnell,True,True,High
+ID-00208,user00208,Employee,Retail Banking,Shared Technology,Active,True,False,True,True,40,8,UNASSIGNED,True,False,High
+ID-00209,user00209,Employee,Operations,Retail Banking,Active,True,False,True,False,75,5,l.moreau,True,False,High
+ID-00210,user00210,Employee,Technology,Digital & AI,Active,True,False,True,True,3,8,m.leblanc,True,False,High
+ID-00211,user00211,Employee,Finance,Shared Technology,Active,False,False,True,True,35,6,k.anderson,True,False,Low
+ID-00212,user00212,Employee,Operations,Shared Technology,Active,False,False,True,True,61,6,d.singh,True,False,Low
+ID-00213,user00213,Employee,Human Resources,Wealth Management,Terminated,False,False,True,True,22,2,b.oconnell,True,False,Low
+ID-00214,user00214,Contractor,Technology,Commercial Banking,Disabled,False,False,True,True,37,6,s.okafor,True,False,Low
+ID-00215,user00215,Employee,Technology,Shared Technology,Active,False,False,True,True,63,1,s.okafor,True,False,Low
+ID-00216,user00216,Employee,Operations,Commercial Banking,Active,False,False,True,True,55,1,a.tremblay,True,False,Low
+ID-00217,user00217,Employee,Risk & Compliance,Commercial Banking,Active,False,False,True,True,22,1,h.romano,True,False,Low
+ID-00218,user00218,Employee,Technology,Wealth Management,Active,True,False,True,False,57,3,a.tremblay,True,True,High
+ID-00219,user00219,Contractor,Technology,Shared Technology,Active,False,False,True,True,51,6,t.gagnon,True,False,Low
+ID-00220,user00220,Employee,Finance,Shared Technology,Active,False,False,True,True,38,4,r.patel,True,False,Low
+ID-00221,user00221,Employee,Operations,Retail Banking,Active,False,False,True,True,33,4,j.nguyen,True,False,Low
+ID-00222,user00222,Employee,Technology,Shared Technology,Active,False,False,True,True,70,1,b.oconnell,True,False,Low
+ID-00223,user00223,Employee,Human Resources,Shared Technology,Active,False,False,True,True,66,4,d.singh,True,False,Low
+ID-00224,user00224,ServiceAccount,Legal,Retail Banking,Active,False,True,True,True,75,1,k.anderson,True,False,Medium
+ID-00225,user00225,Employee,Operations,Wealth Management,Active,True,False,True,False,51,2,t.gagnon,True,True,High
+ID-00226,user00226,Contractor,Finance,Shared Technology,Active,False,False,True,True,27,2,h.romano,True,False,Low
+ID-00227,user00227,Employee,Finance,Payments,Active,False,False,True,True,8,2,l.moreau,True,False,Low
+ID-00228,user00228,Employee,Operations,Digital & AI,Active,False,False,True,True,9,6,j.nguyen,True,False,Low
+ID-00229,user00229,Employee,Retail Banking,Shared Technology,Active,False,False,True,True,72,4,b.oconnell,True,False,Low
+ID-00230,user00230,Employee,Risk & Compliance,Shared Technology,Active,False,False,True,True,27,3,d.singh,True,False,Low
+ID-00231,user00231,Employee,Operations,Commercial Banking,Terminated,False,False,True,True,8,1,b.oconnell,True,False,Low
+ID-00232,user00232,Employee,Operations,Payments,Active,True,False,True,True,16,21,b.oconnell,True,False,High
+ID-00233,user00233,ServiceAccount,Operations,Digital & AI,Active,False,True,True,True,1,2,k.anderson,True,False,Medium
+ID-00234,user00234,Employee,Risk & Compliance,Shared Technology,Active,True,False,True,True,40,3,r.patel,True,False,High
+ID-00235,user00235,ServiceAccount,Customer Support,Retail Banking,Active,False,True,True,True,44,3,b.oconnell,True,False,Medium
+ID-00236,user00236,Contractor,Finance,Payments,Active,True,False,True,True,28,14,b.oconnell,True,False,High
+ID-00237,user00237,Employee,Retail Banking,Shared Technology,Disabled,False,False,False,True,56,4,s.okafor,True,False,Low
+ID-00238,user00238,Employee,Customer Support,Digital & AI,Active,False,False,True,True,36,6,l.moreau,True,False,Low
+ID-00239,user00239,Employee,Customer Support,Retail Banking,Active,False,False,True,True,72,3,l.moreau,True,False,Low
+ID-00240,user00240,Employee,Risk & Compliance,Shared Technology,Active,False,False,True,True,58,1,d.singh,True,False,Low
+ID-00241,user00241,Contractor,Risk & Compliance,Shared Technology,Active,False,False,True,True,5,2,b.oconnell,True,False,Low
+ID-00242,user00242,Employee,Customer Support,Payments,Active,False,False,True,True,20,1,j.nguyen,True,False,Low
+ID-00243,user00243,Employee,Retail Banking,Commercial Banking,Active,False,False,True,True,57,4,b.oconnell,True,False,Low
+ID-00244,user00244,Employee,Risk & Compliance,Payments,Terminated,False,False,True,True,40,3,l.moreau,True,False,Low
+ID-00245,user00245,Employee,Operations,Wealth Management,Active,True,False,True,True,57,9,a.tremblay,True,True,High
+ID-00246,user00246,Contractor,Retail Banking,Wealth Management,Active,False,False,True,True,25,5,k.anderson,True,False,Low
+ID-00247,user00247,Employee,Finance,Digital & AI,Active,False,False,True,True,2,2,s.okafor,True,False,Low
+ID-00248,user00248,Employee,Operations,Retail Banking,Active,False,False,True,True,59,3,b.oconnell,True,False,Low
+ID-00249,user00249,Employee,Technology,Commercial Banking,Active,False,False,True,True,59,6,h.romano,True,False,Low
+ID-00250,user00250,Employee,Technology,Wealth Management,Active,False,False,True,True,48,1,t.gagnon,True,False,Low
+ID-00251,user00251,Employee,Retail Banking,Commercial Banking,Active,False,False,True,True,30,2,l.moreau,True,False,Low
+ID-00252,user00252,Contractor,Risk & Compliance,Commercial Banking,Active,False,False,True,True,0,2,r.patel,True,False,Low
+ID-00253,user00253,Employee,Legal,Wealth Management,Disabled,False,False,True,True,55,4,c.dubois,True,False,Low
+ID-00254,user00254,Employee,Finance,Wealth Management,Active,False,False,True,True,50,2,b.oconnell,True,False,Low
+ID-00255,user00255,Employee,Legal,Payments,Active,True,False,True,True,50,24,s.okafor,True,False,High
+ID-00256,user00256,Employee,Operations,Commercial Banking,Active,False,False,True,True,12,1,t.gagnon,True,False,Low
+ID-00257,user00257,Contractor,Customer Support,Commercial Banking,Active,True,False,True,False,55,6,c.dubois,False,True,High
+ID-00258,user00258,Employee,Customer Support,Wealth Management,Terminated,False,False,True,True,55,4,l.moreau,True,False,Low
+ID-00259,user00259,Employee,Legal,Retail Banking,Disabled,False,False,False,True,65,1,d.singh,True,False,Low
+ID-00260,user00260,Employee,Finance,Shared Technology,Disabled,True,False,False,True,43,4,a.tremblay,True,False,High
+ID-00261,user00261,Employee,Legal,Retail Banking,Active,True,False,True,False,55,5,s.okafor,True,False,High
+ID-00262,user00262,Contractor,Finance,Wealth Management,Active,False,False,True,True,30,2,s.okafor,True,False,Low
+ID-00263,user00263,Employee,Legal,Wealth Management,Active,True,False,True,True,52,3,h.romano,True,False,High
+ID-00264,user00264,Employee,Customer Support,Wealth Management,Active,False,False,True,True,52,4,a.tremblay,True,False,Low
+ID-00265,user00265,Contractor,Retail Banking,Payments,Active,False,False,True,True,59,2,l.moreau,True,False,Low
+ID-00266,user00266,Employee,Retail Banking,Commercial Banking,Active,False,False,True,True,65,5,s.okafor,True,False,Low
+ID-00267,user00267,Employee,Finance,Retail Banking,Terminated,False,False,False,True,0,2,h.romano,True,False,Low
+ID-00268,user00268,Employee,Human Resources,Digital & AI,Active,False,False,True,True,59,2,b.oconnell,True,False,Low
+ID-00269,user00269,Employee,Customer Support,Shared Technology,Active,False,False,True,True,60,2,r.patel,True,False,Low
+ID-00270,user00270,Employee,Legal,Digital & AI,Active,False,False,True,True,41,2,m.leblanc,True,False,Low
+ID-00271,user00271,Employee,Customer Support,Retail Banking,Active,False,False,True,True,39,6,c.dubois,True,False,Low
+ID-00272,user00272,Employee,Legal,Shared Technology,Active,False,False,True,True,54,2,d.singh,True,False,Low
+ID-00273,user00273,Employee,Legal,Commercial Banking,Active,False,False,True,True,34,2,d.singh,True,False,Low
+ID-00274,user00274,Employee,Retail Banking,Wealth Management,Disabled,False,False,True,True,31,6,l.moreau,True,False,Low
+ID-00275,user00275,Employee,Customer Support,Retail Banking,Active,False,False,True,True,61,4,k.anderson,True,False,Low
+ID-00276,user00276,Employee,Operations,Payments,Active,False,False,True,True,59,2,l.moreau,True,False,Low
+ID-00277,user00277,Employee,Human Resources,Retail Banking,Active,False,False,True,True,15,6,m.leblanc,True,False,Low
+ID-00278,user00278,Employee,Risk & Compliance,Shared Technology,Active,False,False,True,True,63,2,m.leblanc,True,False,Low
+ID-00279,user00279,Contractor,Retail Banking,Digital & AI,Active,False,False,True,True,24,1,b.oconnell,True,False,Low
+ID-00280,user00280,Contractor,Customer Support,Wealth Management,Active,True,False,True,True,10,4,k.anderson,True,False,High
+ID-00281,user00281,Employee,Operations,Retail Banking,Active,False,False,True,True,66,5,t.gagnon,True,False,Low
+ID-00282,user00282,Employee,Risk & Compliance,Payments,Active,True,False,True,True,18,18,l.moreau,True,False,High
+ID-00283,user00283,Employee,Retail Banking,Digital & AI,Active,False,False,True,True,15,5,c.dubois,True,False,Low
+ID-00284,user00284,Employee,Operations,Digital & AI,Active,True,False,True,True,20,2,k.anderson,True,False,High
+ID-00285,user00285,Employee,Legal,Digital & AI,Active,False,False,True,True,37,5,d.singh,True,False,Low
+ID-00286,user00286,Employee,Finance,Shared Technology,Active,False,False,True,True,12,1,m.leblanc,True,False,Low
+ID-00287,user00287,Employee,Human Resources,Payments,Active,False,False,True,True,12,3,c.dubois,True,False,Low
+ID-00288,user00288,Employee,Technology,Wealth Management,Active,False,False,True,True,29,4,d.singh,True,False,Low
+ID-00289,user00289,Employee,Technology,Wealth Management,Active,True,False,True,True,16,5,s.okafor,True,False,High
+ID-00290,user00290,Employee,Technology,Payments,Active,False,False,True,True,14,4,a.tremblay,True,False,Low
+ID-00291,user00291,Contractor,Finance,Wealth Management,Active,False,False,True,True,69,5,s.okafor,True,False,Low
+ID-00292,user00292,Employee,Finance,Commercial Banking,Active,False,False,True,True,45,4,l.moreau,True,False,Low
+ID-00293,user00293,Contractor,Human Resources,Digital & AI,Active,False,False,True,True,1,3,m.leblanc,True,False,Low
+ID-00294,user00294,Employee,Legal,Wealth Management,Active,False,False,True,True,7,5,c.dubois,True,False,Low
+ID-00295,user00295,Contractor,Risk & Compliance,Digital & AI,Disabled,False,False,False,True,61,5,s.okafor,True,False,Low
+ID-00296,user00296,Contractor,Finance,Digital & AI,Active,False,False,True,True,20,2,j.nguyen,True,False,Low
+ID-00297,user00297,ServiceAccount,Human Resources,Commercial Banking,Active,False,True,True,True,11,3,a.tremblay,True,False,Medium
+ID-00298,user00298,Contractor,Risk & Compliance,Shared Technology,Active,False,False,True,True,50,6,h.romano,True,False,Low
+ID-00299,user00299,Employee,Risk & Compliance,Commercial Banking,Active,False,False,True,True,63,5,c.dubois,True,False,Low
+ID-00300,user00300,Employee,Legal,Wealth Management,Active,True,False,True,True,30,6,m.leblanc,True,False,High
+ID-00301,user00301,Employee,Retail Banking,Shared Technology,Active,False,False,True,True,56,5,k.anderson,True,False,Low
+ID-00302,user00302,Employee,Operations,Payments,Active,False,False,True,True,32,5,b.oconnell,True,False,Low
+ID-00303,user00303,Employee,Human Resources,Commercial Banking,Active,False,False,True,True,8,2,h.romano,True,False,Low
+ID-00304,user00304,Employee,Risk & Compliance,Digital & AI,Active,False,False,True,True,60,5,t.gagnon,True,False,Low
+ID-00305,user00305,Contractor,Customer Support,Digital & AI,Active,False,False,True,True,69,2,r.patel,True,False,Low
+ID-00306,user00306,Employee,Customer Support,Retail Banking,Active,True,False,True,False,74,3,r.patel,True,False,High
+ID-00307,user00307,Employee,Human Resources,Wealth Management,Active,True,False,True,True,7,8,j.nguyen,True,False,High
+ID-00308,user00308,Employee,Operations,Retail Banking,Active,True,False,True,False,42,3,j.nguyen,True,False,High
+ID-00309,user00309,Employee,Finance,Digital & AI,Active,False,False,True,True,47,6,b.oconnell,True,False,Low
+ID-00310,user00310,Employee,Retail Banking,Retail Banking,Active,True,False,True,False,6,6,s.okafor,True,False,High
+ID-00311,user00311,Employee,Customer Support,Wealth Management,Active,False,False,True,True,72,2,t.gagnon,True,False,Low
+ID-00312,user00312,Employee,Human Resources,Retail Banking,Active,False,False,True,True,7,1,t.gagnon,True,False,Low
+ID-00313,user00313,Employee,Operations,Digital & AI,Active,False,False,True,True,20,4,t.gagnon,True,False,Low
+ID-00314,user00314,Employee,Customer Support,Commercial Banking,Active,False,False,True,True,73,3,l.moreau,True,False,Low
+ID-00315,user00315,Employee,Human Resources,Commercial Banking,Active,False,False,True,True,42,4,t.gagnon,True,False,Low
+ID-00316,user00316,Employee,Human Resources,Retail Banking,Active,True,False,True,False,51,3,a.tremblay,True,False,High
+ID-00317,user00317,Employee,Human Resources,Wealth Management,Active,False,False,True,True,37,2,h.romano,True,False,Low
+ID-00318,user00318,Employee,Legal,Payments,Active,True,False,True,True,57,17,k.anderson,True,False,High
+ID-00319,user00319,Employee,Customer Support,Shared Technology,Active,True,False,True,True,6,6,b.oconnell,True,False,High
+ID-00320,user00320,ServiceAccount,Operations,Payments,Active,False,True,True,True,51,6,s.okafor,True,False,Medium
+ID-00321,user00321,Contractor,Retail Banking,Retail Banking,Disabled,True,False,False,False,5,4,b.oconnell,True,False,High
+ID-00322,user00322,Employee,Customer Support,Retail Banking,Active,False,False,True,True,13,5,k.anderson,True,False,Low
+ID-00323,user00323,Employee,Technology,Shared Technology,Active,False,False,True,True,38,1,s.okafor,True,False,Low
+ID-00324,user00324,Employee,Risk & Compliance,Payments,Active,False,False,True,True,34,4,k.anderson,True,False,Low
+ID-00325,user00325,Contractor,Risk & Compliance,Payments,Active,False,False,True,True,11,6,a.tremblay,True,False,Low
+ID-00326,user00326,Employee,Customer Support,Retail Banking,Active,False,False,True,True,60,3,a.tremblay,True,False,Low
+ID-00327,user00327,Contractor,Retail Banking,Retail Banking,Active,False,False,True,True,22,2,k.anderson,True,False,Low
+ID-00328,user00328,Employee,Customer Support,Digital & AI,Active,False,False,True,True,65,4,h.romano,True,False,Low
+ID-00329,user00329,Employee,Finance,Payments,Disabled,False,False,False,True,1,2,s.okafor,True,False,Low
+ID-00330,user00330,Employee,Customer Support,Wealth Management,Active,False,False,True,True,18,6,j.nguyen,True,False,Low
+ID-00331,user00331,Employee,Human Resources,Wealth Management,Active,False,False,True,True,22,6,r.patel,True,False,Low
+ID-00332,user00332,Employee,Legal,Shared Technology,Terminated,False,False,False,True,45,4,k.anderson,True,False,Low
+ID-00333,user00333,Employee,Legal,Wealth Management,Active,True,False,True,True,30,8,a.tremblay,True,False,High
+ID-00334,user00334,Contractor,Operations,Payments,Active,False,False,True,True,11,4,l.moreau,True,False,Low
+ID-00335,user00335,Employee,Finance,Retail Banking,Active,False,False,True,True,43,5,c.dubois,True,False,Low
+ID-00336,user00336,Employee,Customer Support,Wealth Management,Active,False,False,True,True,72,3,b.oconnell,True,False,Low
+ID-00337,user00337,Employee,Finance,Wealth Management,Active,False,False,True,True,10,6,j.nguyen,True,False,Low
+ID-00338,user00338,Employee,Operations,Payments,Active,False,False,True,True,19,3,c.dubois,True,False,Low
+ID-00339,user00339,Employee,Customer Support,Wealth Management,Active,False,False,True,True,36,1,a.tremblay,True,False,Low
+ID-00340,user00340,ServiceAccount,Risk & Compliance,Wealth Management,Active,False,True,True,True,55,3,b.oconnell,True,False,Medium
+ID-00341,user00341,Employee,Risk & Compliance,Digital & AI,Active,False,False,True,True,10,4,t.gagnon,True,False,Low
+ID-00342,user00342,ServiceAccount,Human Resources,Digital & AI,Active,False,True,True,True,17,3,r.patel,True,False,Medium
+ID-00343,user00343,Contractor,Technology,Retail Banking,Active,False,False,True,True,17,3,c.dubois,True,False,Low
+ID-00344,user00344,Employee,Human Resources,Payments,Terminated,True,False,False,True,46,5,t.gagnon,True,False,High
+ID-00345,user00345,Employee,Risk & Compliance,Retail Banking,Active,False,False,True,True,6,4,j.nguyen,True,False,Low
+ID-00346,user00346,Employee,Retail Banking,Digital & AI,Active,False,False,True,True,50,3,m.leblanc,True,False,Low
+ID-00347,user00347,ServiceAccount,Retail Banking,Wealth Management,Active,False,True,True,True,32,1,m.leblanc,True,False,Medium
+ID-00348,user00348,Employee,Risk & Compliance,Commercial Banking,Active,False,False,True,True,24,3,d.singh,True,False,Low
+ID-00349,user00349,Employee,Risk & Compliance,Commercial Banking,Active,False,False,True,True,65,5,m.leblanc,True,False,Low
+ID-00350,user00350,Employee,Operations,Payments,Active,False,False,True,True,62,3,s.okafor,True,False,Low
+ID-00351,user00351,Employee,Technology,Digital & AI,Active,True,False,True,True,61,8,s.okafor,True,False,High
+ID-00352,user00352,Employee,Technology,Retail Banking,Disabled,True,False,False,False,67,3,b.oconnell,True,False,High
+ID-00353,user00353,Employee,Operations,Wealth Management,Active,True,False,True,True,17,2,t.gagnon,True,False,High
+ID-00354,user00354,Employee,Operations,Shared Technology,Active,False,False,True,True,64,5,b.oconnell,True,False,Low
+ID-00355,user00355,Employee,Risk & Compliance,Shared Technology,Active,False,False,True,True,13,4,j.nguyen,True,False,Low
+ID-00356,user00356,Employee,Legal,Payments,Terminated,False,False,False,True,25,3,c.dubois,True,False,Low
+ID-00357,user00357,Employee,Finance,Digital & AI,Active,False,False,True,True,42,6,c.dubois,True,False,Low
+ID-00358,user00358,Employee,Operations,Retail Banking,Active,False,False,True,True,56,3,k.anderson,True,False,Low
+ID-00359,user00359,Employee,Finance,Retail Banking,Active,False,False,True,True,43,6,a.tremblay,True,False,Low
+ID-00360,user00360,Employee,Legal,Payments,Active,False,False,True,True,42,3,l.moreau,True,False,Low
+ID-00361,user00361,ServiceAccount,Customer Support,Digital & AI,Active,False,True,True,True,28,1,a.tremblay,True,False,Medium
+ID-00362,user00362,Employee,Technology,Wealth Management,Terminated,False,False,True,True,45,1,j.nguyen,True,False,Low
+ID-00363,user00363,Employee,Retail Banking,Wealth Management,Terminated,False,False,False,True,36,6,j.nguyen,True,False,Low
+ID-00364,user00364,Employee,Customer Support,Commercial Banking,Active,False,False,True,True,36,4,d.singh,True,False,Low
+ID-00365,user00365,Employee,Legal,Wealth Management,Active,False,False,True,True,44,3,t.gagnon,True,False,Low
+ID-00366,user00366,Employee,Risk & Compliance,Shared Technology,Active,False,False,True,True,45,5,d.singh,True,False,Low
+ID-00367,user00367,Employee,Operations,Wealth Management,Disabled,False,False,False,True,25,4,c.dubois,True,False,Low
+ID-00368,user00368,Employee,Customer Support,Payments,Active,False,False,True,True,10,4,k.anderson,True,False,Low
+ID-00369,user00369,Employee,Customer Support,Retail Banking,Active,True,False,True,False,22,9,k.anderson,True,False,High
+ID-00370,user00370,Contractor,Customer Support,Retail Banking,Active,False,False,True,True,31,2,s.okafor,True,False,Low
+ID-00371,user00371,Employee,Finance,Digital & AI,Active,False,False,True,True,12,1,b.oconnell,True,False,Low
+ID-00372,user00372,Employee,Customer Support,Payments,Active,True,False,True,True,13,5,b.oconnell,True,False,High
+ID-00373,user00373,Employee,Finance,Digital & AI,Terminated,False,False,False,True,72,1,m.leblanc,True,False,Low
+ID-00374,user00374,Employee,Legal,Shared Technology,Terminated,False,False,False,True,21,5,s.okafor,True,False,Low
+ID-00375,user00375,Employee,Legal,Wealth Management,Disabled,False,False,False,True,56,1,s.okafor,True,False,Low
+ID-00376,user00376,Employee,Risk & Compliance,Shared Technology,Active,False,False,True,True,9,2,l.moreau,True,False,Low
+ID-00377,user00377,ServiceAccount,Customer Support,Commercial Banking,Active,False,True,True,True,73,1,a.tremblay,True,False,Medium
+ID-00378,user00378,Employee,Finance,Wealth Management,Active,False,False,True,True,16,4,s.okafor,True,False,Low
+ID-00379,user00379,Employee,Human Resources,Retail Banking,Active,False,False,True,True,29,5,l.moreau,True,False,Low
+ID-00380,user00380,Employee,Operations,Retail Banking,Active,False,False,True,True,59,4,s.okafor,True,False,Low
+ID-00381,user00381,Employee,Operations,Retail Banking,Active,False,False,True,True,15,1,a.tremblay,True,False,Low
+ID-00382,user00382,ServiceAccount,Customer Support,Digital & AI,Active,False,True,True,True,41,1,a.tremblay,True,False,Medium
+ID-00383,user00383,Employee,Legal,Shared Technology,Active,False,False,True,True,59,2,d.singh,True,False,Low
+ID-00384,user00384,Employee,Retail Banking,Payments,Active,False,False,True,True,1,1,r.patel,True,False,Low
+ID-00385,user00385,Employee,Risk & Compliance,Wealth Management,Active,False,False,True,True,1,6,j.nguyen,True,False,Low
+ID-00386,user00386,ServiceAccount,Risk & Compliance,Commercial Banking,Active,False,True,True,True,59,6,l.moreau,True,False,Medium
+ID-00387,user00387,Employee,Operations,Digital & AI,Active,False,False,True,True,19,4,m.leblanc,True,False,Low
+ID-00388,user00388,ServiceAccount,Risk & Compliance,Payments,Active,False,True,True,True,69,6,k.anderson,True,False,Medium
+ID-00389,user00389,Employee,Legal,Digital & AI,Active,False,False,True,True,70,5,c.dubois,True,False,Low
+ID-00390,user00390,Contractor,Retail Banking,Commercial Banking,Active,False,False,True,True,66,1,d.singh,True,False,Low
+ID-00391,user00391,Employee,Human Resources,Shared Technology,Active,True,False,True,True,75,5,l.moreau,True,False,High
+ID-00392,user00392,Employee,Human Resources,Payments,Active,False,False,True,True,62,3,d.singh,True,False,Low
+ID-00393,user00393,Employee,Human Resources,Commercial Banking,Active,False,False,True,True,29,3,m.leblanc,True,False,Low
+ID-00394,user00394,Employee,Customer Support,Wealth Management,Active,True,False,True,True,75,6,s.okafor,True,False,High
+ID-00395,user00395,Employee,Legal,Payments,Active,False,False,True,True,26,4,k.anderson,True,False,Low
+ID-00396,user00396,Employee,Customer Support,Wealth Management,Active,False,False,True,True,44,1,a.tremblay,True,False,Low
+ID-00397,user00397,Contractor,Legal,Wealth Management,Active,True,False,True,True,0,4,c.dubois,True,False,High
+ID-00398,user00398,Employee,Customer Support,Digital & AI,Active,True,False,True,True,73,7,l.moreau,True,False,High
+ID-00399,user00399,Employee,Human Resources,Wealth Management,Active,False,False,True,True,44,6,h.romano,True,False,Low
+ID-00400,user00400,Employee,Legal,Commercial Banking,Active,False,False,True,True,72,6,l.moreau,True,False,Low
+ID-00401,user00401,Employee,Legal,Commercial Banking,Active,True,False,True,False,26,6,b.oconnell,False,True,High
+ID-00402,user00402,Contractor,Risk & Compliance,Wealth Management,Active,False,False,True,True,23,4,k.anderson,True,False,Low
+ID-00403,user00403,Employee,Customer Support,Payments,Active,False,False,True,True,39,3,c.dubois,True,False,Low
+ID-00404,user00404,Employee,Legal,Wealth Management,Active,False,False,True,True,65,3,m.leblanc,True,False,Low
+ID-00405,user00405,ServiceAccount,Retail Banking,Digital & AI,Active,False,True,True,True,41,4,d.singh,True,False,Medium
+ID-00406,user00406,Contractor,Finance,Digital & AI,Active,False,False,True,True,60,4,h.romano,True,False,Low
+ID-00407,user00407,Employee,Legal,Digital & AI,Active,False,False,True,True,16,3,j.nguyen,True,False,Low
+ID-00408,user00408,Contractor,Customer Support,Payments,Active,False,False,True,True,58,2,a.tremblay,True,False,Low
+ID-00409,user00409,Employee,Retail Banking,Retail Banking,Active,False,False,True,True,55,2,a.tremblay,True,False,Low
+ID-00410,user00410,ServiceAccount,Customer Support,Payments,Active,False,True,True,True,68,7,l.moreau,True,False,Medium
+ID-00411,user00411,Employee,Finance,Commercial Banking,Active,False,False,True,True,4,6,l.moreau,True,False,Low
+ID-00412,user00412,Employee,Retail Banking,Retail Banking,Active,True,False,True,True,29,4,s.okafor,True,False,High
+ID-00413,user00413,Employee,Operations,Digital & AI,Disabled,False,False,False,True,6,3,a.tremblay,True,False,Low
+ID-00414,user00414,Contractor,Operations,Shared Technology,Active,True,False,True,True,30,2,l.moreau,True,False,High
+ID-00415,user00415,Employee,Legal,Commercial Banking,Active,False,False,True,True,57,1,r.patel,True,False,Low
+ID-00416,user00416,Employee,Risk & Compliance,Retail Banking,Active,False,False,True,True,48,2,c.dubois,True,False,Low
+ID-00417,user00417,Employee,Technology,Wealth Management,Active,False,False,True,True,57,6,j.nguyen,True,False,Low
+ID-00418,user00418,Employee,Operations,Payments,Active,False,False,True,True,56,1,d.singh,True,False,Low
+ID-00419,user00419,Employee,Technology,Wealth Management,Active,True,False,True,True,75,2,d.singh,True,False,High
+ID-00420,user00420,Contractor,Legal,Shared Technology,Terminated,False,False,False,True,66,6,a.tremblay,True,False,Low
+ID-00421,user00421,Employee,Operations,Wealth Management,Active,False,False,True,True,44,4,s.okafor,True,False,Low
+ID-00422,user00422,Employee,Operations,Commercial Banking,Active,False,False,True,True,66,1,k.anderson,True,False,Low
+ID-00423,user00423,Employee,Operations,Wealth Management,Active,False,False,True,True,3,3,l.moreau,True,False,Low
+ID-00424,user00424,Employee,Technology,Retail Banking,Active,False,False,True,True,54,5,s.okafor,True,False,Low
+ID-00425,user00425,Employee,Human Resources,Commercial Banking,Active,False,False,True,True,39,3,s.okafor,True,False,Low
+ID-00426,user00426,Contractor,Risk & Compliance,Wealth Management,Active,False,False,True,True,72,3,d.singh,True,False,Low
+ID-00427,user00427,Employee,Retail Banking,Retail Banking,Active,True,False,True,True,38,6,c.dubois,True,False,High
+ID-00428,user00428,Contractor,Retail Banking,Shared Technology,Active,False,False,True,True,13,4,s.okafor,True,False,Low
+ID-00429,user00429,Employee,Customer Support,Retail Banking,Active,False,False,True,True,55,6,l.moreau,True,False,Low
+ID-00430,user00430,Contractor,Finance,Shared Technology,Active,False,False,True,True,72,2,a.tremblay,True,False,Low
+ID-00431,user00431,Contractor,Legal,Digital & AI,Active,False,False,True,True,1,2,m.leblanc,True,False,Low
+ID-00432,user00432,Employee,Risk & Compliance,Shared Technology,Active,False,False,True,True,4,1,d.singh,True,False,Low
+ID-00433,user00433,Employee,Technology,Commercial Banking,Active,False,False,True,True,50,4,m.leblanc,True,False,Low
+ID-00434,user00434,Contractor,Risk & Compliance,Digital & AI,Active,False,False,True,True,42,4,a.tremblay,True,False,Low
+ID-00435,user00435,Employee,Human Resources,Shared Technology,Active,True,False,True,True,41,6,b.oconnell,True,False,High
+ID-00436,user00436,Employee,Technology,Payments,Active,False,False,True,True,6,5,m.leblanc,True,False,Low
+ID-00437,user00437,Employee,Risk & Compliance,Retail Banking,Active,False,False,True,True,43,3,k.anderson,True,False,Low
+ID-00438,user00438,Employee,Risk & Compliance,Wealth Management,Active,False,False,True,True,43,2,h.romano,True,False,Low
+ID-00439,user00439,Employee,Human Resources,Digital & AI,Active,True,False,True,True,64,5,b.oconnell,True,False,High
+ID-00440,user00440,Employee,Risk & Compliance,Commercial Banking,Active,False,False,True,True,29,3,h.romano,True,False,Low
+ID-00441,user00441,Contractor,Customer Support,Shared Technology,Active,False,False,True,True,26,3,r.patel,True,False,Low
+ID-00442,user00442,Employee,Human Resources,Wealth Management,Active,False,False,True,True,6,3,t.gagnon,True,False,Low
+ID-00443,user00443,Employee,Legal,Payments,Active,True,False,True,True,43,3,a.tremblay,True,False,High
+ID-00444,user00444,Employee,Operations,Payments,Active,False,False,True,True,49,2,j.nguyen,True,False,Low
+ID-00445,user00445,Employee,Customer Support,Retail Banking,Active,False,False,True,True,21,2,m.leblanc,True,False,Low
+ID-00446,user00446,Employee,Technology,Digital & AI,Disabled,False,False,False,True,55,4,k.anderson,True,False,Low
+ID-00447,user00447,ServiceAccount,Human Resources,Retail Banking,Active,False,True,True,True,71,6,t.gagnon,True,False,Medium
+ID-00448,user00448,Employee,Legal,Shared Technology,Disabled,False,False,False,True,13,1,h.romano,True,False,Low
+ID-00449,user00449,Employee,Operations,Digital & AI,Active,False,False,True,True,43,4,b.oconnell,True,False,Low
+ID-00450,user00450,Employee,Risk & Compliance,Retail Banking,Disabled,False,False,False,True,52,4,s.okafor,True,False,Low
+ID-00451,user00451,Employee,Human Resources,Payments,Terminated,False,False,False,True,1,4,h.romano,True,False,Low
+ID-00452,user00452,Contractor,Finance,Retail Banking,Active,False,False,True,True,13,1,d.singh,True,False,Low
+ID-00453,user00453,Employee,Customer Support,Wealth Management,Active,True,False,True,True,30,9,c.dubois,True,False,High
+ID-00454,user00454,Employee,Human Resources,Shared Technology,Terminated,True,False,False,True,10,10,s.okafor,True,False,High
+ID-00455,user00455,Employee,Human Resources,Wealth Management,Disabled,False,False,False,True,27,1,s.okafor,True,False,Low
+ID-00456,user00456,Employee,Technology,Shared Technology,Terminated,False,False,False,True,11,2,t.gagnon,True,False,Low
+ID-00457,user00457,ServiceAccount,Human Resources,Commercial Banking,Active,False,True,True,True,68,4,j.nguyen,True,False,Medium
+ID-00458,user00458,Employee,Human Resources,Wealth Management,Active,False,False,True,True,45,3,l.moreau,True,False,Low
+ID-00459,user00459,Employee,Finance,Shared Technology,Active,True,False,True,True,25,9,b.oconnell,True,False,High
+ID-00460,user00460,Employee,Customer Support,Digital & AI,Active,False,False,True,True,59,3,c.dubois,True,False,Low
+ID-00461,user00461,Employee,Customer Support,Shared Technology,Active,False,False,True,True,1,3,m.leblanc,True,False,Low
+ID-00462,user00462,Employee,Legal,Retail Banking,Active,False,False,True,True,45,6,c.dubois,True,False,Low
+ID-00463,user00463,ServiceAccount,Finance,Digital & AI,Active,False,True,True,True,51,1,m.leblanc,True,False,Medium
+ID-00464,user00464,Employee,Legal,Wealth Management,Active,False,False,True,True,61,3,m.leblanc,True,False,Low
+ID-00465,user00465,Employee,Risk & Compliance,Shared Technology,Active,False,False,True,True,16,6,h.romano,True,False,Low
+ID-00466,user00466,Employee,Operations,Retail Banking,Active,False,False,True,True,44,5,r.patel,True,False,Low
+ID-00467,user00467,Employee,Retail Banking,Digital & AI,Active,False,False,True,True,58,5,d.singh,True,False,Low
+ID-00468,user00468,ServiceAccount,Human Resources,Shared Technology,Active,False,True,True,True,60,3,d.singh,True,False,Medium
+ID-00469,user00469,Employee,Legal,Payments,Active,False,False,True,True,13,3,k.anderson,True,False,Low
+ID-00470,user00470,Employee,Operations,Wealth Management,Active,False,False,True,True,74,3,k.anderson,True,False,Low
+ID-00471,user00471,Employee,Legal,Commercial Banking,Active,False,False,True,True,20,1,m.leblanc,True,False,Low
+ID-00472,user00472,Employee,Customer Support,Payments,Terminated,False,False,False,True,29,1,k.anderson,True,False,Low
+ID-00473,user00473,Employee,Technology,Commercial Banking,Active,False,False,True,True,14,4,h.romano,True,False,Low
+ID-00474,user00474,Employee,Risk & Compliance,Retail Banking,Active,False,False,True,True,11,3,m.leblanc,True,False,Low
+ID-00475,user00475,Employee,Human Resources,Digital & AI,Active,False,False,True,True,19,5,m.leblanc,True,False,Low
+ID-00476,user00476,Employee,Finance,Digital & AI,Active,False,False,True,True,10,5,d.singh,True,False,Low
+ID-00477,user00477,Employee,Finance,Retail Banking,Active,False,False,True,True,55,1,b.oconnell,True,False,Low
+ID-00478,user00478,Employee,Finance,Retail Banking,Terminated,False,False,False,True,45,6,r.patel,True,False,Low
+ID-00479,user00479,Employee,Risk & Compliance,Payments,Active,False,False,True,True,29,3,h.romano,True,False,Low
+ID-00480,user00480,Employee,Finance,Payments,Active,False,False,True,True,41,4,m.leblanc,True,False,Low
+ID-00481,user00481,Employee,Legal,Shared Technology,Active,False,False,True,True,45,6,k.anderson,True,False,Low
+ID-00482,user00482,Employee,Technology,Shared Technology,Active,False,False,True,True,14,4,b.oconnell,True,False,Low
+ID-00483,user00483,Employee,Finance,Commercial Banking,Active,False,False,True,True,22,1,c.dubois,True,False,Low
+ID-00484,user00484,Employee,Operations,Commercial Banking,Active,False,False,True,True,67,2,k.anderson,True,False,Low
+ID-00485,user00485,Employee,Human Resources,Wealth Management,Active,False,False,True,True,0,3,s.okafor,True,False,Low
+ID-00486,user00486,Employee,Legal,Payments,Disabled,False,False,False,True,72,1,k.anderson,True,False,Low
+ID-00487,user00487,Employee,Operations,Commercial Banking,Active,False,False,True,True,73,2,l.moreau,True,False,Low
+ID-00488,user00488,Employee,Risk & Compliance,Retail Banking,Active,False,False,True,True,19,5,b.oconnell,True,False,Low
+ID-00489,user00489,Employee,Human Resources,Retail Banking,Terminated,False,False,False,True,24,1,m.leblanc,True,False,Low
+ID-00490,user00490,Employee,Human Resources,Payments,Active,False,False,True,True,15,2,r.patel,True,False,Low
+ID-00491,user00491,Employee,Technology,Payments,Active,False,False,True,True,42,4,l.moreau,True,False,Low
+ID-00492,user00492,Employee,Human Resources,Wealth Management,Active,True,False,True,True,16,2,b.oconnell,True,False,High
+ID-00493,user00493,Employee,Human Resources,Retail Banking,Active,False,False,True,True,60,2,m.leblanc,True,False,Low
+ID-00494,user00494,Employee,Customer Support,Digital & AI,Active,False,False,True,True,29,6,d.singh,True,False,Low
+ID-00495,user00495,Employee,Risk & Compliance,Wealth Management,Active,True,False,True,True,73,7,t.gagnon,True,False,High
+ID-00496,user00496,Employee,Retail Banking,Shared Technology,Active,False,False,True,True,64,6,l.moreau,True,False,Low
+ID-00497,user00497,Employee,Legal,Digital & AI,Active,False,False,True,True,30,3,c.dubois,True,False,Low
+ID-00498,user00498,Employee,Human Resources,Retail Banking,Active,False,False,True,True,45,4,m.leblanc,True,False,Low
+ID-00499,user00499,Employee,Risk & Compliance,Payments,Active,False,False,True,True,1,2,j.nguyen,True,False,Low
+ID-00500,user00500,Employee,Customer Support,Retail Banking,Active,False,False,True,True,5,3,a.tremblay,True,False,Low
+ID-00501,user00501,Employee,Retail Banking,Commercial Banking,Active,False,False,True,True,38,2,s.okafor,True,False,Low
+ID-00502,user00502,Contractor,Customer Support,Digital & AI,Active,False,False,True,True,35,5,c.dubois,True,False,Low
+ID-00503,user00503,Contractor,Finance,Payments,Terminated,True,False,False,True,30,4,s.okafor,True,False,High
+ID-00504,user00504,Employee,Legal,Digital & AI,Active,False,False,True,True,6,2,a.tremblay,True,False,Low
+ID-00505,user00505,Employee,Risk & Compliance,Shared Technology,Active,False,False,True,True,63,3,d.singh,True,False,Low
+ID-00506,user00506,Employee,Risk & Compliance,Digital & AI,Disabled,False,False,False,True,30,3,a.tremblay,True,False,Low
+ID-00507,user00507,Employee,Technology,Payments,Active,False,False,True,True,35,2,s.okafor,True,False,Low
+ID-00508,user00508,Contractor,Risk & Compliance,Digital & AI,Active,False,False,True,True,30,3,l.moreau,True,False,Low
+ID-00509,user00509,Employee,Finance,Commercial Banking,Active,False,False,True,True,37,2,b.oconnell,True,False,Low
+ID-00510,user00510,Employee,Legal,Wealth Management,Active,False,False,True,True,49,6,d.singh,True,False,Low
+ID-00511,user00511,Employee,Customer Support,Retail Banking,Active,False,False,True,True,58,4,a.tremblay,True,False,Low
+ID-00512,user00512,Contractor,Retail Banking,Shared Technology,Active,False,False,True,True,41,6,m.leblanc,True,False,Low
+ID-00513,user00513,Employee,Human Resources,Shared Technology,Active,False,False,True,True,12,6,d.singh,True,False,Low
+ID-00514,user00514,Employee,Human Resources,Retail Banking,Active,False,False,True,True,66,4,d.singh,True,False,Low
+ID-00515,user00515,Employee,Finance,Shared Technology,Active,False,False,True,True,21,5,r.patel,True,False,Low
+ID-00516,user00516,Employee,Finance,Digital & AI,Active,False,False,True,True,1,1,b.oconnell,True,False,Low
+ID-00517,user00517,Employee,Operations,Wealth Management,Active,False,False,True,True,2,6,t.gagnon,True,False,Low
+ID-00518,user00518,Employee,Finance,Shared Technology,Active,False,False,True,True,58,3,d.singh,True,False,Low
+ID-00519,user00519,Employee,Risk & Compliance,Digital & AI,Active,False,False,True,True,29,5,d.singh,True,False,Low
+ID-00520,user00520,Contractor,Risk & Compliance,Retail Banking,Active,False,False,True,True,1,2,h.romano,True,False,Low
+ID-00521,user00521,Contractor,Risk & Compliance,Retail Banking,Active,False,False,True,True,61,1,s.okafor,True,False,Low
+ID-00522,user00522,Employee,Finance,Wealth Management,Active,False,False,True,True,23,6,d.singh,True,False,Low
+ID-00523,user00523,Employee,Legal,Digital & AI,Active,True,False,True,True,74,10,b.oconnell,True,False,High
+ID-00524,user00524,Employee,Legal,Commercial Banking,Active,False,False,True,True,66,1,m.leblanc,True,False,Low
+ID-00525,user00525,Employee,Risk & Compliance,Wealth Management,Active,False,False,True,True,3,4,a.tremblay,True,False,Low
+ID-00526,user00526,Employee,Finance,Shared Technology,Active,False,False,True,True,52,1,r.patel,True,False,Low
+ID-00527,user00527,ServiceAccount,Retail Banking,Retail Banking,Active,False,True,True,True,45,6,j.nguyen,True,False,Medium
+ID-00528,user00528,ServiceAccount,Customer Support,Digital & AI,Active,False,True,True,True,13,3,b.oconnell,True,False,Medium
+ID-00529,user00529,Employee,Customer Support,Wealth Management,Active,False,False,True,True,26,5,c.dubois,True,False,Low
+ID-00530,user00530,Employee,Technology,Payments,Active,False,False,True,True,37,3,l.moreau,True,False,Low
+ID-00531,user00531,Employee,Human Resources,Retail Banking,Active,True,False,True,True,11,8,b.oconnell,True,False,High
+ID-00532,user00532,Employee,Legal,Payments,Active,True,False,True,True,54,4,h.romano,True,False,High
+ID-00533,user00533,Employee,Risk & Compliance,Digital & AI,Active,False,False,True,True,21,2,d.singh,True,False,Low
+ID-00534,user00534,Employee,Retail Banking,Wealth Management,Active,False,False,True,True,71,1,b.oconnell,True,False,Low
+ID-00535,user00535,Employee,Risk & Compliance,Payments,Active,False,False,True,True,60,1,d.singh,True,False,Low
+ID-00536,user00536,Employee,Finance,Payments,Active,False,False,True,True,48,5,m.leblanc,True,False,Low
+ID-00537,user00537,Employee,Risk & Compliance,Payments,Terminated,False,False,False,True,9,3,d.singh,True,False,Low
+ID-00538,user00538,Employee,Finance,Digital & AI,Active,False,False,True,True,1,1,j.nguyen,True,False,Low
+ID-00539,user00539,Employee,Finance,Payments,Active,False,False,True,True,11,2,j.nguyen,True,False,Low
+ID-00540,user00540,Contractor,Risk & Compliance,Shared Technology,Active,False,False,True,True,37,1,l.moreau,True,False,Low
+ID-00541,user00541,ServiceAccount,Risk & Compliance,Shared Technology,Active,False,True,True,True,59,5,j.nguyen,True,False,Medium
+ID-00542,user00542,Employee,Legal,Digital & AI,Active,False,False,True,True,11,3,a.tremblay,True,False,Low
+ID-00543,user00543,Contractor,Risk & Compliance,Shared Technology,Active,False,False,True,True,53,1,b.oconnell,True,False,Low
+ID-00544,user00544,ServiceAccount,Legal,Commercial Banking,Active,False,True,True,True,3,2,k.anderson,True,False,Medium
+ID-00545,user00545,Employee,Human Resources,Shared Technology,Terminated,False,False,False,True,20,4,d.singh,True,False,Low
+ID-00546,user00546,Employee,Operations,Commercial Banking,Active,False,False,True,True,45,4,h.romano,True,False,Low
+ID-00547,user00547,Employee,Legal,Commercial Banking,Active,False,False,True,True,62,5,l.moreau,True,False,Low
+ID-00548,user00548,Employee,Retail Banking,Digital & AI,Active,False,False,True,True,59,1,l.moreau,True,False,Low
+ID-00549,user00549,Employee,Risk & Compliance,Wealth Management,Active,True,False,True,True,40,11,h.romano,True,False,High
+ID-00550,user00550,Employee,Finance,Commercial Banking,Active,False,False,True,True,2,1,j.nguyen,True,False,Low
+ID-00551,user00551,Employee,Technology,Payments,Terminated,False,False,False,True,22,3,h.romano,True,False,Low
+ID-00552,user00552,Employee,Risk & Compliance,Shared Technology,Active,False,False,True,True,59,5,d.singh,True,False,Low
+ID-00553,user00553,Employee,Operations,Commercial Banking,Active,False,False,True,True,6,4,m.leblanc,True,False,Low
+ID-00554,user00554,Contractor,Risk & Compliance,Retail Banking,Active,False,False,True,True,53,2,s.okafor,True,False,Low
+ID-00555,user00555,Employee,Finance,Commercial Banking,Active,False,False,True,True,53,4,t.gagnon,True,False,Low
+ID-00556,user00556,Employee,Operations,Payments,Active,False,False,True,True,57,4,t.gagnon,True,False,Low
+ID-00557,user00557,Employee,Customer Support,Payments,Terminated,False,False,False,True,16,2,b.oconnell,True,False,Low
+ID-00558,user00558,Employee,Risk & Compliance,Digital & AI,Active,False,False,True,True,18,5,s.okafor,True,False,Low
+ID-00559,user00559,Employee,Legal,Shared Technology,Active,False,False,True,True,15,3,t.gagnon,True,False,Low
+ID-00560,user00560,Employee,Legal,Shared Technology,Active,False,False,True,True,29,1,t.gagnon,True,False,Low
+ID-00561,user00561,Employee,Human Resources,Wealth Management,Terminated,False,False,False,True,39,3,h.romano,True,False,Low
+ID-00562,user00562,Employee,Finance,Commercial Banking,Active,False,False,True,True,9,5,c.dubois,True,False,Low
+ID-00563,user00563,Contractor,Risk & Compliance,Digital & AI,Active,False,False,True,True,43,5,k.anderson,True,False,Low
+ID-00564,user00564,Employee,Technology,Shared Technology,Active,False,False,True,True,18,2,c.dubois,True,False,Low
+ID-00565,user00565,Employee,Operations,Payments,Active,False,False,True,True,42,5,a.tremblay,True,False,Low
+ID-00566,user00566,Employee,Technology,Wealth Management,Disabled,False,False,False,True,23,3,k.anderson,True,False,Low
+ID-00567,user00567,Employee,Retail Banking,Payments,Active,False,False,True,True,72,3,m.leblanc,True,False,Low
+ID-00568,user00568,Employee,Finance,Wealth Management,Terminated,False,False,False,True,24,1,m.leblanc,True,False,Low
+ID-00569,user00569,Employee,Risk & Compliance,Retail Banking,Active,False,False,True,True,66,6,a.tremblay,True,False,Low
+ID-00570,user00570,Employee,Technology,Payments,Active,False,False,True,True,13,6,c.dubois,True,False,Low
+ID-00571,user00571,Employee,Risk & Compliance,Wealth Management,Active,False,False,True,True,6,2,a.tremblay,True,False,Low
+ID-00572,user00572,Contractor,Customer Support,Commercial Banking,Active,False,False,True,True,14,4,t.gagnon,True,False,Low
+ID-00573,user00573,Employee,Technology,Shared Technology,Active,False,False,True,True,31,5,t.gagnon,True,False,Low
+ID-00574,user00574,Employee,Finance,Payments,Active,False,False,True,True,68,4,h.romano,True,False,Low
+ID-00575,user00575,Contractor,Human Resources,Commercial Banking,Active,False,False,True,True,13,2,j.nguyen,True,False,Low
+ID-00576,user00576,Employee,Customer Support,Shared Technology,Active,False,False,True,True,59,6,s.okafor,True,False,Low
+ID-00577,user00577,Contractor,Operations,Digital & AI,Terminated,False,False,False,True,52,2,k.anderson,True,False,Low
+ID-00578,user00578,Employee,Legal,Payments,Active,False,False,True,True,26,3,d.singh,True,False,Low
+ID-00579,user00579,Contractor,Technology,Commercial Banking,Active,False,False,True,True,25,3,a.tremblay,True,False,Low
+ID-00580,user00580,Employee,Legal,Payments,Active,True,False,True,True,72,8,t.gagnon,True,False,High
+ID-00581,user00581,Employee,Finance,Digital & AI,Active,False,False,True,True,54,4,c.dubois,True,False,Low
+ID-00582,user00582,Employee,Customer Support,Shared Technology,Active,False,False,True,True,18,5,h.romano,True,False,Low
+ID-00583,user00583,Employee,Finance,Shared Technology,Active,False,False,True,True,69,6,a.tremblay,True,False,Low
+ID-00584,user00584,Employee,Technology,Commercial Banking,Active,False,False,True,True,30,6,c.dubois,True,False,Low
+ID-00585,user00585,Contractor,Retail Banking,Commercial Banking,Active,False,False,True,True,6,6,c.dubois,True,False,Low
+ID-00586,user00586,Employee,Finance,Digital & AI,Active,False,False,True,True,61,6,a.tremblay,True,False,Low
+ID-00587,user00587,Employee,Retail Banking,Payments,Active,False,False,True,True,66,6,d.singh,True,False,Low
+ID-00588,user00588,Employee,Technology,Commercial Banking,Active,False,False,True,True,33,6,b.oconnell,True,False,Low
+ID-00589,user00589,Employee,Finance,Wealth Management,Active,False,False,True,True,53,4,k.anderson,True,False,Low
+ID-00590,user00590,Employee,Legal,Digital & AI,Active,False,False,True,True,17,1,r.patel,True,False,Low
+ID-00591,user00591,Contractor,Legal,Wealth Management,Active,False,False,True,True,64,1,l.moreau,True,False,Low
+ID-00592,user00592,Employee,Legal,Payments,Active,False,False,True,True,28,5,r.patel,True,False,Low
+ID-00593,user00593,Employee,Technology,Payments,Active,False,False,True,True,20,2,r.patel,True,False,Low
+ID-00594,user00594,Employee,Retail Banking,Retail Banking,Active,True,False,True,True,38,3,h.romano,True,False,High
+ID-00595,user00595,Employee,Operations,Shared Technology,Disabled,True,False,False,True,20,6,l.moreau,True,False,High
+ID-00596,user00596,Employee,Operations,Wealth Management,Active,False,False,True,True,47,4,j.nguyen,True,False,Low
+ID-00597,user00597,Employee,Retail Banking,Payments,Active,False,False,True,True,56,5,r.patel,True,False,Low
+ID-00598,user00598,Employee,Risk & Compliance,Payments,Active,False,False,True,True,30,2,t.gagnon,True,False,Low
+ID-00599,user00599,ServiceAccount,Retail Banking,Digital & AI,Active,False,True,True,True,59,1,k.anderson,True,False,Medium
+ID-00600,user00600,Employee,Operations,Shared Technology,Active,False,False,True,True,32,6,a.tremblay,True,False,Low
+ID-00601,user00601,Employee,Legal,Retail Banking,Active,False,False,True,True,73,5,t.gagnon,True,False,Low
+ID-00602,user00602,Employee,Legal,Payments,Active,True,False,True,True,20,6,d.singh,True,False,High
+ID-00603,user00603,Contractor,Operations,Digital & AI,Active,False,False,True,True,53,6,j.nguyen,True,False,Low
+ID-00604,user00604,Employee,Technology,Payments,Disabled,False,False,False,True,40,3,b.oconnell,True,False,Low
+ID-00605,user00605,ServiceAccount,Risk & Compliance,Commercial Banking,Active,False,True,True,True,71,3,b.oconnell,True,False,Medium
+ID-00606,user00606,Employee,Operations,Shared Technology,Active,True,False,True,True,16,2,b.oconnell,True,False,High
+ID-00607,user00607,Contractor,Legal,Wealth Management,Active,False,False,True,True,14,4,r.patel,True,False,Low
+ID-00608,user00608,Employee,Retail Banking,Commercial Banking,Terminated,False,False,True,True,65,1,b.oconnell,True,False,Low
+ID-00609,user00609,Employee,Finance,Shared Technology,Active,False,False,True,True,68,3,h.romano,True,False,Low
+ID-00610,user00610,Employee,Technology,Payments,Active,False,False,True,True,56,5,t.gagnon,True,False,Low
+ID-00611,user00611,Employee,Finance,Retail Banking,Active,False,False,True,True,36,6,k.anderson,True,False,Low
+ID-00612,user00612,Employee,Retail Banking,Digital & AI,Active,False,False,True,True,31,1,j.nguyen,True,False,Low
+ID-00613,user00613,ServiceAccount,Operations,Shared Technology,Active,False,True,True,True,50,7,m.leblanc,True,False,Medium
+ID-00614,user00614,ServiceAccount,Human Resources,Shared Technology,Active,False,True,True,True,56,3,b.oconnell,True,False,Medium
+ID-00615,user00615,Employee,Legal,Wealth Management,Active,False,False,True,True,20,3,k.anderson,True,False,Low
+ID-00616,user00616,Employee,Technology,Commercial Banking,Disabled,False,False,True,True,0,6,b.oconnell,True,False,Low
+ID-00617,user00617,Employee,Legal,Shared Technology,Active,False,False,True,True,5,1,k.anderson,True,False,Low
+ID-00618,user00618,Employee,Risk & Compliance,Shared Technology,Active,False,False,True,True,26,3,k.anderson,True,False,Low
+ID-00619,user00619,Employee,Operations,Retail Banking,Active,False,False,True,True,51,1,a.tremblay,True,False,Low
+ID-00620,user00620,Employee,Retail Banking,Commercial Banking,Active,False,False,True,True,33,5,r.patel,True,False,Low
+ID-00621,user00621,Employee,Retail Banking,Shared Technology,Active,False,False,True,True,46,6,k.anderson,True,False,Low
+ID-00622,user00622,Employee,Technology,Commercial Banking,Active,False,False,True,True,35,1,s.okafor,True,False,Low
+ID-00623,user00623,ServiceAccount,Human Resources,Digital & AI,Active,False,True,True,True,19,2,s.okafor,True,False,Medium
+ID-00624,user00624,Employee,Finance,Commercial Banking,Active,False,False,True,True,56,6,l.moreau,True,False,Low
+ID-00625,user00625,ServiceAccount,Finance,Retail Banking,Active,False,True,True,True,54,5,m.leblanc,True,False,Medium
+ID-00626,user00626,Employee,Operations,Commercial Banking,Active,False,False,True,True,73,6,d.singh,True,False,Low
+ID-00627,user00627,Employee,Technology,Shared Technology,Active,False,False,True,True,62,6,c.dubois,True,False,Low
+ID-00628,user00628,Employee,Finance,Retail Banking,Active,False,False,True,True,28,1,r.patel,True,False,Low
+ID-00629,user00629,Employee,Retail Banking,Digital & AI,Active,False,False,True,True,53,1,s.okafor,True,False,Low
+ID-00630,user00630,Contractor,Retail Banking,Shared Technology,Active,False,False,True,True,26,5,r.patel,True,False,Low
+ID-00631,user00631,Contractor,Technology,Retail Banking,Active,True,False,True,True,66,2,k.anderson,True,False,High
+ID-00632,user00632,Contractor,Human Resources,Retail Banking,Active,False,False,True,True,46,4,k.anderson,True,False,Low
+ID-00633,user00633,Employee,Legal,Digital & AI,Terminated,False,False,False,True,63,1,j.nguyen,True,False,Low
+ID-00634,user00634,Employee,Customer Support,Wealth Management,Disabled,False,False,False,True,21,4,a.tremblay,True,False,Low
+ID-00635,user00635,Employee,Risk & Compliance,Retail Banking,Active,False,False,True,True,1,3,b.oconnell,True,False,Low
+ID-00636,user00636,Employee,Legal,Commercial Banking,Active,True,False,True,False,10,7,b.oconnell,False,True,High
+ID-00637,user00637,Employee,Operations,Shared Technology,Active,False,False,True,True,40,6,t.gagnon,True,False,Low
+ID-00638,user00638,Employee,Retail Banking,Retail Banking,Active,False,False,True,True,73,3,j.nguyen,True,False,Low
+ID-00639,user00639,Employee,Finance,Wealth Management,Active,False,False,True,True,47,4,l.moreau,True,False,Low
+ID-00640,user00640,Contractor,Customer Support,Shared Technology,Active,False,False,True,True,61,4,s.okafor,True,False,Low
+ID-00641,user00641,Employee,Finance,Shared Technology,Disabled,False,False,False,True,35,6,t.gagnon,True,False,Low
+ID-00642,user00642,Contractor,Customer Support,Shared Technology,Active,True,False,True,True,72,9,a.tremblay,True,False,High
+ID-00643,user00643,Employee,Human Resources,Commercial Banking,Active,False,False,True,True,71,2,c.dubois,True,False,Low
+ID-00644,user00644,Employee,Technology,Retail Banking,Active,False,False,True,True,16,3,t.gagnon,True,False,Low
+ID-00645,user00645,Employee,Risk & Compliance,Commercial Banking,Active,True,False,True,False,65,6,d.singh,False,True,High
+ID-00646,user00646,Contractor,Operations,Wealth Management,Disabled,False,False,False,True,1,6,t.gagnon,True,False,Low
+ID-00647,user00647,Employee,Retail Banking,Payments,Active,False,False,True,True,45,2,c.dubois,True,False,Low
+ID-00648,user00648,Employee,Risk & Compliance,Payments,Terminated,False,False,False,True,33,1,s.okafor,True,False,Low
+ID-00649,user00649,Employee,Technology,Wealth Management,Active,False,False,True,True,22,4,a.tremblay,True,False,Low
+ID-00650,user00650,Employee,Human Resources,Wealth Management,Active,False,False,True,True,70,4,s.okafor,True,False,Low
+ID-00651,user00651,Employee,Retail Banking,Payments,Active,False,False,True,True,50,3,a.tremblay,True,False,Low
+ID-00652,user00652,Contractor,Retail Banking,Digital & AI,Active,False,False,True,True,10,2,c.dubois,True,False,Low
+ID-00653,user00653,Employee,Human Resources,Commercial Banking,Active,False,False,True,True,10,6,a.tremblay,True,False,Low
+ID-00654,user00654,Employee,Technology,Shared Technology,Active,False,False,True,True,8,6,m.leblanc,True,False,Low
+ID-00655,user00655,Contractor,Retail Banking,Digital & AI,Active,False,False,True,True,23,5,c.dubois,True,False,Low
+ID-00656,user00656,Employee,Legal,Digital & AI,Active,True,False,True,True,5,6,d.singh,True,False,High
+ID-00657,user00657,Contractor,Retail Banking,Wealth Management,Active,False,False,True,True,20,2,d.singh,True,False,Low
+ID-00658,user00658,Employee,Finance,Wealth Management,Active,False,False,True,True,58,3,a.tremblay,True,False,Low
+ID-00659,user00659,Employee,Operations,Digital & AI,Active,False,False,True,True,66,1,t.gagnon,True,False,Low
+ID-00660,user00660,Employee,Legal,Retail Banking,Active,True,False,True,True,59,11,k.anderson,True,False,High
+ID-00661,user00661,Employee,Human Resources,Retail Banking,Active,False,False,True,True,37,3,r.patel,True,False,Low
+ID-00662,user00662,Contractor,Human Resources,Payments,Active,False,False,True,True,52,3,r.patel,True,False,Low
+ID-00663,user00663,Employee,Operations,Shared Technology,Active,False,False,True,True,71,1,t.gagnon,True,False,Low
+ID-00664,user00664,Employee,Human Resources,Retail Banking,Active,False,False,True,True,4,6,c.dubois,True,False,Low
+ID-00665,user00665,Employee,Retail Banking,Commercial Banking,Active,False,False,True,True,68,2,m.leblanc,True,False,Low
+ID-00666,user00666,Employee,Human Resources,Wealth Management,Active,False,False,True,True,54,4,c.dubois,True,False,Low
+ID-00667,user00667,Contractor,Legal,Retail Banking,Disabled,False,False,False,True,29,3,a.tremblay,True,False,Low
+ID-00668,user00668,ServiceAccount,Technology,Wealth Management,Active,False,True,True,True,34,6,s.okafor,True,False,Medium
+ID-00669,user00669,Employee,Legal,Payments,Active,False,False,True,True,33,6,j.nguyen,True,False,Low
+ID-00670,user00670,Employee,Customer Support,Commercial Banking,Active,False,False,True,True,11,5,m.leblanc,True,False,Low
+ID-00671,user00671,Employee,Customer Support,Retail Banking,Active,False,False,True,True,17,6,r.patel,True,False,Low
+ID-00672,user00672,Employee,Human Resources,Digital & AI,Active,False,False,True,True,22,3,a.tremblay,True,False,Low
+ID-00673,user00673,ServiceAccount,Technology,Shared Technology,Active,False,True,True,True,0,2,l.moreau,True,False,Medium
+ID-00674,user00674,Employee,Customer Support,Wealth Management,Active,False,False,True,True,38,3,s.okafor,True,False,Low
+ID-00675,user00675,Employee,Technology,Payments,Active,False,False,True,True,36,4,m.leblanc,True,False,Low
+ID-00676,user00676,Employee,Operations,Shared Technology,Active,False,False,True,True,25,3,b.oconnell,True,False,Low
+ID-00677,user00677,Contractor,Finance,Wealth Management,Active,False,False,True,True,13,3,a.tremblay,True,False,Low
+ID-00678,user00678,Employee,Technology,Wealth Management,Active,False,False,True,True,73,1,j.nguyen,True,False,Low
+ID-00679,user00679,Employee,Legal,Commercial Banking,Active,False,False,True,True,51,4,k.anderson,True,False,Low
+ID-00680,user00680,Employee,Operations,Payments,Terminated,True,False,False,True,36,3,j.nguyen,True,False,High
+ID-00681,user00681,Employee,Retail Banking,Shared Technology,Active,False,False,True,True,54,4,j.nguyen,True,False,Low
+ID-00682,user00682,Employee,Retail Banking,Wealth Management,Terminated,False,False,False,True,28,6,s.okafor,True,False,Low
+ID-00683,user00683,Employee,Customer Support,Retail Banking,Active,False,False,True,True,16,6,c.dubois,True,False,Low
+ID-00684,user00684,Employee,Risk & Compliance,Retail Banking,Active,False,False,True,True,51,6,h.romano,True,False,Low
+ID-00685,user00685,Employee,Risk & Compliance,Wealth Management,Active,False,False,True,True,58,1,l.moreau,True,False,Low
+ID-00686,user00686,Employee,Human Resources,Commercial Banking,Active,True,False,True,False,49,4,b.oconnell,False,True,High
+ID-00687,user00687,Employee,Retail Banking,Wealth Management,Active,False,False,True,True,43,3,d.singh,True,False,Low
+ID-00688,user00688,ServiceAccount,Human Resources,Retail Banking,Active,False,True,True,True,0,1,h.romano,True,False,Medium
+ID-00689,user00689,Employee,Legal,Digital & AI,Active,False,False,True,True,48,3,c.dubois,True,False,Low
+ID-00690,user00690,Employee,Customer Support,Wealth Management,Disabled,False,False,False,True,47,2,l.moreau,True,False,Low
+ID-00691,user00691,Employee,Finance,Wealth Management,Active,True,False,True,True,31,2,k.anderson,True,False,High
+ID-00692,user00692,Contractor,Operations,Retail Banking,Active,False,False,True,True,18,4,h.romano,True,False,Low
+ID-00693,user00693,Employee,Risk & Compliance,Shared Technology,Active,True,False,True,True,74,7,k.anderson,True,False,High
+ID-00694,user00694,Employee,Retail Banking,Shared Technology,Active,False,False,True,True,28,6,r.patel,True,False,Low
+ID-00695,user00695,Contractor,Operations,Payments,Active,False,False,True,True,20,3,a.tremblay,True,False,Low
+ID-00696,user00696,Employee,Operations,Wealth Management,Active,False,False,True,True,53,5,t.gagnon,True,False,Low
+ID-00697,user00697,Employee,Finance,Commercial Banking,Active,False,False,True,True,36,4,c.dubois,True,False,Low
+ID-00698,user00698,Employee,Technology,Commercial Banking,Active,True,False,True,False,42,3,h.romano,False,True,High
+ID-00699,user00699,Employee,Human Resources,Wealth Management,Active,True,False,True,True,49,9,d.singh,True,False,High
+ID-00700,user00700,Employee,Finance,Commercial Banking,Active,False,False,True,True,28,5,a.tremblay,True,False,Low
+ID-00701,user00701,Employee,Human Resources,Wealth Management,Active,False,False,True,True,11,6,l.moreau,True,False,Low
+ID-00702,user00702,Employee,Operations,Commercial Banking,Disabled,False,False,True,True,12,5,c.dubois,True,False,Low
+ID-00703,user00703,Employee,Human Resources,Payments,Disabled,False,False,False,True,71,4,m.leblanc,True,False,Low
+ID-00704,user00704,Contractor,Operations,Payments,Active,False,False,True,True,38,6,j.nguyen,True,False,Low
+ID-00705,user00705,Employee,Human Resources,Shared Technology,Active,True,False,True,True,31,2,l.moreau,True,False,High
+ID-00706,user00706,Employee,Risk & Compliance,Digital & AI,Active,False,False,True,True,24,5,s.okafor,True,False,Low
+ID-00707,user00707,Employee,Human Resources,Payments,Active,False,False,True,True,54,3,l.moreau,True,False,Low
+ID-00708,user00708,Employee,Finance,Wealth Management,Active,False,False,True,True,69,3,t.gagnon,True,False,Low
+ID-00709,user00709,Employee,Human Resources,Retail Banking,Active,False,False,True,True,58,5,s.okafor,True,False,Low
+ID-00710,user00710,Employee,Operations,Payments,Active,False,False,True,True,40,2,a.tremblay,True,False,Low
+ID-00711,user00711,ServiceAccount,Operations,Wealth Management,Active,False,True,True,True,36,4,a.tremblay,True,False,Medium
+ID-00712,user00712,Employee,Finance,Wealth Management,Active,False,False,True,True,65,3,d.singh,True,False,Low
+ID-00713,user00713,Contractor,Legal,Commercial Banking,Active,False,False,True,True,65,3,t.gagnon,True,False,Low
+ID-00714,user00714,Contractor,Customer Support,Wealth Management,Active,False,False,True,True,29,2,b.oconnell,True,False,Low
+ID-00715,user00715,Employee,Legal,Payments,Disabled,False,False,False,True,73,3,a.tremblay,True,False,Low
+ID-00716,user00716,Employee,Risk & Compliance,Wealth Management,Active,False,False,True,True,62,6,c.dubois,True,False,Low
+ID-00717,user00717,Employee,Technology,Shared Technology,Active,False,False,True,True,64,1,a.tremblay,True,False,Low
+ID-00718,user00718,Employee,Operations,Digital & AI,Disabled,False,False,False,True,4,4,r.patel,True,False,Low
+ID-00719,user00719,Employee,Retail Banking,Retail Banking,Terminated,False,False,False,True,9,6,j.nguyen,True,False,Low
+ID-00720,user00720,ServiceAccount,Technology,Digital & AI,Active,False,True,True,True,22,5,l.moreau,True,False,Medium
+ID-00721,user00721,Employee,Legal,Shared Technology,Active,False,False,True,True,57,4,t.gagnon,True,False,Low
+ID-00722,user00722,Employee,Legal,Payments,Active,False,False,True,True,5,3,h.romano,True,False,Low
+ID-00723,user00723,Employee,Risk & Compliance,Digital & AI,Active,False,False,True,True,6,1,a.tremblay,True,False,Low
+ID-00724,user00724,ServiceAccount,Risk & Compliance,Shared Technology,Active,False,True,True,True,2,5,m.leblanc,True,False,Medium
+ID-00725,user00725,Employee,Customer Support,Commercial Banking,Disabled,False,False,True,True,14,6,j.nguyen,True,False,Low
+ID-00726,user00726,Employee,Customer Support,Payments,Active,False,False,True,True,69,4,j.nguyen,True,False,Low
+ID-00727,user00727,Employee,Finance,Payments,Active,False,False,True,True,54,3,r.patel,True,False,Low
+ID-00728,user00728,Employee,Risk & Compliance,Shared Technology,Active,False,False,True,True,54,1,l.moreau,True,False,Low
+ID-00729,user00729,Employee,Human Resources,Digital & AI,Active,False,False,True,True,22,6,d.singh,True,False,Low
+ID-00730,user00730,Employee,Human Resources,Retail Banking,Active,False,False,True,True,47,6,b.oconnell,True,False,Low
+ID-00731,user00731,Employee,Risk & Compliance,Payments,Active,False,False,True,True,59,6,d.singh,True,False,Low
+ID-00732,user00732,Employee,Legal,Retail Banking,Active,False,False,True,True,40,3,j.nguyen,True,False,Low
+ID-00733,user00733,Employee,Risk & Compliance,Payments,Active,False,False,True,True,65,4,m.leblanc,True,False,Low
+ID-00734,user00734,Employee,Retail Banking,Retail Banking,Terminated,False,False,False,True,43,3,r.patel,True,False,Low
+ID-00735,user00735,Employee,Retail Banking,Payments,Active,False,False,True,True,24,2,h.romano,True,False,Low
+ID-00736,user00736,Employee,Customer Support,Digital & AI,Active,False,False,True,True,48,2,b.oconnell,True,False,Low
+ID-00737,user00737,Employee,Legal,Digital & AI,Active,False,False,True,True,71,3,r.patel,True,False,Low
+ID-00738,user00738,Employee,Technology,Payments,Active,False,False,True,True,62,4,m.leblanc,True,False,Low
+ID-00739,user00739,Employee,Operations,Payments,Active,False,False,True,True,37,1,a.tremblay,True,False,Low
+ID-00740,user00740,Employee,Customer Support,Digital & AI,Active,False,False,True,True,45,5,a.tremblay,True,False,Low
+ID-00741,user00741,Employee,Human Resources,Shared Technology,Active,False,False,True,True,74,3,l.moreau,True,False,Low
+ID-00742,user00742,Employee,Retail Banking,Digital & AI,Active,False,False,True,True,56,6,l.moreau,True,False,Low
+ID-00743,user00743,Contractor,Customer Support,Commercial Banking,Active,False,False,True,True,38,2,l.moreau,True,False,Low
+ID-00744,user00744,Employee,Finance,Payments,Active,False,False,True,True,21,1,a.tremblay,True,False,Low
+ID-00745,user00745,Employee,Operations,Payments,Active,True,False,True,True,68,7,c.dubois,True,False,High
+ID-00746,user00746,Employee,Legal,Wealth Management,Active,False,False,True,True,74,6,m.leblanc,True,False,Low
+ID-00747,user00747,Employee,Risk & Compliance,Retail Banking,Active,False,False,True,True,5,2,r.patel,True,False,Low
+ID-00748,user00748,Employee,Human Resources,Retail Banking,Active,False,False,True,True,2,5,l.moreau,True,False,Low
+ID-00749,user00749,Employee,Technology,Digital & AI,Active,False,False,True,True,8,6,j.nguyen,True,False,Low
+ID-00750,user00750,Contractor,Operations,Digital & AI,Active,False,False,True,True,29,2,l.moreau,True,False,Low
+ID-00751,user00751,Employee,Legal,Digital & AI,Active,True,False,True,True,12,4,j.nguyen,True,False,High
+ID-00752,user00752,Employee,Legal,Digital & AI,Active,False,False,True,True,67,2,k.anderson,True,False,Low
+ID-00753,user00753,Employee,Legal,Retail Banking,Active,False,False,True,True,69,3,c.dubois,True,False,Low
+ID-00754,user00754,Employee,Operations,Payments,Active,False,False,True,True,13,2,r.patel,True,False,Low
+ID-00755,user00755,Employee,Human Resources,Shared Technology,Terminated,False,False,False,True,63,5,s.okafor,True,False,Low
+ID-00756,user00756,Employee,Retail Banking,Commercial Banking,Active,False,False,True,True,10,6,k.anderson,True,False,Low
+ID-00757,user00757,Employee,Human Resources,Payments,Disabled,False,False,False,True,59,2,b.oconnell,True,False,Low
+ID-00758,user00758,ServiceAccount,Human Resources,Payments,Active,False,True,True,True,27,1,l.moreau,True,False,Medium
+ID-00759,user00759,Employee,Retail Banking,Wealth Management,Active,False,False,True,True,3,5,d.singh,True,False,Low
+ID-00760,user00760,Employee,Operations,Wealth Management,Active,False,False,True,True,32,3,h.romano,True,False,Low
+ID-00761,user00761,Employee,Legal,Digital & AI,Active,False,False,True,True,62,4,a.tremblay,True,False,Low
+ID-00762,user00762,Employee,Retail Banking,Payments,Terminated,False,False,False,True,70,5,h.romano,True,False,Low
+ID-00763,user00763,Employee,Retail Banking,Digital & AI,Active,True,False,True,True,9,11,m.leblanc,True,False,High
+ID-00764,user00764,Employee,Customer Support,Digital & AI,Active,False,False,True,True,63,6,l.moreau,True,False,Low
+ID-00765,user00765,Contractor,Legal,Digital & AI,Active,True,False,True,True,22,9,b.oconnell,True,False,High
+ID-00766,user00766,Employee,Technology,Wealth Management,Active,False,False,True,True,35,4,t.gagnon,True,False,Low
+ID-00767,user00767,Employee,Legal,Retail Banking,Active,False,False,True,True,8,3,r.patel,True,False,Low
+ID-00768,user00768,Employee,Retail Banking,Retail Banking,Active,False,False,True,True,73,5,t.gagnon,True,False,Low
+ID-00769,user00769,Employee,Finance,Digital & AI,Active,False,False,True,True,60,4,l.moreau,True,False,Low
+ID-00770,user00770,Employee,Operations,Digital & AI,Active,False,False,True,True,48,2,s.okafor,True,False,Low
+ID-00771,user00771,Employee,Retail Banking,Payments,Active,False,False,True,True,55,2,m.leblanc,True,False,Low
+ID-00772,user00772,Employee,Customer Support,Payments,Active,False,False,True,True,66,6,b.oconnell,True,False,Low
+ID-00773,user00773,Employee,Risk & Compliance,Payments,Active,False,False,True,True,10,4,t.gagnon,True,False,Low
+ID-00774,user00774,Contractor,Technology,Commercial Banking,Active,False,False,True,True,18,2,t.gagnon,True,False,Low
+ID-00775,user00775,Employee,Retail Banking,Retail Banking,Active,False,False,True,True,2,1,r.patel,True,False,Low
+ID-00776,user00776,Contractor,Technology,Retail Banking,Active,False,False,True,True,37,1,j.nguyen,True,False,Low
+ID-00777,user00777,Employee,Operations,Retail Banking,Active,False,False,True,True,37,6,h.romano,True,False,Low
+ID-00778,user00778,Employee,Customer Support,Payments,Active,True,False,True,True,2,5,a.tremblay,True,False,High
+ID-00779,user00779,Employee,Human Resources,Retail Banking,Active,False,False,True,True,50,3,t.gagnon,True,False,Low
+ID-00780,user00780,Contractor,Technology,Shared Technology,Active,False,False,True,True,0,2,l.moreau,True,False,Low
+ID-00781,user00781,Employee,Risk & Compliance,Digital & AI,Active,True,False,True,True,60,5,l.moreau,True,False,High
+ID-00782,user00782,Contractor,Retail Banking,Retail Banking,Active,False,False,True,True,53,1,c.dubois,True,False,Low
+ID-00783,user00783,Employee,Operations,Shared Technology,Active,False,False,True,True,61,4,b.oconnell,True,False,Low
+ID-00784,user00784,Employee,Customer Support,Wealth Management,Active,False,False,True,True,8,4,d.singh,True,False,Low
+ID-00785,user00785,ServiceAccount,Technology,Commercial Banking,Active,False,True,True,True,66,5,a.tremblay,True,False,Medium
+ID-00786,user00786,Employee,Human Resources,Retail Banking,Active,False,False,True,True,41,2,k.anderson,True,False,Low
+ID-00787,user00787,Contractor,Retail Banking,Commercial Banking,Disabled,False,False,True,True,65,2,t.gagnon,True,False,Low
+ID-00788,user00788,Employee,Finance,Payments,Active,True,False,True,True,52,4,a.tremblay,True,False,High
+ID-00789,user00789,Employee,Human Resources,Wealth Management,Active,False,False,True,True,49,3,d.singh,True,False,Low
+ID-00790,user00790,Employee,Human Resources,Commercial Banking,Active,False,False,True,True,2,4,m.leblanc,True,False,Low
+ID-00791,user00791,Employee,Risk & Compliance,Digital & AI,Terminated,False,False,False,True,52,1,k.anderson,True,False,Low
+ID-00792,user00792,Employee,Customer Support,Commercial Banking,Active,False,False,True,True,34,5,t.gagnon,True,False,Low
+ID-00793,user00793,Employee,Technology,Digital & AI,Active,True,False,True,True,64,2,c.dubois,True,False,High
+ID-00794,user00794,Employee,Operations,Payments,Active,False,False,True,True,51,5,a.tremblay,True,False,Low
+ID-00795,user00795,Employee,Operations,Wealth Management,Active,False,False,True,True,5,3,a.tremblay,True,False,Low
+ID-00796,user00796,Employee,Human Resources,Wealth Management,Active,False,False,True,True,67,1,d.singh,True,False,Low
+ID-00797,user00797,Employee,Operations,Wealth Management,Active,False,False,True,True,4,1,b.oconnell,True,False,Low
+ID-00798,user00798,Employee,Customer Support,Wealth Management,Active,False,False,True,True,22,4,j.nguyen,True,False,Low
+ID-00799,user00799,Employee,Operations,Retail Banking,Active,False,False,True,True,16,4,b.oconnell,True,False,Low
+ID-00800,user00800,Employee,Risk & Compliance,Commercial Banking,Active,False,False,True,True,74,5,c.dubois,True,False,Low
+ID-00801,user00801,Employee,Technology,Shared Technology,Terminated,True,False,False,True,11,9,a.tremblay,True,False,High
+ID-00802,user00802,Employee,Risk & Compliance,Payments,Active,False,False,True,True,64,1,k.anderson,True,False,Low
+ID-00803,user00803,Contractor,Finance,Commercial Banking,Active,False,False,True,True,16,2,b.oconnell,True,False,Low
+ID-00804,user00804,Employee,Customer Support,Payments,Active,False,False,True,True,49,2,j.nguyen,True,False,Low
+ID-00805,user00805,Employee,Finance,Retail Banking,Active,True,False,True,True,6,10,b.oconnell,True,False,High
+ID-00806,user00806,Employee,Legal,Digital & AI,Active,False,False,True,True,29,1,l.moreau,True,False,Low
+ID-00807,user00807,Employee,Human Resources,Digital & AI,Active,False,False,True,True,47,1,r.patel,True,False,Low
+ID-00808,user00808,Employee,Risk & Compliance,Payments,Active,False,False,True,True,54,4,d.singh,True,False,Low
+ID-00809,user00809,Employee,Legal,Shared Technology,Active,False,False,True,True,66,1,r.patel,True,False,Low
+ID-00810,user00810,ServiceAccount,Human Resources,Shared Technology,Active,False,True,True,True,62,3,s.okafor,True,False,Medium
+ID-00811,user00811,Employee,Technology,Payments,Terminated,False,False,False,True,39,1,t.gagnon,True,False,Low
+ID-00812,user00812,Employee,Customer Support,Retail Banking,Active,True,False,True,True,23,7,r.patel,True,False,High
+ID-00813,user00813,ServiceAccount,Retail Banking,Digital & AI,Active,False,True,True,True,19,5,k.anderson,True,False,Medium
+ID-00814,user00814,Employee,Human Resources,Commercial Banking,Active,True,False,True,False,75,10,d.singh,True,True,High
+ID-00815,user00815,Employee,Human Resources,Retail Banking,Active,False,False,True,True,46,1,a.tremblay,True,False,Low
+ID-00816,user00816,Contractor,Legal,Shared Technology,Active,False,False,True,True,69,2,d.singh,True,False,Low
+ID-00817,user00817,Contractor,Retail Banking,Retail Banking,Active,False,False,True,True,32,3,r.patel,True,False,Low
+ID-00818,user00818,Employee,Technology,Retail Banking,Active,False,False,True,True,36,4,k.anderson,True,False,Low
+ID-00819,user00819,Employee,Technology,Wealth Management,Active,False,False,True,True,62,1,c.dubois,True,False,Low
+ID-00820,user00820,Employee,Technology,Payments,Disabled,False,False,False,True,54,2,h.romano,True,False,Low
+ID-00821,user00821,Employee,Legal,Shared Technology,Active,False,False,True,True,15,3,m.leblanc,True,False,Low
+ID-00822,user00822,Employee,Risk & Compliance,Shared Technology,Active,False,False,True,True,39,1,s.okafor,True,False,Low
+ID-00823,user00823,Employee,Operations,Digital & AI,Active,False,False,True,True,16,3,r.patel,True,False,Low
+ID-00824,user00824,Employee,Retail Banking,Payments,Active,True,False,True,True,57,6,s.okafor,True,False,High
+ID-00825,user00825,Contractor,Technology,Payments,Active,False,False,True,True,2,4,m.leblanc,True,False,Low
+ID-00826,user00826,Employee,Risk & Compliance,Payments,Terminated,False,False,False,True,62,3,l.moreau,True,False,Low
+ID-00827,user00827,Employee,Retail Banking,Digital & AI,Active,False,False,True,True,70,3,h.romano,True,False,Low
+ID-00828,user00828,Employee,Human Resources,Commercial Banking,Active,False,False,True,True,1,6,d.singh,True,False,Low
+ID-00829,user00829,Contractor,Finance,Retail Banking,Active,False,False,True,True,47,4,j.nguyen,True,False,Low
+ID-00830,user00830,Employee,Legal,Commercial Banking,Active,False,False,True,True,6,4,h.romano,True,False,Low
+ID-00831,user00831,Employee,Finance,Retail Banking,Active,False,False,True,True,27,6,r.patel,True,False,Low
+ID-00832,user00832,Employee,Retail Banking,Digital & AI,Active,False,False,True,True,25,1,m.leblanc,True,False,Low
+ID-00833,user00833,Employee,Operations,Digital & AI,Active,False,False,True,True,39,1,h.romano,True,False,Low
+ID-00834,user00834,Employee,Customer Support,Digital & AI,Active,False,False,True,True,69,3,k.anderson,True,False,Low
+ID-00835,user00835,Employee,Customer Support,Wealth Management,Active,False,False,True,True,35,2,r.patel,True,False,Low
+ID-00836,user00836,Employee,Technology,Shared Technology,Active,False,False,True,True,30,2,l.moreau,True,False,Low
+ID-00837,user00837,Employee,Retail Banking,Digital & AI,Active,False,False,True,True,7,1,d.singh,True,False,Low
+ID-00838,user00838,ServiceAccount,Risk & Compliance,Payments,Active,False,True,True,True,67,5,m.leblanc,True,False,Medium
+ID-00839,user00839,Employee,Retail Banking,Commercial Banking,Active,False,False,True,True,23,4,s.okafor,True,False,Low
+ID-00840,user00840,Employee,Finance,Digital & AI,Active,False,False,True,True,35,5,k.anderson,True,False,Low
+ID-00841,user00841,Employee,Technology,Shared Technology,Active,False,False,True,True,7,1,a.tremblay,True,False,Low
+ID-00842,user00842,Employee,Risk & Compliance,Digital & AI,Active,False,False,True,True,21,3,l.moreau,True,False,Low
+ID-00843,user00843,Employee,Operations,Commercial Banking,Active,False,False,True,True,42,4,c.dubois,True,False,Low
+ID-00844,user00844,Employee,Risk & Compliance,Digital & AI,Active,False,False,True,True,68,4,m.leblanc,True,False,Low
+ID-00845,user00845,Employee,Technology,Wealth Management,Active,False,False,True,True,24,5,l.moreau,True,False,Low
+ID-00846,user00846,Contractor,Customer Support,Payments,Active,False,False,True,True,42,5,r.patel,True,False,Low
+ID-00847,user00847,Employee,Technology,Payments,Active,False,False,True,True,66,3,r.patel,True,False,Low
+ID-00848,user00848,Employee,Customer Support,Retail Banking,Active,False,False,True,True,27,5,m.leblanc,True,False,Low
+ID-00849,user00849,Employee,Human Resources,Commercial Banking,Active,False,False,True,True,22,2,d.singh,True,False,Low
+ID-00850,user00850,ServiceAccount,Operations,Payments,Active,False,True,True,True,3,4,t.gagnon,True,False,Medium
+ID-00851,user00851,Employee,Technology,Digital & AI,Active,False,False,True,True,69,6,l.moreau,True,False,Low
+ID-00852,user00852,Employee,Finance,Retail Banking,Active,False,False,True,True,8,1,m.leblanc,True,False,Low
+ID-00853,user00853,Contractor,Operations,Digital & AI,Active,False,False,True,True,16,2,t.gagnon,True,False,Low
+ID-00854,user00854,Contractor,Finance,Wealth Management,Active,False,False,True,True,10,1,s.okafor,True,False,Low
+ID-00855,user00855,Employee,Legal,Shared Technology,Active,False,False,True,True,53,2,j.nguyen,True,False,Low
+ID-00856,user00856,Employee,Legal,Commercial Banking,Active,False,False,True,True,27,3,a.tremblay,True,False,Low
+ID-00857,user00857,Employee,Legal,Shared Technology,Active,False,False,True,True,53,1,t.gagnon,True,False,Low
+ID-00858,user00858,Contractor,Legal,Digital & AI,Active,False,False,True,True,46,3,a.tremblay,True,False,Low
+ID-00859,user00859,Employee,Risk & Compliance,Wealth Management,Terminated,False,False,False,True,1,6,k.anderson,True,False,Low
+ID-00860,user00860,Employee,Operations,Commercial Banking,Active,True,False,True,False,23,4,m.leblanc,True,True,High
+ID-00861,user00861,Employee,Retail Banking,Wealth Management,Active,False,False,True,True,0,6,m.leblanc,True,False,Low
+ID-00862,user00862,Employee,Operations,Wealth Management,Active,True,False,True,True,4,9,l.moreau,True,False,High
+ID-00863,user00863,Employee,Human Resources,Commercial Banking,Active,False,False,True,True,35,4,h.romano,True,False,Low
+ID-00864,user00864,Employee,Retail Banking,Digital & AI,Disabled,False,False,False,True,20,3,a.tremblay,True,False,Low
+ID-00865,user00865,Employee,Retail Banking,Commercial Banking,Active,False,False,True,True,6,2,s.okafor,True,False,Low
+ID-00866,user00866,Contractor,Customer Support,Digital & AI,Active,False,False,True,True,31,1,j.nguyen,True,False,Low
+ID-00867,user00867,Contractor,Operations,Payments,Active,False,False,True,True,34,4,b.oconnell,True,False,Low
+ID-00868,user00868,Employee,Operations,Payments,Active,False,False,True,True,75,6,a.tremblay,True,False,Low
+ID-00869,user00869,Employee,Technology,Payments,Active,False,False,True,True,50,4,m.leblanc,True,False,Low
+ID-00870,user00870,Employee,Finance,Wealth Management,Active,False,False,True,True,29,4,r.patel,True,False,Low
+ID-00871,user00871,Employee,Finance,Retail Banking,Active,False,False,True,True,35,4,j.nguyen,True,False,Low
+ID-00872,user00872,Employee,Retail Banking,Retail Banking,Active,False,False,True,True,6,3,a.tremblay,True,False,Low
+ID-00873,user00873,ServiceAccount,Legal,Commercial Banking,Active,False,True,True,True,29,6,k.anderson,True,False,Medium
+ID-00874,user00874,Employee,Operations,Commercial Banking,Active,True,False,True,True,44,5,l.moreau,True,True,High
+ID-00875,user00875,Employee,Customer Support,Wealth Management,Active,False,False,True,True,1,6,m.leblanc,True,False,Low
+ID-00876,user00876,Contractor,Operations,Payments,Active,False,False,True,True,69,2,d.singh,True,False,Low
+ID-00877,user00877,Employee,Operations,Wealth Management,Active,True,False,True,True,39,11,a.tremblay,True,False,High
+ID-00878,user00878,Employee,Technology,Digital & AI,Active,False,False,True,True,59,6,d.singh,True,False,Low
+ID-00879,user00879,Employee,Risk & Compliance,Shared Technology,Active,True,False,True,True,20,7,j.nguyen,True,False,High
+ID-00880,user00880,Employee,Customer Support,Digital & AI,Active,False,False,True,True,63,4,m.leblanc,True,False,Low
+ID-00881,user00881,Employee,Operations,Retail Banking,Active,False,False,True,True,27,5,m.leblanc,True,False,Low
+ID-00882,user00882,Employee,Risk & Compliance,Payments,Active,False,False,True,True,70,3,t.gagnon,True,False,Low
+ID-00883,user00883,ServiceAccount,Retail Banking,Wealth Management,Active,False,True,True,True,39,1,k.anderson,True,False,Medium
+ID-00884,user00884,Employee,Operations,Shared Technology,Active,False,False,True,True,48,6,d.singh,True,False,Low
+ID-00885,user00885,Employee,Customer Support,Retail Banking,Active,False,False,True,True,15,4,m.leblanc,True,False,Low
+ID-00886,user00886,Employee,Risk & Compliance,Digital & AI,Active,True,False,True,True,75,7,a.tremblay,True,False,High
+ID-00887,user00887,Employee,Finance,Digital & AI,Terminated,False,False,False,True,14,5,a.tremblay,True,False,Low
+ID-00888,user00888,Employee,Retail Banking,Retail Banking,Active,False,False,True,True,2,5,c.dubois,True,False,Low
+ID-00889,user00889,Employee,Retail Banking,Shared Technology,Active,False,False,True,True,33,6,j.nguyen,True,False,Low
+ID-00890,user00890,Employee,Human Resources,Digital & AI,Active,False,False,True,True,63,2,h.romano,True,False,Low
+ID-00891,user00891,Employee,Operations,Commercial Banking,Active,False,False,True,True,70,1,h.romano,True,False,Low
+ID-00892,user00892,ServiceAccount,Legal,Digital & AI,Active,False,True,True,True,65,3,j.nguyen,True,False,Medium
+ID-00893,user00893,Employee,Risk & Compliance,Shared Technology,Active,False,False,True,True,42,2,c.dubois,True,False,Low
+ID-00894,user00894,Employee,Technology,Wealth Management,Active,False,False,True,True,69,5,r.patel,True,False,Low
+ID-00895,user00895,Employee,Retail Banking,Retail Banking,Active,False,False,True,True,37,4,d.singh,True,False,Low
+ID-00896,user00896,Contractor,Legal,Wealth Management,Terminated,False,False,False,True,36,3,l.moreau,True,False,Low
+ID-00897,user00897,Employee,Operations,Shared Technology,Active,False,False,True,True,13,1,l.moreau,True,False,Low
+ID-00898,user00898,Employee,Customer Support,Commercial Banking,Active,False,False,True,True,59,5,a.tremblay,True,False,Low
+ID-00899,user00899,Employee,Human Resources,Commercial Banking,Active,True,False,True,True,24,8,r.patel,True,False,High
+ID-00900,user00900,Employee,Customer Support,Commercial Banking,Active,False,False,True,True,14,5,b.oconnell,True,False,Low
+ID-00901,user00901,Employee,Finance,Shared Technology,Active,False,False,True,True,28,1,r.patel,True,False,Low
+ID-00902,user00902,Employee,Operations,Commercial Banking,Active,False,False,True,True,45,2,m.leblanc,True,False,Low
+ID-00903,user00903,Employee,Operations,Wealth Management,Active,False,False,True,True,20,1,m.leblanc,True,False,Low
+ID-00904,user00904,Employee,Operations,Commercial Banking,Disabled,False,False,True,True,27,2,a.tremblay,True,False,Low
+ID-00905,user00905,ServiceAccount,Legal,Shared Technology,Active,False,True,True,True,25,6,h.romano,True,False,Medium
+ID-00906,user00906,Employee,Finance,Commercial Banking,Active,False,False,True,True,45,3,a.tremblay,True,False,Low
+ID-00907,user00907,Employee,Risk & Compliance,Commercial Banking,Active,False,False,True,True,54,3,l.moreau,True,False,Low
+ID-00908,user00908,Employee,Legal,Payments,Active,False,False,True,True,51,2,r.patel,True,False,Low
+ID-00909,user00909,Employee,Legal,Digital & AI,Active,False,False,True,True,10,2,s.okafor,True,False,Low
+ID-00910,user00910,Employee,Risk & Compliance,Retail Banking,Disabled,False,False,False,True,26,5,t.gagnon,True,False,Low
+ID-00911,user00911,Employee,Legal,Retail Banking,Active,False,False,True,True,49,6,d.singh,True,False,Low
+ID-00912,user00912,Contractor,Retail Banking,Shared Technology,Terminated,False,False,False,True,16,5,h.romano,True,False,Low
+ID-00913,user00913,Contractor,Risk & Compliance,Retail Banking,Active,False,False,True,True,5,5,b.oconnell,True,False,Low
+ID-00914,user00914,ServiceAccount,Risk & Compliance,Digital & AI,Active,False,True,True,True,24,7,t.gagnon,True,False,Medium
+ID-00915,user00915,ServiceAccount,Finance,Wealth Management,Active,False,True,True,True,51,4,d.singh,True,False,Medium
+ID-00916,user00916,ServiceAccount,Finance,Payments,Active,False,True,True,True,50,6,k.anderson,True,False,Medium
+ID-00917,user00917,Employee,Legal,Commercial Banking,Active,False,False,True,True,9,5,d.singh,True,False,Low
+ID-00918,user00918,Employee,Technology,Digital & AI,Active,False,False,True,True,51,4,c.dubois,True,False,Low
+ID-00919,user00919,Employee,Operations,Retail Banking,Active,False,False,True,True,14,1,m.leblanc,True,False,Low
+ID-00920,user00920,Employee,Risk & Compliance,Retail Banking,Disabled,False,False,False,True,56,5,r.patel,True,False,Low
+ID-00921,user00921,Employee,Risk & Compliance,Digital & AI,Active,False,False,True,True,43,6,c.dubois,True,False,Low
+ID-00922,user00922,Contractor,Risk & Compliance,Digital & AI,Active,False,False,True,True,9,2,a.tremblay,True,False,Low
+ID-00923,user00923,Employee,Legal,Shared Technology,Active,False,False,True,True,26,1,t.gagnon,True,False,Low
+ID-00924,user00924,Employee,Human Resources,Commercial Banking,Active,False,False,True,True,62,5,t.gagnon,True,False,Low
+ID-00925,user00925,Employee,Legal,Retail Banking,Disabled,False,False,False,True,32,2,c.dubois,True,False,Low
+ID-00926,user00926,Employee,Customer Support,Wealth Management,Active,False,False,True,True,52,5,c.dubois,True,False,Low
+ID-00927,user00927,Employee,Legal,Retail Banking,Active,False,False,True,True,56,5,t.gagnon,True,False,Low
+ID-00928,user00928,Contractor,Risk & Compliance,Commercial Banking,Active,False,False,True,True,2,2,c.dubois,True,False,Low
+ID-00929,user00929,Employee,Risk & Compliance,Retail Banking,Active,True,False,True,True,70,4,d.singh,True,False,High
+ID-00930,user00930,Employee,Human Resources,Wealth Management,Active,False,False,True,True,25,4,k.anderson,True,False,Low
+ID-00931,user00931,Employee,Human Resources,Payments,Active,False,False,True,True,60,3,j.nguyen,True,False,Low
+ID-00932,user00932,Employee,Finance,Payments,Active,False,False,True,True,35,6,h.romano,True,False,Low
+ID-00933,user00933,Employee,Legal,Commercial Banking,Active,False,False,True,True,43,3,m.leblanc,True,False,Low
+ID-00934,user00934,Employee,Customer Support,Commercial Banking,Active,True,False,True,True,27,5,m.leblanc,True,False,High
+ID-00935,user00935,Employee,Legal,Retail Banking,Active,False,False,True,True,64,6,d.singh,True,False,Low
+ID-00936,user00936,Employee,Customer Support,Wealth Management,Terminated,False,False,False,True,8,5,d.singh,True,False,Low
+ID-00937,user00937,ServiceAccount,Legal,Digital & AI,Active,False,True,True,True,68,1,b.oconnell,True,False,Medium
+ID-00938,user00938,Employee,Operations,Wealth Management,Active,False,False,True,True,15,6,d.singh,True,False,Low
+ID-00939,user00939,Contractor,Technology,Digital & AI,Active,False,False,True,True,67,5,a.tremblay,True,False,Low
+ID-00940,user00940,Employee,Technology,Wealth Management,Active,True,False,True,True,1,8,t.gagnon,True,False,High
+ID-00941,user00941,Employee,Operations,Shared Technology,Terminated,True,False,False,True,1,7,r.patel,True,False,High
+ID-00942,user00942,Contractor,Technology,Shared Technology,Active,False,False,True,True,7,3,a.tremblay,True,False,Low
+ID-00943,user00943,Employee,Retail Banking,Digital & AI,Active,False,False,True,True,41,1,k.anderson,True,False,Low
+ID-00944,user00944,Employee,Technology,Wealth Management,Active,False,False,True,True,20,4,m.leblanc,True,False,Low
+ID-00945,user00945,Employee,Technology,Shared Technology,Active,False,False,True,True,45,5,r.patel,True,False,Low
+ID-00946,user00946,Employee,Risk & Compliance,Payments,Active,False,False,True,True,62,6,c.dubois,True,False,Low
+ID-00947,user00947,Employee,Human Resources,Commercial Banking,Active,False,False,True,True,2,5,a.tremblay,True,False,Low
+ID-00948,user00948,Contractor,Technology,Retail Banking,Active,True,False,True,True,40,10,t.gagnon,True,False,High
+ID-00949,user00949,Contractor,Risk & Compliance,Shared Technology,Active,False,False,True,True,56,4,k.anderson,True,False,Low
+ID-00950,user00950,Employee,Customer Support,Commercial Banking,Active,False,False,True,True,32,1,b.oconnell,True,False,Low
+ID-00951,user00951,Employee,Customer Support,Digital & AI,Active,False,False,True,True,70,1,c.dubois,True,False,Low
+ID-00952,user00952,Employee,Finance,Payments,Active,False,False,True,True,50,1,l.moreau,True,False,Low
+ID-00953,user00953,Employee,Customer Support,Wealth Management,Active,False,False,True,True,2,6,h.romano,True,False,Low
+ID-00954,user00954,Employee,Finance,Retail Banking,Active,False,False,True,True,41,5,m.leblanc,True,False,Low
+ID-00955,user00955,ServiceAccount,Technology,Payments,Active,False,True,True,True,29,7,t.gagnon,True,False,Medium
+ID-00956,user00956,Contractor,Operations,Digital & AI,Active,False,False,True,True,9,3,m.leblanc,True,False,Low
+ID-00957,user00957,Employee,Human Resources,Digital & AI,Active,False,False,True,True,72,3,b.oconnell,True,False,Low
+ID-00958,user00958,Employee,Technology,Shared Technology,Active,False,False,True,True,16,2,l.moreau,True,False,Low
+ID-00959,user00959,Employee,Human Resources,Commercial Banking,Active,True,False,True,True,6,5,k.anderson,True,False,High
+ID-00960,user00960,Employee,Legal,Wealth Management,Active,False,False,True,True,16,3,m.leblanc,True,False,Low
+ID-00961,user00961,Employee,Legal,Commercial Banking,Active,False,False,True,True,62,5,k.anderson,True,False,Low
+ID-00962,user00962,Employee,Operations,Wealth Management,Active,True,False,True,True,45,11,k.anderson,True,False,High
+ID-00963,user00963,Employee,Finance,Commercial Banking,Active,False,False,True,True,62,1,b.oconnell,True,False,Low
+ID-00964,user00964,Employee,Technology,Payments,Active,False,False,True,True,35,3,t.gagnon,True,False,Low
+ID-00965,user00965,ServiceAccount,Human Resources,Shared Technology,Active,False,True,True,True,8,1,c.dubois,True,False,Medium
+ID-00966,user00966,Employee,Technology,Digital & AI,Active,True,False,True,True,29,5,r.patel,True,False,High
+ID-00967,user00967,ServiceAccount,Customer Support,Commercial Banking,Active,False,True,True,True,15,6,r.patel,True,False,Medium
+ID-00968,user00968,Employee,Operations,Retail Banking,Active,False,False,True,True,42,5,r.patel,True,False,Low
+ID-00969,user00969,Employee,Human Resources,Retail Banking,Active,False,False,True,True,20,1,a.tremblay,True,False,Low
+ID-00970,user00970,Employee,Risk & Compliance,Retail Banking,Active,False,False,True,True,73,6,a.tremblay,True,False,Low
+ID-00971,user00971,Employee,Risk & Compliance,Retail Banking,Active,False,False,True,True,28,5,h.romano,True,False,Low
+ID-00972,user00972,Employee,Human Resources,Digital & AI,Active,False,False,True,True,23,6,j.nguyen,True,False,Low
+ID-00973,user00973,Employee,Legal,Commercial Banking,Active,False,False,True,True,74,6,r.patel,True,False,Low
+ID-00974,user00974,Contractor,Operations,Digital & AI,Active,False,False,True,True,39,2,d.singh,True,False,Low
+ID-00975,user00975,Employee,Risk & Compliance,Digital & AI,Active,True,False,True,True,12,7,l.moreau,True,False,High
+ID-00976,user00976,Employee,Customer Support,Commercial Banking,Active,False,False,True,True,36,4,r.patel,True,False,Low
+ID-00977,user00977,Employee,Human Resources,Shared Technology,Active,True,False,True,True,19,4,h.romano,True,False,High
+ID-00978,user00978,Employee,Retail Banking,Payments,Active,True,False,True,True,54,11,s.okafor,True,False,High
+ID-00979,user00979,Employee,Operations,Shared Technology,Active,False,False,True,True,43,2,c.dubois,True,False,Low
+ID-00980,user00980,Employee,Human Resources,Retail Banking,Terminated,False,False,False,True,55,6,s.okafor,True,False,Low
+ID-00981,user00981,ServiceAccount,Legal,Digital & AI,Active,False,True,True,True,71,2,k.anderson,True,False,Medium
+ID-00982,user00982,Contractor,Risk & Compliance,Digital & AI,Active,False,False,True,True,55,2,s.okafor,True,False,Low
+ID-00983,user00983,Employee,Finance,Retail Banking,Active,False,False,True,True,25,4,b.oconnell,True,False,Low
+ID-00984,user00984,Employee,Operations,Wealth Management,Active,False,False,True,True,15,4,l.moreau,True,False,Low
+ID-00985,user00985,Employee,Retail Banking,Digital & AI,Active,False,False,True,True,40,2,m.leblanc,True,False,Low
+ID-00986,user00986,Contractor,Customer Support,Payments,Active,True,False,True,True,34,9,l.moreau,True,False,High
+ID-00987,user00987,Employee,Customer Support,Payments,Active,False,False,True,True,23,4,r.patel,True,False,Low
+ID-00988,user00988,Employee,Human Resources,Payments,Active,False,False,True,True,61,1,k.anderson,True,False,Low
+ID-00989,user00989,Employee,Finance,Retail Banking,Active,False,False,True,True,69,2,m.leblanc,True,False,Low
+ID-00990,user00990,Employee,Retail Banking,Commercial Banking,Active,False,False,True,True,28,6,k.anderson,True,False,Low
+ID-00991,user00991,Employee,Customer Support,Wealth Management,Terminated,False,False,False,True,51,1,s.okafor,True,False,Low
+ID-00992,user00992,Employee,Legal,Shared Technology,Active,False,False,True,True,74,1,s.okafor,True,False,Low
+ID-00993,user00993,Employee,Technology,Shared Technology,Active,True,False,True,True,0,11,l.moreau,True,False,High
+ID-00994,user00994,Employee,Legal,Shared Technology,Disabled,False,False,False,True,27,3,k.anderson,True,False,Low
+ID-00995,user00995,Contractor,Finance,Retail Banking,Disabled,False,False,False,True,56,2,j.nguyen,True,False,Low
+ID-00996,user00996,Employee,Technology,Payments,Active,True,False,True,True,37,6,a.tremblay,True,False,High
+ID-00997,user00997,Employee,Human Resources,Shared Technology,Active,True,False,True,True,60,11,c.dubois,True,False,High
+ID-00998,user00998,Employee,Human Resources,Wealth Management,Active,False,False,True,True,36,3,b.oconnell,True,False,Low
+ID-00999,user00999,ServiceAccount,Legal,Shared Technology,Active,False,True,True,True,4,1,d.singh,True,False,Medium
+ID-01000,user01000,Employee,Risk & Compliance,Commercial Banking,Active,False,False,True,True,32,4,a.tremblay,True,False,Low
+ID-01001,user01001,Employee,Risk & Compliance,Shared Technology,Active,False,False,True,True,30,5,b.oconnell,True,False,Low
+ID-01002,user01002,Employee,Risk & Compliance,Digital & AI,Active,False,False,True,True,64,6,c.dubois,True,False,Low
+ID-01003,user01003,Employee,Risk & Compliance,Digital & AI,Terminated,False,False,False,True,11,1,k.anderson,True,False,Low
+ID-01004,user01004,Employee,Risk & Compliance,Commercial Banking,Active,False,False,True,True,11,2,a.tremblay,True,False,Low
+ID-01005,user01005,Employee,Operations,Shared Technology,Active,False,False,True,True,10,2,j.nguyen,True,False,Low
+ID-01006,user01006,Employee,Human Resources,Commercial Banking,Active,False,False,True,True,43,4,h.romano,True,False,Low
+ID-01007,user01007,Contractor,Operations,Retail Banking,Terminated,False,False,False,True,75,4,j.nguyen,True,False,Low
+ID-01008,user01008,Employee,Risk & Compliance,Commercial Banking,Disabled,False,False,True,True,47,6,s.okafor,True,False,Low
+ID-01009,user01009,Employee,Customer Support,Commercial Banking,Active,False,False,True,True,62,6,s.okafor,True,False,Low
+ID-01010,user01010,Employee,Risk & Compliance,Shared Technology,Active,False,False,True,True,64,5,b.oconnell,True,False,Low
+ID-01011,user01011,Employee,Risk & Compliance,Payments,Active,False,False,True,True,45,2,h.romano,True,False,Low
+ID-01012,user01012,Employee,Finance,Digital & AI,Active,False,False,True,True,46,1,a.tremblay,True,False,Low
+ID-01013,user01013,Employee,Operations,Payments,Active,False,False,True,True,18,6,b.oconnell,True,False,Low
+ID-01014,user01014,ServiceAccount,Retail Banking,Commercial Banking,Active,False,True,True,True,72,2,h.romano,True,False,Medium
+ID-01015,user01015,Employee,Retail Banking,Shared Technology,Active,False,False,True,True,59,2,r.patel,True,False,Low
+ID-01016,user01016,Employee,Legal,Wealth Management,Active,False,False,True,True,66,1,l.moreau,True,False,Low
+ID-01017,user01017,Employee,Legal,Wealth Management,Active,False,False,True,True,74,5,j.nguyen,True,False,Low
+ID-01018,user01018,Contractor,Customer Support,Shared Technology,Active,False,False,True,True,26,4,m.leblanc,True,False,Low
+ID-01019,user01019,Employee,Operations,Digital & AI,Active,True,False,True,True,10,10,d.singh,True,False,High
+ID-01020,user01020,Employee,Finance,Wealth Management,Active,False,False,True,True,65,4,m.leblanc,True,False,Low
+ID-01021,user01021,Contractor,Human Resources,Wealth Management,Active,False,False,True,True,35,5,r.patel,True,False,Low
+ID-01022,user01022,Employee,Legal,Payments,Active,False,False,True,True,72,5,r.patel,True,False,Low
+ID-01023,user01023,ServiceAccount,Retail Banking,Wealth Management,Active,False,True,True,True,52,2,s.okafor,True,False,Medium
+ID-01024,user01024,Employee,Human Resources,Wealth Management,Active,False,False,True,True,19,1,h.romano,True,False,Low
+ID-01025,user01025,Employee,Legal,Retail Banking,Disabled,False,False,False,True,26,5,d.singh,True,False,Low
+ID-01026,user01026,Employee,Risk & Compliance,Commercial Banking,Active,False,False,True,True,46,2,t.gagnon,True,False,Low
+ID-01027,user01027,ServiceAccount,Technology,Digital & AI,Active,False,True,True,True,29,3,k.anderson,True,False,Medium
+ID-01028,user01028,Employee,Finance,Payments,Disabled,False,False,False,True,21,5,m.leblanc,True,False,Low
+ID-01029,user01029,Employee,Human Resources,Wealth Management,Active,False,False,True,True,15,2,j.nguyen,True,False,Low
+ID-01030,user01030,Employee,Risk & Compliance,Shared Technology,Active,False,False,True,True,49,1,r.patel,True,False,Low
+ID-01031,user01031,Employee,Technology,Commercial Banking,Active,False,False,True,True,2,1,b.oconnell,True,False,Low
+ID-01032,user01032,Employee,Finance,Digital & AI,Active,False,False,True,True,7,3,m.leblanc,True,False,Low
+ID-01033,user01033,Employee,Legal,Payments,Active,False,False,True,True,3,4,d.singh,True,False,Low
+ID-01034,user01034,Contractor,Operations,Shared Technology,Active,False,False,True,True,55,5,s.okafor,True,False,Low
+ID-01035,user01035,Employee,Operations,Wealth Management,Terminated,True,False,False,True,2,9,b.oconnell,True,False,High
+ID-01036,user01036,Employee,Customer Support,Retail Banking,Active,False,False,True,True,31,4,l.moreau,True,False,Low
+ID-01037,user01037,Employee,Operations,Shared Technology,Active,False,False,True,True,9,5,c.dubois,True,False,Low
+ID-01038,user01038,Employee,Legal,Retail Banking,Active,False,False,True,True,44,2,r.patel,True,False,Low
+ID-01039,user01039,Employee,Customer Support,Shared Technology,Active,False,False,True,True,2,3,r.patel,True,False,Low
+ID-01040,user01040,Employee,Operations,Payments,Active,False,False,True,True,1,2,m.leblanc,True,False,Low
+ID-01041,user01041,Employee,Operations,Payments,Active,False,False,True,True,31,1,l.moreau,True,False,Low
+ID-01042,user01042,Employee,Human Resources,Retail Banking,Active,False,False,True,True,52,6,t.gagnon,True,False,Low
+ID-01043,user01043,Employee,Risk & Compliance,Wealth Management,Active,True,False,True,True,8,5,m.leblanc,True,False,High
+ID-01044,user01044,Employee,Legal,Commercial Banking,Active,False,False,True,True,37,3,d.singh,True,False,Low
+ID-01045,user01045,Employee,Operations,Shared Technology,Active,False,False,True,True,61,3,k.anderson,True,False,Low
+ID-01046,user01046,Employee,Finance,Commercial Banking,Active,False,False,True,True,47,1,h.romano,True,False,Low
+ID-01047,user01047,Employee,Legal,Digital & AI,Terminated,False,False,False,True,57,6,h.romano,True,False,Low
+ID-01048,user01048,Employee,Technology,Shared Technology,Active,False,False,True,True,23,2,a.tremblay,True,False,Low
+ID-01049,user01049,Contractor,Human Resources,Commercial Banking,Active,False,False,True,True,71,1,a.tremblay,True,False,Low
+ID-01050,user01050,Employee,Customer Support,Wealth Management,Active,False,False,True,True,11,3,t.gagnon,True,False,Low
+ID-01051,user01051,Employee,Technology,Shared Technology,Active,False,False,True,True,46,1,s.okafor,True,False,Low
+ID-01052,user01052,Employee,Human Resources,Payments,Active,False,False,True,True,33,6,k.anderson,True,False,Low
+ID-01053,user01053,Employee,Finance,Digital & AI,Active,False,False,True,True,2,2,h.romano,True,False,Low
+ID-01054,user01054,Employee,Retail Banking,Retail Banking,Terminated,False,False,False,True,71,2,k.anderson,True,False,Low
+ID-01055,user01055,Employee,Operations,Payments,Active,False,False,True,True,53,2,a.tremblay,True,False,Low
+ID-01056,user01056,Employee,Customer Support,Shared Technology,Active,False,False,True,True,17,1,a.tremblay,True,False,Low
+ID-01057,user01057,Contractor,Risk & Compliance,Wealth Management,Active,False,False,True,True,3,1,d.singh,True,False,Low
+ID-01058,user01058,Employee,Risk & Compliance,Wealth Management,Active,False,False,True,True,51,4,t.gagnon,True,False,Low
+ID-01059,user01059,Employee,Retail Banking,Wealth Management,Active,False,False,True,True,41,2,r.patel,True,False,Low
+ID-01060,user01060,Employee,Customer Support,Payments,Active,False,False,True,True,3,1,k.anderson,True,False,Low
+ID-01061,user01061,ServiceAccount,Technology,Digital & AI,Active,False,True,True,True,74,3,b.oconnell,True,False,Medium
+ID-01062,user01062,Employee,Customer Support,Payments,Active,False,False,True,True,54,2,h.romano,True,False,Low
+ID-01063,user01063,Employee,Finance,Shared Technology,Active,False,False,True,True,35,3,k.anderson,True,False,Low
+ID-01064,user01064,Employee,Finance,Payments,Active,False,False,True,True,18,6,l.moreau,True,False,Low
+ID-01065,user01065,Employee,Customer Support,Retail Banking,Active,True,False,True,True,20,2,b.oconnell,True,False,High
+ID-01066,user01066,ServiceAccount,Technology,Commercial Banking,Active,False,True,True,True,34,4,h.romano,True,False,Medium
+ID-01067,user01067,Employee,Human Resources,Retail Banking,Active,False,False,True,True,4,5,r.patel,True,False,Low
+ID-01068,user01068,Employee,Technology,Commercial Banking,Active,False,False,True,True,27,1,d.singh,True,False,Low
+ID-01069,user01069,Employee,Technology,Shared Technology,Active,False,False,True,True,16,4,j.nguyen,True,False,Low
+ID-01070,user01070,Employee,Legal,Payments,Terminated,False,False,False,True,8,3,b.oconnell,True,False,Low
+ID-01071,user01071,Contractor,Technology,Retail Banking,Active,False,False,True,True,9,4,s.okafor,True,False,Low
+ID-01072,user01072,Employee,Legal,Digital & AI,Active,False,False,True,True,26,2,m.leblanc,True,False,Low
+ID-01073,user01073,Employee,Operations,Retail Banking,Active,False,False,True,True,29,3,r.patel,True,False,Low
+ID-01074,user01074,ServiceAccount,Human Resources,Commercial Banking,Active,False,True,True,True,26,7,m.leblanc,True,False,Medium
+ID-01075,user01075,Contractor,Legal,Retail Banking,Active,True,False,True,True,52,9,l.moreau,True,False,High
+ID-01076,user01076,Employee,Finance,Wealth Management,Active,False,False,True,True,39,4,d.singh,True,False,Low
+ID-01077,user01077,Employee,Operations,Wealth Management,Active,False,False,True,True,14,1,t.gagnon,True,False,Low
+ID-01078,user01078,Employee,Risk & Compliance,Digital & AI,Active,False,False,True,True,73,4,k.anderson,True,False,Low
+ID-01079,user01079,Employee,Human Resources,Shared Technology,Active,False,False,True,True,55,6,l.moreau,True,False,Low
+ID-01080,user01080,Employee,Technology,Commercial Banking,Disabled,False,False,True,True,35,5,l.moreau,True,False,Low
+ID-01081,user01081,Employee,Technology,Shared Technology,Active,False,False,True,True,3,2,a.tremblay,True,False,Low
+ID-01082,user01082,Contractor,Operations,Retail Banking,Active,False,False,True,True,69,6,d.singh,True,False,Low
+ID-01083,user01083,Contractor,Technology,Payments,Active,False,False,True,True,56,2,a.tremblay,True,False,Low
+ID-01084,user01084,Contractor,Operations,Commercial Banking,Active,False,False,True,True,35,2,k.anderson,True,False,Low
+ID-01085,user01085,ServiceAccount,Technology,Shared Technology,Active,False,True,True,True,12,3,b.oconnell,True,False,Medium
+ID-01086,user01086,Employee,Human Resources,Shared Technology,Active,False,False,True,True,8,6,h.romano,True,False,Low
+ID-01087,user01087,Employee,Human Resources,Wealth Management,Active,False,False,True,True,22,5,k.anderson,True,False,Low
+ID-01088,user01088,Employee,Technology,Digital & AI,Active,False,False,True,True,17,4,j.nguyen,True,False,Low
+ID-01089,user01089,Employee,Risk & Compliance,Wealth Management,Active,True,False,True,True,15,6,t.gagnon,True,False,High
+ID-01090,user01090,Employee,Customer Support,Shared Technology,Active,False,False,True,True,30,2,t.gagnon,True,False,Low
+ID-01091,user01091,Employee,Customer Support,Commercial Banking,Active,True,False,True,True,3,3,r.patel,True,False,High
+ID-01092,user01092,Employee,Legal,Commercial Banking,Disabled,False,False,False,True,24,6,s.okafor,True,False,Low
+ID-01093,user01093,Employee,Customer Support,Commercial Banking,Active,False,False,True,True,66,6,k.anderson,True,False,Low
+ID-01094,user01094,Employee,Customer Support,Digital & AI,Active,False,False,True,True,65,1,l.moreau,True,False,Low
+ID-01095,user01095,Employee,Finance,Shared Technology,Active,False,False,True,True,0,1,b.oconnell,True,False,Low
+ID-01096,user01096,Employee,Finance,Shared Technology,Disabled,False,False,False,True,51,4,t.gagnon,True,False,Low
+ID-01097,user01097,Employee,Risk & Compliance,Wealth Management,Active,False,False,True,True,75,1,m.leblanc,True,False,Low
+ID-01098,user01098,Contractor,Legal,Commercial Banking,Active,False,False,True,True,43,5,j.nguyen,True,False,Low
+ID-01099,user01099,Contractor,Retail Banking,Wealth Management,Terminated,False,False,False,True,29,6,b.oconnell,True,False,Low
+ID-01100,user01100,Employee,Customer Support,Commercial Banking,Terminated,False,False,False,True,37,2,j.nguyen,True,False,Low
+ID-01101,user01101,Employee,Technology,Commercial Banking,Active,False,False,True,True,16,2,c.dubois,True,False,Low
+ID-01102,user01102,Employee,Retail Banking,Payments,Active,False,False,True,True,30,6,j.nguyen,True,False,Low
+ID-01103,user01103,Employee,Human Resources,Commercial Banking,Active,False,False,True,True,71,3,r.patel,True,False,Low
+ID-01104,user01104,Contractor,Customer Support,Digital & AI,Active,False,False,True,True,46,2,k.anderson,True,False,Low
+ID-01105,user01105,Employee,Finance,Retail Banking,Active,False,False,True,True,32,1,j.nguyen,True,False,Low
+ID-01106,user01106,Employee,Legal,Wealth Management,Active,True,False,True,True,9,7,r.patel,True,False,High
+ID-01107,user01107,Employee,Legal,Payments,Active,False,False,True,True,68,6,r.patel,True,False,Low
+ID-01108,user01108,Employee,Retail Banking,Payments,Active,False,False,True,True,12,1,s.okafor,True,False,Low
+ID-01109,user01109,ServiceAccount,Operations,Wealth Management,Active,False,True,True,True,54,5,h.romano,True,False,Medium
+ID-01110,user01110,Employee,Risk & Compliance,Retail Banking,Active,False,False,True,True,23,1,t.gagnon,True,False,Low
+ID-01111,user01111,Employee,Human Resources,Retail Banking,Disabled,False,False,False,True,21,1,c.dubois,True,False,Low
+ID-01112,user01112,Employee,Retail Banking,Wealth Management,Active,False,False,True,True,13,3,m.leblanc,True,False,Low
+ID-01113,user01113,Employee,Finance,Payments,Active,False,False,True,True,28,3,l.moreau,True,False,Low
+ID-01114,user01114,ServiceAccount,Finance,Retail Banking,Active,False,True,True,True,51,5,k.anderson,True,False,Medium
+ID-01115,user01115,ServiceAccount,Human Resources,Shared Technology,Active,False,True,True,True,31,6,k.anderson,True,False,Medium
+ID-01116,user01116,Employee,Human Resources,Commercial Banking,Active,False,False,True,True,1,1,l.moreau,True,False,Low
+ID-01117,user01117,Employee,Human Resources,Wealth Management,Active,False,False,True,True,20,4,d.singh,True,False,Low
+ID-01118,user01118,Employee,Technology,Commercial Banking,Active,False,False,True,True,12,6,a.tremblay,True,False,Low
+ID-01119,user01119,Employee,Technology,Payments,Active,False,False,True,True,30,4,s.okafor,True,False,Low
+ID-01120,user01120,Contractor,Retail Banking,Commercial Banking,Disabled,False,False,False,True,68,2,s.okafor,True,False,Low
+ID-01121,user01121,Employee,Technology,Wealth Management,Active,False,False,True,True,73,1,s.okafor,True,False,Low
+ID-01122,user01122,Employee,Retail Banking,Shared Technology,Terminated,False,False,False,True,75,3,b.oconnell,True,False,Low
+ID-01123,user01123,Contractor,Risk & Compliance,Wealth Management,Active,False,False,True,True,8,3,d.singh,True,False,Low
+ID-01124,user01124,Employee,Operations,Retail Banking,Disabled,False,False,False,True,37,3,l.moreau,True,False,Low
+ID-01125,user01125,Employee,Finance,Wealth Management,Active,False,False,True,True,3,1,d.singh,True,False,Low
+ID-01126,user01126,Employee,Retail Banking,Wealth Management,Active,False,False,True,True,37,1,a.tremblay,True,False,Low
+ID-01127,user01127,Employee,Customer Support,Commercial Banking,Active,False,False,True,True,43,4,m.leblanc,True,False,Low
+ID-01128,user01128,Employee,Risk & Compliance,Commercial Banking,Active,False,False,True,True,58,6,h.romano,True,False,Low
+ID-01129,user01129,Employee,Operations,Wealth Management,Active,False,False,True,True,25,4,c.dubois,True,False,Low
+ID-01130,user01130,ServiceAccount,Operations,Wealth Management,Active,False,True,True,True,2,4,k.anderson,True,False,Medium
+ID-01131,user01131,ServiceAccount,Risk & Compliance,Commercial Banking,Active,False,True,True,True,34,5,h.romano,True,False,Medium
+ID-01132,user01132,Employee,Technology,Digital & AI,Active,False,False,True,True,32,5,a.tremblay,True,False,Low
+ID-01133,user01133,Employee,Human Resources,Wealth Management,Disabled,False,False,False,True,47,5,h.romano,True,False,Low
+ID-01134,user01134,Employee,Human Resources,Payments,Active,False,False,True,True,7,4,d.singh,True,False,Low
+ID-01135,user01135,ServiceAccount,Finance,Shared Technology,Active,False,True,True,True,46,3,r.patel,True,False,Medium
+ID-01136,user01136,Employee,Legal,Retail Banking,Active,True,False,True,True,30,5,c.dubois,True,False,High
+ID-01137,user01137,Employee,Finance,Wealth Management,Active,False,False,True,True,56,4,a.tremblay,True,False,Low
+ID-01138,user01138,Employee,Retail Banking,Shared Technology,Active,False,False,True,True,74,4,m.leblanc,True,False,Low
+ID-01139,user01139,Employee,Customer Support,Retail Banking,Active,False,False,True,True,17,5,m.leblanc,True,False,Low
+ID-01140,user01140,Employee,Operations,Commercial Banking,Active,False,False,True,True,57,6,t.gagnon,True,False,Low
+ID-01141,user01141,Employee,Technology,Wealth Management,Active,False,False,True,True,9,2,s.okafor,True,False,Low
+ID-01142,user01142,Employee,Finance,Retail Banking,Active,False,False,True,True,74,5,j.nguyen,True,False,Low
+ID-01143,user01143,Contractor,Customer Support,Payments,Active,True,False,True,True,36,6,s.okafor,True,False,High
+ID-01144,user01144,Contractor,Finance,Shared Technology,Active,False,False,True,True,56,4,j.nguyen,True,False,Low
+ID-01145,user01145,Employee,Retail Banking,Wealth Management,Active,False,False,True,True,59,6,a.tremblay,True,False,Low
+ID-01146,user01146,Employee,Retail Banking,Commercial Banking,Disabled,False,False,False,True,46,4,j.nguyen,True,False,Low
+ID-01147,user01147,Employee,Legal,Shared Technology,Active,True,False,True,True,29,11,d.singh,True,False,High
+ID-01148,user01148,Contractor,Legal,Shared Technology,Active,False,False,True,True,57,4,h.romano,True,False,Low
+ID-01149,user01149,Employee,Human Resources,Retail Banking,Active,False,False,True,True,36,3,r.patel,True,False,Low
+ID-01150,user01150,Contractor,Customer Support,Shared Technology,Active,False,False,True,True,50,3,d.singh,True,False,Low
+ID-01151,user01151,Employee,Risk & Compliance,Digital & AI,Terminated,False,False,False,True,46,2,l.moreau,True,False,Low
+ID-01152,user01152,Contractor,Operations,Commercial Banking,Active,False,False,True,True,35,4,t.gagnon,True,False,Low
+ID-01153,user01153,Employee,Technology,Commercial Banking,Active,False,False,True,True,8,2,h.romano,True,False,Low
+ID-01154,user01154,Employee,Legal,Shared Technology,Active,False,False,True,True,22,3,m.leblanc,True,False,Low
+ID-01155,user01155,Employee,Retail Banking,Wealth Management,Active,False,False,True,True,71,6,l.moreau,True,False,Low
+ID-01156,user01156,Employee,Retail Banking,Payments,Disabled,True,False,False,True,39,3,h.romano,True,False,High
+ID-01157,user01157,Employee,Technology,Shared Technology,Active,False,False,True,True,48,3,j.nguyen,True,False,Low
+ID-01158,user01158,Employee,Operations,Digital & AI,Active,True,False,True,True,19,5,k.anderson,True,False,High
+ID-01159,user01159,Employee,Customer Support,Payments,Active,False,False,True,True,53,1,r.patel,True,False,Low
+ID-01160,user01160,Employee,Retail Banking,Payments,Active,False,False,True,True,36,6,j.nguyen,True,False,Low
+ID-01161,user01161,Employee,Risk & Compliance,Digital & AI,Active,False,False,True,True,16,3,m.leblanc,True,False,Low
+ID-01162,user01162,Employee,Technology,Commercial Banking,Active,False,False,True,True,11,5,a.tremblay,True,False,Low
+ID-01163,user01163,Contractor,Finance,Payments,Active,False,False,True,True,30,6,d.singh,True,False,Low
+ID-01164,user01164,Employee,Legal,Payments,Active,False,False,True,True,42,4,h.romano,True,False,Low
+ID-01165,user01165,Employee,Retail Banking,Retail Banking,Active,False,False,True,True,21,4,l.moreau,True,False,Low
+ID-01166,user01166,Contractor,Operations,Digital & AI,Active,False,False,True,True,18,5,m.leblanc,True,False,Low
+ID-01167,user01167,Contractor,Operations,Retail Banking,Disabled,True,False,False,True,20,5,a.tremblay,True,False,High
+ID-01168,user01168,Employee,Customer Support,Wealth Management,Active,False,False,True,True,22,2,l.moreau,True,False,Low
+ID-01169,user01169,Contractor,Risk & Compliance,Commercial Banking,Active,False,False,True,True,56,3,m.leblanc,True,False,Low
+ID-01170,user01170,Employee,Retail Banking,Wealth Management,Active,False,False,True,True,37,3,k.anderson,True,False,Low
+ID-01171,user01171,Employee,Legal,Commercial Banking,Active,False,False,True,True,35,5,b.oconnell,True,False,Low
+ID-01172,user01172,Employee,Legal,Digital & AI,Active,False,False,True,True,12,2,a.tremblay,True,False,Low
+ID-01173,user01173,Employee,Technology,Commercial Banking,Active,False,False,True,True,41,4,k.anderson,True,False,Low
+ID-01174,user01174,Employee,Customer Support,Digital & AI,Active,False,False,True,True,73,1,b.oconnell,True,False,Low
+ID-01175,user01175,Employee,Legal,Retail Banking,Active,False,False,True,True,56,1,r.patel,True,False,Low
+ID-01176,user01176,Employee,Retail Banking,Digital & AI,Active,False,False,True,True,33,6,h.romano,True,False,Low
+ID-01177,user01177,Employee,Finance,Commercial Banking,Active,False,False,True,True,23,6,h.romano,True,False,Low
+ID-01178,user01178,Employee,Technology,Shared Technology,Active,False,False,True,True,26,6,c.dubois,True,False,Low
+ID-01179,user01179,Employee,Customer Support,Digital & AI,Active,False,False,True,True,2,2,j.nguyen,True,False,Low
+ID-01180,user01180,Employee,Legal,Retail Banking,Active,False,False,True,True,2,4,d.singh,True,False,Low
+ID-01181,user01181,Employee,Technology,Digital & AI,Active,False,False,True,True,59,5,l.moreau,True,False,Low
+ID-01182,user01182,Employee,Risk & Compliance,Digital & AI,Active,True,False,True,True,64,6,c.dubois,True,False,High
+ID-01183,user01183,Employee,Retail Banking,Commercial Banking,Active,False,False,True,True,73,5,m.leblanc,True,False,Low
+ID-01184,user01184,Employee,Operations,Payments,Active,False,False,True,True,47,5,d.singh,True,False,Low
+ID-01185,user01185,Employee,Customer Support,Shared Technology,Active,False,False,True,True,70,3,m.leblanc,True,False,Low
+ID-01186,user01186,Contractor,Legal,Retail Banking,Active,False,False,True,True,31,3,s.okafor,True,False,Low
+ID-01187,user01187,Employee,Technology,Wealth Management,Active,True,False,True,True,19,6,a.tremblay,True,False,High
+ID-01188,user01188,ServiceAccount,Finance,Commercial Banking,Active,False,True,True,True,18,4,c.dubois,True,False,Medium
+ID-01189,user01189,Employee,Operations,Wealth Management,Active,True,False,True,True,17,3,s.okafor,True,False,High
+ID-01190,user01190,Employee,Operations,Payments,Active,False,False,True,True,56,6,r.patel,True,False,Low
+ID-01191,user01191,Employee,Customer Support,Shared Technology,Terminated,True,False,False,True,0,2,m.leblanc,True,False,High
+ID-01192,user01192,Employee,Risk & Compliance,Commercial Banking,Active,False,False,True,True,71,3,c.dubois,True,False,Low
+ID-01193,user01193,Contractor,Finance,Payments,Active,False,False,True,True,58,5,h.romano,True,False,Low
+ID-01194,user01194,ServiceAccount,Operations,Digital & AI,Active,False,True,True,True,28,7,c.dubois,True,False,Medium
+ID-01195,user01195,Contractor,Customer Support,Retail Banking,Active,False,False,True,True,53,6,k.anderson,True,False,Low
+ID-01196,user01196,Employee,Retail Banking,Shared Technology,Active,False,False,True,True,10,2,s.okafor,True,False,Low
+ID-01197,user01197,Employee,Risk & Compliance,Commercial Banking,Active,True,False,True,True,32,8,s.okafor,True,False,High
+ID-01198,user01198,Employee,Operations,Shared Technology,Active,False,False,True,True,8,1,b.oconnell,True,False,Low
+ID-01199,user01199,Employee,Operations,Retail Banking,Active,False,False,True,True,8,1,l.moreau,True,False,Low
+ID-01200,user01200,Employee,Technology,Commercial Banking,Active,True,False,True,True,0,10,a.tremblay,True,False,High
+ID-01201,user01201,Employee,Finance,Digital & AI,Active,False,False,True,True,60,4,k.anderson,True,False,Low
+ID-01202,user01202,Employee,Finance,Commercial Banking,Active,False,False,True,True,56,1,a.tremblay,True,False,Low
+ID-01203,user01203,Contractor,Risk & Compliance,Digital & AI,Active,True,False,True,True,67,10,a.tremblay,True,False,High
+ID-01204,user01204,Employee,Technology,Commercial Banking,Active,False,False,True,True,74,1,r.patel,True,False,Low
+ID-01205,user01205,Employee,Risk & Compliance,Wealth Management,Active,False,False,True,True,73,6,l.moreau,True,False,Low
+ID-01206,user01206,Employee,Legal,Shared Technology,Active,False,False,True,True,75,2,l.moreau,True,False,Low
+ID-01207,user01207,Employee,Customer Support,Payments,Disabled,False,False,False,True,1,3,h.romano,True,False,Low
+ID-01208,user01208,Employee,Risk & Compliance,Payments,Active,True,False,True,True,59,8,m.leblanc,True,False,High
+ID-01209,user01209,Employee,Finance,Digital & AI,Active,False,False,True,True,54,5,m.leblanc,True,False,Low
+ID-01210,user01210,Employee,Retail Banking,Payments,Active,False,False,True,True,12,5,k.anderson,True,False,Low
+ID-01211,user01211,Employee,Legal,Shared Technology,Terminated,False,False,False,True,10,1,t.gagnon,True,False,Low
+ID-01212,user01212,Contractor,Retail Banking,Commercial Banking,Active,False,False,True,True,74,1,d.singh,True,False,Low
+ID-01213,user01213,Employee,Human Resources,Digital & AI,Active,False,False,True,True,67,4,d.singh,True,False,Low
+ID-01214,user01214,Employee,Customer Support,Retail Banking,Active,True,False,True,True,24,3,s.okafor,True,False,High
+ID-01215,user01215,Employee,Operations,Payments,Active,False,False,True,True,5,1,t.gagnon,True,False,Low
+ID-01216,user01216,Employee,Technology,Wealth Management,Active,False,False,True,True,25,2,b.oconnell,True,False,Low
+ID-01217,user01217,Employee,Finance,Retail Banking,Active,False,False,True,True,0,4,k.anderson,True,False,Low
+ID-01218,user01218,Employee,Operations,Shared Technology,Terminated,True,False,False,True,52,7,r.patel,True,False,High
+ID-01219,user01219,Employee,Operations,Commercial Banking,Active,False,False,True,True,28,2,l.moreau,True,False,Low
+ID-01220,user01220,Employee,Customer Support,Wealth Management,Active,False,False,True,True,3,1,l.moreau,True,False,Low
+ID-01221,user01221,Employee,Risk & Compliance,Wealth Management,Active,False,False,True,True,74,3,b.oconnell,True,False,Low
+ID-01222,user01222,Employee,Retail Banking,Wealth Management,Active,True,False,True,True,62,3,s.okafor,True,False,High
+ID-01223,user01223,Contractor,Customer Support,Shared Technology,Active,False,False,True,True,68,3,k.anderson,True,False,Low
+ID-01224,user01224,Employee,Human Resources,Shared Technology,Active,False,False,True,True,75,2,d.singh,True,False,Low
+ID-01225,user01225,Employee,Customer Support,Payments,Active,False,False,True,True,1,3,r.patel,True,False,Low
+ID-01226,user01226,Contractor,Legal,Payments,Active,False,False,True,True,58,4,t.gagnon,True,False,Low
+ID-01227,user01227,Employee,Operations,Wealth Management,Active,False,False,True,True,59,1,a.tremblay,True,False,Low
+ID-01228,user01228,Employee,Human Resources,Payments,Active,False,False,True,True,59,1,s.okafor,True,False,Low
+ID-01229,user01229,ServiceAccount,Retail Banking,Digital & AI,Active,False,True,True,True,20,7,h.romano,True,False,Medium
+ID-01230,user01230,Employee,Technology,Wealth Management,Disabled,False,False,False,True,29,6,s.okafor,True,False,Low
+ID-01231,user01231,Employee,Technology,Digital & AI,Active,False,False,True,True,70,5,c.dubois,True,False,Low
+ID-01232,user01232,Employee,Finance,Payments,Active,True,False,True,True,5,11,j.nguyen,True,False,High
+ID-01233,user01233,Employee,Legal,Commercial Banking,Active,False,False,True,True,48,2,d.singh,True,False,Low
+ID-01234,user01234,Employee,Technology,Shared Technology,Active,False,False,True,True,60,3,a.tremblay,True,False,Low
+ID-01235,user01235,Employee,Human Resources,Retail Banking,Active,True,False,True,True,60,10,r.patel,True,False,High
+ID-01236,user01236,Employee,Human Resources,Payments,Active,False,False,True,True,45,6,b.oconnell,True,False,Low
+ID-01237,user01237,Employee,Retail Banking,Commercial Banking,Active,False,False,True,True,58,6,r.patel,True,False,Low
+ID-01238,user01238,Employee,Legal,Retail Banking,Active,False,False,True,True,69,2,l.moreau,True,False,Low
+ID-01239,user01239,Employee,Legal,Shared Technology,Active,False,False,True,True,58,1,b.oconnell,True,False,Low
+ID-01240,user01240,Employee,Legal,Payments,Active,False,False,True,True,8,2,l.moreau,True,False,Low
+ID-01241,user01241,Contractor,Retail Banking,Commercial Banking,Active,False,False,True,True,18,4,h.romano,True,False,Low
+ID-01242,user01242,Employee,Operations,Retail Banking,Active,False,False,True,True,23,5,b.oconnell,True,False,Low
+ID-01243,user01243,Employee,Finance,Digital & AI,Active,False,False,True,True,26,3,l.moreau,True,False,Low
+ID-01244,user01244,Employee,Human Resources,Payments,Active,False,False,True,True,27,2,h.romano,True,False,Low
+ID-01245,user01245,Employee,Human Resources,Retail Banking,Active,False,False,True,True,16,2,k.anderson,True,False,Low
+ID-01246,user01246,Employee,Risk & Compliance,Shared Technology,Active,False,False,True,True,51,1,h.romano,True,False,Low
+ID-01247,user01247,Employee,Finance,Digital & AI,Active,False,False,True,True,8,1,l.moreau,True,False,Low
+ID-01248,user01248,Employee,Human Resources,Shared Technology,Active,True,False,True,True,59,7,r.patel,True,False,High
+ID-01249,user01249,Contractor,Operations,Commercial Banking,Active,False,False,True,True,50,4,k.anderson,True,False,Low
+ID-01250,user01250,Contractor,Risk & Compliance,Retail Banking,Active,False,False,True,True,73,1,r.patel,True,False,Low
+ID-01251,user01251,Employee,Customer Support,Wealth Management,Active,False,False,True,True,0,2,r.patel,True,False,Low
+ID-01252,user01252,Employee,Technology,Digital & AI,Active,False,False,True,True,22,6,j.nguyen,True,False,Low
+ID-01253,user01253,Employee,Finance,Payments,Active,False,False,True,True,68,6,c.dubois,True,False,Low
+ID-01254,user01254,Employee,Finance,Retail Banking,Active,False,False,True,True,37,4,r.patel,True,False,Low
+ID-01255,user01255,Employee,Legal,Payments,Disabled,False,False,False,True,42,4,l.moreau,True,False,Low
+ID-01256,user01256,Contractor,Legal,Digital & AI,Active,True,False,True,True,2,4,r.patel,True,False,High
+ID-01257,user01257,Employee,Retail Banking,Wealth Management,Active,True,False,True,True,57,9,c.dubois,True,False,High
+ID-01258,user01258,Contractor,Retail Banking,Payments,Active,False,False,True,True,19,2,s.okafor,True,False,Low
+ID-01259,user01259,Employee,Retail Banking,Retail Banking,Active,False,False,True,True,73,3,r.patel,True,False,Low
+ID-01260,user01260,ServiceAccount,Operations,Digital & AI,Active,False,True,True,True,28,2,r.patel,True,False,Medium
+ID-01261,user01261,Employee,Risk & Compliance,Payments,Active,False,False,True,True,14,4,b.oconnell,True,False,Low
+ID-01262,user01262,Employee,Operations,Commercial Banking,Disabled,False,False,False,True,45,5,c.dubois,True,False,Low
+ID-01263,user01263,Employee,Risk & Compliance,Wealth Management,Active,False,False,True,True,36,4,a.tremblay,True,False,Low
+ID-01264,user01264,ServiceAccount,Retail Banking,Shared Technology,Active,False,True,True,True,35,2,j.nguyen,True,False,Medium
+ID-01265,user01265,Employee,Customer Support,Retail Banking,Active,False,False,True,True,72,4,d.singh,True,False,Low
+ID-01266,user01266,Contractor,Legal,Digital & AI,Terminated,False,False,False,True,27,6,s.okafor,True,False,Low
+ID-01267,user01267,Employee,Technology,Digital & AI,Active,False,False,True,True,30,4,s.okafor,True,False,Low
+ID-01268,user01268,ServiceAccount,Finance,Commercial Banking,Active,False,True,True,True,47,7,r.patel,True,False,Medium
+ID-01269,user01269,Employee,Risk & Compliance,Retail Banking,Active,False,False,True,True,12,2,r.patel,True,False,Low
+ID-01270,user01270,Employee,Finance,Commercial Banking,Terminated,False,False,False,True,62,5,c.dubois,True,False,Low
+ID-01271,user01271,ServiceAccount,Technology,Payments,Active,False,True,True,True,17,3,a.tremblay,True,False,Medium
+ID-01272,user01272,Employee,Human Resources,Digital & AI,Active,False,False,True,True,18,2,d.singh,True,False,Low
+ID-01273,user01273,Employee,Retail Banking,Retail Banking,Disabled,False,False,False,True,0,3,m.leblanc,True,False,Low
+ID-01274,user01274,Employee,Risk & Compliance,Shared Technology,Active,False,False,True,True,26,1,d.singh,True,False,Low
+ID-01275,user01275,Employee,Human Resources,Shared Technology,Active,False,False,True,True,44,6,k.anderson,True,False,Low
+ID-01276,user01276,Employee,Technology,Commercial Banking,Active,True,False,True,True,53,2,m.leblanc,True,False,High
+ID-01277,user01277,Employee,Retail Banking,Digital & AI,Active,False,False,True,True,68,2,c.dubois,True,False,Low
+ID-01278,user01278,Employee,Finance,Payments,Active,False,False,True,True,59,5,a.tremblay,True,False,Low
+ID-01279,user01279,Contractor,Retail Banking,Digital & AI,Active,False,False,True,True,24,1,d.singh,True,False,Low
+ID-01280,user01280,Employee,Technology,Shared Technology,Active,False,False,True,True,62,3,j.nguyen,True,False,Low
+ID-01281,user01281,Employee,Legal,Shared Technology,Active,True,False,True,True,14,9,r.patel,True,False,High
+ID-01282,user01282,Employee,Operations,Digital & AI,Active,False,False,True,True,15,1,s.okafor,True,False,Low
+ID-01283,user01283,Employee,Technology,Digital & AI,Active,False,False,True,True,27,5,r.patel,True,False,Low
+ID-01284,user01284,Employee,Finance,Digital & AI,Active,True,False,True,True,40,7,r.patel,True,False,High
+ID-01285,user01285,Contractor,Technology,Commercial Banking,Active,False,False,True,True,15,4,m.leblanc,True,False,Low
+ID-01286,user01286,ServiceAccount,Technology,Payments,Active,False,True,True,True,68,4,b.oconnell,True,False,Medium
+ID-01287,user01287,Employee,Technology,Payments,Active,False,False,True,True,20,5,j.nguyen,True,False,Low
+ID-01288,user01288,Employee,Customer Support,Commercial Banking,Active,False,False,True,True,29,3,m.leblanc,True,False,Low
+ID-01289,user01289,Employee,Legal,Wealth Management,Disabled,False,False,False,True,45,5,k.anderson,True,False,Low
+ID-01290,user01290,Employee,Human Resources,Payments,Active,False,False,True,True,32,4,j.nguyen,True,False,Low
+ID-01291,user01291,Employee,Legal,Digital & AI,Active,True,False,True,True,30,5,c.dubois,True,False,High
+ID-01292,user01292,Employee,Legal,Retail Banking,Active,True,False,True,True,74,10,d.singh,True,False,High
+ID-01293,user01293,Employee,Retail Banking,Retail Banking,Active,True,False,True,True,33,2,a.tremblay,True,False,High
+ID-01294,user01294,Employee,Retail Banking,Wealth Management,Terminated,False,False,False,True,8,1,k.anderson,True,False,Low
+ID-01295,user01295,Employee,Customer Support,Payments,Active,False,False,True,True,55,2,a.tremblay,True,False,Low
+ID-01296,user01296,Employee,Operations,Retail Banking,Active,False,False,True,True,53,1,a.tremblay,True,False,Low
+ID-01297,user01297,Employee,Risk & Compliance,Digital & AI,Active,False,False,True,True,16,6,s.okafor,True,False,Low
+ID-01298,user01298,Employee,Legal,Payments,Active,False,False,True,True,64,6,s.okafor,True,False,Low
+ID-01299,user01299,Employee,Technology,Commercial Banking,Active,False,False,True,True,29,2,r.patel,True,False,Low
+ID-01300,user01300,Employee,Human Resources,Commercial Banking,Active,False,False,True,True,11,2,b.oconnell,True,False,Low
+ID-01301,user01301,Employee,Legal,Digital & AI,Terminated,False,False,False,True,13,5,t.gagnon,True,False,Low
+ID-01302,user01302,Employee,Risk & Compliance,Wealth Management,Active,False,False,True,True,54,4,s.okafor,True,False,Low
+ID-01303,user01303,Employee,Operations,Shared Technology,Active,False,False,True,True,16,4,b.oconnell,True,False,Low
+ID-01304,user01304,Employee,Operations,Wealth Management,Active,False,False,True,True,35,6,l.moreau,True,False,Low
+ID-01305,user01305,Contractor,Technology,Shared Technology,Active,True,False,True,True,55,11,k.anderson,True,False,High
+ID-01306,user01306,Contractor,Operations,Shared Technology,Active,True,False,True,True,64,6,h.romano,True,False,High
+ID-01307,user01307,Employee,Customer Support,Shared Technology,Active,False,False,True,True,37,4,c.dubois,True,False,Low
+ID-01308,user01308,Employee,Risk & Compliance,Payments,Active,False,False,True,True,68,4,j.nguyen,True,False,Low
+ID-01309,user01309,Employee,Technology,Retail Banking,Active,False,False,True,True,22,2,k.anderson,True,False,Low
+ID-01310,user01310,ServiceAccount,Risk & Compliance,Digital & AI,Active,False,True,True,True,66,4,d.singh,True,False,Medium
+ID-01311,user01311,Employee,Human Resources,Commercial Banking,Active,False,False,True,True,19,6,d.singh,True,False,Low
+ID-01312,user01312,Contractor,Finance,Commercial Banking,Active,False,False,True,True,4,3,m.leblanc,True,False,Low
+ID-01313,user01313,Employee,Finance,Commercial Banking,Active,False,False,True,True,55,1,b.oconnell,True,False,Low
+ID-01314,user01314,Employee,Legal,Shared Technology,Active,False,False,True,True,57,4,j.nguyen,True,False,Low
+ID-01315,user01315,Employee,Customer Support,Wealth Management,Active,True,False,True,True,70,7,h.romano,True,False,High
+ID-01316,user01316,Employee,Risk & Compliance,Payments,Active,False,False,True,True,70,6,j.nguyen,True,False,Low
+ID-01317,user01317,Employee,Legal,Payments,Active,False,False,True,True,7,4,a.tremblay,True,False,Low
+ID-01318,user01318,Employee,Risk & Compliance,Retail Banking,Active,False,False,True,True,47,5,b.oconnell,True,False,Low
+ID-01319,user01319,Employee,Risk & Compliance,Payments,Active,False,False,True,True,53,2,l.moreau,True,False,Low
+ID-01320,user01320,Contractor,Technology,Commercial Banking,Disabled,False,False,False,True,45,3,m.leblanc,True,False,Low
+ID-01321,user01321,Employee,Human Resources,Retail Banking,Active,False,False,True,True,1,3,a.tremblay,True,False,Low
+ID-01322,user01322,Employee,Human Resources,Shared Technology,Active,False,False,True,True,3,2,s.okafor,True,False,Low
+ID-01323,user01323,Employee,Operations,Retail Banking,Active,False,False,True,True,50,5,m.leblanc,True,False,Low
+ID-01324,user01324,Employee,Customer Support,Payments,Terminated,True,False,False,True,65,11,b.oconnell,True,False,High
+ID-01325,user01325,Employee,Customer Support,Payments,Terminated,False,False,False,True,13,2,m.leblanc,True,False,Low
+ID-01326,user01326,Contractor,Finance,Wealth Management,Active,False,False,True,True,3,1,s.okafor,True,False,Low
+ID-01327,user01327,Employee,Technology,Digital & AI,Active,True,False,True,True,30,10,t.gagnon,True,False,High
+ID-01328,user01328,Employee,Risk & Compliance,Shared Technology,Active,False,False,True,True,23,6,t.gagnon,True,False,Low
+ID-01329,user01329,Employee,Risk & Compliance,Digital & AI,Active,False,False,True,True,74,6,m.leblanc,True,False,Low
+ID-01330,user01330,Employee,Customer Support,Digital & AI,Active,False,False,True,True,70,2,l.moreau,True,False,Low
+ID-01331,user01331,Employee,Operations,Shared Technology,Active,True,False,True,True,42,5,k.anderson,True,False,High
+ID-01332,user01332,Employee,Human Resources,Retail Banking,Active,False,False,True,True,72,5,k.anderson,True,False,Low
+ID-01333,user01333,Employee,Retail Banking,Digital & AI,Active,True,False,True,True,17,7,j.nguyen,True,False,High
+ID-01334,user01334,ServiceAccount,Technology,Retail Banking,Active,False,True,True,True,75,6,h.romano,True,False,Medium
+ID-01335,user01335,ServiceAccount,Finance,Retail Banking,Active,False,True,True,True,33,7,t.gagnon,True,False,Medium
+ID-01336,user01336,Contractor,Legal,Commercial Banking,Active,True,False,True,True,36,9,d.singh,True,False,High
+ID-01337,user01337,Employee,Customer Support,Payments,Active,True,False,True,True,3,4,t.gagnon,True,False,High
+ID-01338,user01338,Employee,Retail Banking,Commercial Banking,Active,True,False,True,True,13,3,s.okafor,True,False,High
+ID-01339,user01339,Contractor,Technology,Wealth Management,Active,False,False,True,True,14,6,l.moreau,True,False,Low
+ID-01340,user01340,Employee,Finance,Digital & AI,Active,False,False,True,True,37,6,b.oconnell,True,False,Low
+ID-01341,user01341,Employee,Technology,Commercial Banking,Active,True,False,True,True,14,8,k.anderson,True,False,High
+ID-01342,user01342,Contractor,Finance,Retail Banking,Active,True,False,True,True,7,9,b.oconnell,True,False,High
+ID-01343,user01343,Employee,Risk & Compliance,Shared Technology,Active,False,False,True,True,45,2,r.patel,True,False,Low
+ID-01344,user01344,Employee,Technology,Payments,Active,False,False,True,True,66,2,t.gagnon,True,False,Low
+ID-01345,user01345,ServiceAccount,Technology,Digital & AI,Active,False,True,True,True,5,1,b.oconnell,True,False,Medium
+ID-01346,user01346,Employee,Operations,Shared Technology,Active,False,False,True,True,42,4,l.moreau,True,False,Low
+ID-01347,user01347,Employee,Customer Support,Shared Technology,Active,False,False,True,True,72,3,d.singh,True,False,Low
+ID-01348,user01348,Employee,Retail Banking,Shared Technology,Active,False,False,True,True,30,3,k.anderson,True,False,Low
+ID-01349,user01349,Employee,Technology,Payments,Active,False,False,True,True,13,4,j.nguyen,True,False,Low
+ID-01350,user01350,Employee,Customer Support,Wealth Management,Active,False,False,True,True,6,5,k.anderson,True,False,Low
+ID-01351,user01351,Employee,Retail Banking,Commercial Banking,Active,False,False,True,True,71,1,b.oconnell,True,False,Low
+ID-01352,user01352,Contractor,Technology,Commercial Banking,Active,True,False,True,True,30,2,a.tremblay,True,False,High
+ID-01353,user01353,Employee,Customer Support,Retail Banking,Active,False,False,True,True,7,3,m.leblanc,True,False,Low
+ID-01354,user01354,Employee,Legal,Commercial Banking,Active,True,False,True,True,65,3,c.dubois,True,False,High
+ID-01355,user01355,Contractor,Risk & Compliance,Payments,Active,False,False,True,True,60,6,r.patel,True,False,Low
+ID-01356,user01356,Employee,Technology,Commercial Banking,Disabled,False,False,False,True,53,6,l.moreau,True,False,Low
+ID-01357,user01357,Employee,Operations,Retail Banking,Active,False,False,True,True,6,4,r.patel,True,False,Low
+ID-01358,user01358,Employee,Risk & Compliance,Retail Banking,Active,False,False,True,True,6,1,l.moreau,True,False,Low
+ID-01359,user01359,Employee,Legal,Digital & AI,Active,False,False,True,True,16,1,s.okafor,True,False,Low
+ID-01360,user01360,Employee,Legal,Digital & AI,Active,False,False,True,True,12,3,j.nguyen,True,False,Low
+ID-01361,user01361,Employee,Legal,Digital & AI,Active,False,False,True,True,40,4,d.singh,True,False,Low
+ID-01362,user01362,Employee,Human Resources,Payments,Active,False,False,True,True,29,4,c.dubois,True,False,Low
+ID-01363,user01363,Employee,Risk & Compliance,Digital & AI,Active,False,False,True,True,58,1,d.singh,True,False,Low
+ID-01364,user01364,Employee,Customer Support,Payments,Active,False,False,True,True,7,6,l.moreau,True,False,Low
+ID-01365,user01365,Employee,Customer Support,Shared Technology,Active,False,False,True,True,55,3,j.nguyen,True,False,Low
+ID-01366,user01366,Employee,Customer Support,Digital & AI,Active,True,False,True,True,70,2,c.dubois,True,False,High
+ID-01367,user01367,Employee,Customer Support,Wealth Management,Active,False,False,True,True,9,1,b.oconnell,True,False,Low
+ID-01368,user01368,Employee,Technology,Digital & AI,Active,False,False,True,True,49,5,b.oconnell,True,False,Low
+ID-01369,user01369,Employee,Legal,Payments,Disabled,False,False,False,True,38,4,a.tremblay,True,False,Low
+ID-01370,user01370,Employee,Finance,Commercial Banking,Active,False,False,True,True,7,2,d.singh,True,False,Low
+ID-01371,user01371,Employee,Retail Banking,Commercial Banking,Active,False,False,True,True,22,2,c.dubois,True,False,Low
+ID-01372,user01372,ServiceAccount,Retail Banking,Shared Technology,Active,False,True,True,True,59,4,a.tremblay,True,False,Medium
+ID-01373,user01373,Employee,Legal,Payments,Active,False,False,True,True,66,1,l.moreau,True,False,Low
+ID-01374,user01374,Contractor,Finance,Payments,Active,False,False,True,True,27,6,a.tremblay,True,False,Low
+ID-01375,user01375,ServiceAccount,Retail Banking,Digital & AI,Active,False,True,True,True,8,4,j.nguyen,True,False,Medium
+ID-01376,user01376,Employee,Operations,Retail Banking,Active,False,False,True,True,18,6,d.singh,True,False,Low
+ID-01377,user01377,Employee,Finance,Shared Technology,Active,False,False,True,True,64,3,h.romano,True,False,Low
+ID-01378,user01378,Contractor,Technology,Wealth Management,Active,False,False,True,True,43,4,r.patel,True,False,Low
+ID-01379,user01379,Employee,Retail Banking,Wealth Management,Active,False,False,True,True,32,3,h.romano,True,False,Low
+ID-01380,user01380,Employee,Legal,Commercial Banking,Active,True,False,True,True,1,7,t.gagnon,True,False,High
+ID-01381,user01381,Employee,Retail Banking,Digital & AI,Active,False,False,True,True,59,4,c.dubois,True,False,Low
+ID-01382,user01382,Employee,Legal,Commercial Banking,Active,False,False,True,True,35,3,m.leblanc,True,False,Low
+ID-01383,user01383,Employee,Customer Support,Digital & AI,Active,False,False,True,True,41,5,l.moreau,True,False,Low
+ID-01384,user01384,ServiceAccount,Human Resources,Commercial Banking,Active,False,True,True,True,64,5,a.tremblay,True,False,Medium
+ID-01385,user01385,ServiceAccount,Human Resources,Wealth Management,Active,False,True,True,True,42,6,t.gagnon,True,False,Medium
+ID-01386,user01386,Employee,Customer Support,Shared Technology,Active,False,False,True,True,70,6,r.patel,True,False,Low
+ID-01387,user01387,Employee,Customer Support,Shared Technology,Active,False,False,True,True,42,6,h.romano,True,False,Low
+ID-01388,user01388,Employee,Technology,Shared Technology,Terminated,False,False,False,True,26,5,d.singh,True,False,Low
+ID-01389,user01389,Contractor,Customer Support,Wealth Management,Active,False,False,True,True,70,3,c.dubois,True,False,Low
+ID-01390,user01390,Employee,Finance,Payments,Active,False,False,True,True,48,3,b.oconnell,True,False,Low
+ID-01391,user01391,ServiceAccount,Customer Support,Payments,Active,False,True,True,True,57,4,h.romano,True,False,Medium
+ID-01392,user01392,Contractor,Customer Support,Payments,Terminated,False,False,False,True,17,2,t.gagnon,True,False,Low
+ID-01393,user01393,Employee,Human Resources,Shared Technology,Active,False,False,True,True,50,5,s.okafor,True,False,Low
+ID-01394,user01394,Employee,Customer Support,Commercial Banking,Active,False,False,True,True,42,3,c.dubois,True,False,Low
+ID-01395,user01395,Contractor,Operations,Payments,Terminated,False,False,False,True,7,3,b.oconnell,True,False,Low
+ID-01396,user01396,Employee,Operations,Retail Banking,Active,False,False,True,True,19,1,h.romano,True,False,Low
+ID-01397,user01397,Employee,Risk & Compliance,Retail Banking,Terminated,False,False,False,True,69,3,c.dubois,True,False,Low
+ID-01398,user01398,Contractor,Retail Banking,Wealth Management,Active,False,False,True,True,43,5,a.tremblay,True,False,Low
+ID-01399,user01399,Employee,Operations,Commercial Banking,Active,False,False,True,True,58,4,j.nguyen,True,False,Low
+ID-01400,user01400,Employee,Retail Banking,Retail Banking,Active,False,False,True,True,13,4,k.anderson,True,False,Low
+ID-01401,user01401,Employee,Risk & Compliance,Digital & AI,Active,False,False,True,True,16,6,l.moreau,True,False,Low
+ID-01402,user01402,Employee,Technology,Commercial Banking,Disabled,False,False,False,True,71,2,b.oconnell,True,False,Low
+ID-01403,user01403,ServiceAccount,Customer Support,Commercial Banking,Active,False,True,True,True,31,2,s.okafor,True,False,Medium
+ID-01404,user01404,Employee,Operations,Shared Technology,Terminated,False,False,False,True,67,4,r.patel,True,False,Low
+ID-01405,user01405,Employee,Operations,Wealth Management,Active,False,False,True,True,61,3,j.nguyen,True,False,Low
+ID-01406,user01406,Employee,Retail Banking,Digital & AI,Active,False,False,True,True,25,6,b.oconnell,True,False,Low
+ID-01407,user01407,ServiceAccount,Finance,Shared Technology,Active,False,True,True,True,72,6,s.okafor,True,False,Medium
+ID-01408,user01408,Employee,Risk & Compliance,Commercial Banking,Active,False,False,True,True,59,1,m.leblanc,True,False,Low
+ID-01409,user01409,Contractor,Customer Support,Retail Banking,Disabled,False,False,False,True,9,3,j.nguyen,True,False,Low
+ID-01410,user01410,Employee,Legal,Retail Banking,Active,False,False,True,True,7,3,s.okafor,True,False,Low
+ID-01411,user01411,Contractor,Operations,Commercial Banking,Active,False,False,True,True,9,6,l.moreau,True,False,Low
+ID-01412,user01412,ServiceAccount,Risk & Compliance,Payments,Active,False,True,True,True,56,5,k.anderson,True,False,Medium
+ID-01413,user01413,Contractor,Risk & Compliance,Commercial Banking,Active,False,False,True,True,10,3,k.anderson,True,False,Low
+ID-01414,user01414,ServiceAccount,Customer Support,Commercial Banking,Active,False,True,True,True,21,4,t.gagnon,True,False,Medium
+ID-01415,user01415,Employee,Risk & Compliance,Digital & AI,Active,False,False,True,True,33,3,c.dubois,True,False,Low
+ID-01416,user01416,Employee,Human Resources,Wealth Management,Active,False,False,True,True,10,4,j.nguyen,True,False,Low
+ID-01417,user01417,Employee,Human Resources,Payments,Active,False,False,True,True,25,4,r.patel,True,False,Low
+ID-01418,user01418,Employee,Finance,Shared Technology,Active,True,False,True,True,51,2,h.romano,True,False,High
+ID-01419,user01419,Contractor,Operations,Payments,Active,True,False,True,True,73,9,k.anderson,True,False,High
+ID-01420,user01420,ServiceAccount,Customer Support,Payments,Active,False,True,True,True,35,3,m.leblanc,True,False,Medium
+ID-01421,user01421,Employee,Risk & Compliance,Commercial Banking,Terminated,False,False,False,True,56,1,d.singh,True,False,Low
+ID-01422,user01422,Employee,Retail Banking,Retail Banking,Active,False,False,True,True,40,1,d.singh,True,False,Low
+ID-01423,user01423,Employee,Technology,Shared Technology,Active,False,False,True,True,35,4,m.leblanc,True,False,Low
+ID-01424,user01424,Employee,Risk & Compliance,Wealth Management,Active,False,False,True,True,39,6,k.anderson,True,False,Low
+ID-01425,user01425,Employee,Customer Support,Payments,Active,False,False,True,True,72,6,k.anderson,True,False,Low
+ID-01426,user01426,Employee,Finance,Retail Banking,Active,False,False,True,True,4,2,m.leblanc,True,False,Low
+ID-01427,user01427,Employee,Risk & Compliance,Commercial Banking,Active,False,False,True,True,39,1,a.tremblay,True,False,Low
+ID-01428,user01428,Employee,Legal,Payments,Active,True,False,True,True,3,11,d.singh,True,False,High
+ID-01429,user01429,Employee,Risk & Compliance,Digital & AI,Active,False,False,True,True,66,1,l.moreau,True,False,Low
+ID-01430,user01430,Employee,Legal,Digital & AI,Active,True,False,True,True,45,6,d.singh,True,False,High
+ID-01431,user01431,ServiceAccount,Operations,Digital & AI,Active,False,True,True,True,3,2,r.patel,True,False,Medium
+ID-01432,user01432,Employee,Finance,Retail Banking,Active,False,False,True,True,47,6,k.anderson,True,False,Low
+ID-01433,user01433,Employee,Customer Support,Payments,Active,False,False,True,True,33,4,b.oconnell,True,False,Low
+ID-01434,user01434,Employee,Technology,Wealth Management,Disabled,False,False,False,True,3,5,m.leblanc,True,False,Low
+ID-01435,user01435,Employee,Finance,Wealth Management,Active,False,False,True,True,74,3,l.moreau,True,False,Low
+ID-01436,user01436,ServiceAccount,Technology,Shared Technology,Active,False,True,True,True,28,3,s.okafor,True,False,Medium
+ID-01437,user01437,Employee,Legal,Commercial Banking,Active,False,False,True,True,1,4,a.tremblay,True,False,Low
+ID-01438,user01438,Employee,Human Resources,Payments,Active,False,False,True,True,46,4,b.oconnell,True,False,Low
+ID-01439,user01439,ServiceAccount,Operations,Wealth Management,Active,False,True,True,True,28,5,s.okafor,True,False,Medium
+ID-01440,user01440,ServiceAccount,Risk & Compliance,Retail Banking,Active,False,True,True,True,49,6,l.moreau,True,False,Medium
+ID-01441,user01441,Employee,Operations,Retail Banking,Terminated,True,False,False,True,12,6,k.anderson,True,False,High
+ID-01442,user01442,Employee,Technology,Retail Banking,Active,False,False,True,True,62,3,h.romano,True,False,Low
+ID-01443,user01443,Employee,Legal,Digital & AI,Active,False,False,True,True,31,1,k.anderson,True,False,Low
+ID-01444,user01444,Employee,Human Resources,Shared Technology,Active,False,False,True,True,31,3,d.singh,True,False,Low
+ID-01445,user01445,Employee,Operations,Payments,Active,True,False,True,True,61,10,t.gagnon,True,False,High
+ID-01446,user01446,Employee,Operations,Commercial Banking,Active,False,False,True,True,41,3,h.romano,True,False,Low
+ID-01447,user01447,Contractor,Human Resources,Commercial Banking,Active,False,False,True,True,0,1,d.singh,True,False,Low
+ID-01448,user01448,Employee,Retail Banking,Digital & AI,Active,False,False,True,True,43,1,s.okafor,True,False,Low
+ID-01449,user01449,Employee,Retail Banking,Commercial Banking,Terminated,False,False,False,True,49,2,m.leblanc,True,False,Low
+ID-01450,user01450,Employee,Retail Banking,Commercial Banking,Active,True,False,True,True,23,6,c.dubois,True,False,High
+ID-01451,user01451,Contractor,Retail Banking,Commercial Banking,Active,False,False,True,True,13,1,l.moreau,True,False,Low
+ID-01452,user01452,Employee,Risk & Compliance,Shared Technology,Active,False,False,True,True,4,3,d.singh,True,False,Low
+ID-01453,user01453,Contractor,Finance,Wealth Management,Active,False,False,True,True,64,2,h.romano,True,False,Low
+ID-01454,user01454,ServiceAccount,Retail Banking,Wealth Management,Active,False,True,True,True,0,6,s.okafor,True,False,Medium
+ID-01455,user01455,Employee,Retail Banking,Retail Banking,Active,False,False,True,True,44,2,m.leblanc,True,False,Low
+ID-01456,user01456,Employee,Operations,Retail Banking,Active,False,False,True,True,63,2,s.okafor,True,False,Low
+ID-01457,user01457,Employee,Operations,Shared Technology,Active,False,False,True,True,26,1,k.anderson,True,False,Low
+ID-01458,user01458,Employee,Retail Banking,Commercial Banking,Active,False,False,True,True,15,5,l.moreau,True,False,Low
+ID-01459,user01459,ServiceAccount,Operations,Shared Technology,Active,False,True,True,True,54,1,s.okafor,True,False,Medium
+ID-01460,user01460,Employee,Legal,Digital & AI,Disabled,False,False,False,True,47,4,t.gagnon,True,False,Low
+ID-01461,user01461,Employee,Risk & Compliance,Digital & AI,Active,False,False,True,True,1,4,j.nguyen,True,False,Low
+ID-01462,user01462,Employee,Risk & Compliance,Payments,Terminated,False,False,False,True,43,5,l.moreau,True,False,Low
+ID-01463,user01463,Employee,Operations,Digital & AI,Active,False,False,True,True,0,4,h.romano,True,False,Low
+ID-01464,user01464,Employee,Legal,Retail Banking,Active,False,False,True,True,30,4,a.tremblay,True,False,Low
+ID-01465,user01465,Employee,Finance,Retail Banking,Active,False,False,True,True,23,5,t.gagnon,True,False,Low
+ID-01466,user01466,Employee,Risk & Compliance,Wealth Management,Active,False,False,True,True,63,6,b.oconnell,True,False,Low
+ID-01467,user01467,Employee,Technology,Retail Banking,Active,False,False,True,True,74,2,b.oconnell,True,False,Low
+ID-01468,user01468,Employee,Human Resources,Commercial Banking,Active,False,False,True,True,53,5,s.okafor,True,False,Low
+ID-01469,user01469,Employee,Retail Banking,Digital & AI,Active,False,False,True,True,55,3,r.patel,True,False,Low
+ID-01470,user01470,Employee,Operations,Wealth Management,Active,False,False,True,True,1,1,m.leblanc,True,False,Low
+ID-01471,user01471,ServiceAccount,Finance,Shared Technology,Active,False,True,True,True,4,5,c.dubois,True,False,Medium
+ID-01472,user01472,Employee,Human Resources,Digital & AI,Active,False,False,True,True,59,6,b.oconnell,True,False,Low
+ID-01473,user01473,Employee,Retail Banking,Shared Technology,Active,False,False,True,True,32,1,h.romano,True,False,Low
+ID-01474,user01474,Employee,Operations,Commercial Banking,Disabled,True,False,False,True,38,3,h.romano,True,False,High
+ID-01475,user01475,Employee,Human Resources,Commercial Banking,Active,False,False,True,True,52,6,c.dubois,True,False,Low
+ID-01476,user01476,Employee,Finance,Commercial Banking,Active,False,False,True,True,26,4,b.oconnell,True,False,Low
+ID-01477,user01477,Employee,Retail Banking,Commercial Banking,Active,False,False,True,True,51,2,b.oconnell,True,False,Low
+ID-01478,user01478,ServiceAccount,Technology,Commercial Banking,Active,False,True,True,True,55,7,h.romano,True,False,Medium
+ID-01479,user01479,Employee,Technology,Retail Banking,Active,False,False,True,True,18,3,h.romano,True,False,Low
+ID-01480,user01480,Employee,Finance,Retail Banking,Active,False,False,True,True,52,2,l.moreau,True,False,Low
+ID-01481,user01481,Employee,Technology,Payments,Active,False,False,True,True,12,2,s.okafor,True,False,Low
+ID-01482,user01482,Employee,Legal,Wealth Management,Active,False,False,True,True,23,4,j.nguyen,True,False,Low
+ID-01483,user01483,Employee,Retail Banking,Commercial Banking,Active,False,False,True,True,59,1,h.romano,True,False,Low
+ID-01484,user01484,Employee,Legal,Commercial Banking,Active,False,False,True,True,74,3,j.nguyen,True,False,Low
+ID-01485,user01485,Employee,Operations,Digital & AI,Active,False,False,True,True,4,2,m.leblanc,True,False,Low
+ID-01486,user01486,Employee,Human Resources,Retail Banking,Active,False,False,True,True,49,1,b.oconnell,True,False,Low
+ID-01487,user01487,ServiceAccount,Finance,Payments,Active,False,True,True,True,43,4,c.dubois,True,False,Medium
+ID-01488,user01488,Employee,Finance,Commercial Banking,Active,True,False,True,True,46,4,t.gagnon,True,False,High
+ID-01489,user01489,Contractor,Finance,Digital & AI,Active,False,False,True,True,59,6,j.nguyen,True,False,Low
+ID-01490,user01490,Employee,Legal,Wealth Management,Active,False,False,True,True,5,1,r.patel,True,False,Low
+ID-01491,user01491,Employee,Customer Support,Wealth Management,Active,False,False,True,True,56,3,r.patel,True,False,Low
+ID-01492,user01492,Contractor,Customer Support,Wealth Management,Active,False,False,True,True,21,1,r.patel,True,False,Low
+ID-01493,user01493,Employee,Legal,Payments,Active,False,False,True,True,11,3,c.dubois,True,False,Low
+ID-01494,user01494,Employee,Operations,Digital & AI,Active,True,False,True,True,33,7,j.nguyen,True,False,High
+ID-01495,user01495,Employee,Customer Support,Wealth Management,Active,False,False,True,True,2,1,h.romano,True,False,Low
+ID-01496,user01496,Employee,Risk & Compliance,Shared Technology,Active,False,False,True,True,47,4,j.nguyen,True,False,Low
+ID-01497,user01497,Contractor,Risk & Compliance,Shared Technology,Active,False,False,True,True,42,5,c.dubois,True,False,Low
+ID-01498,user01498,Employee,Customer Support,Retail Banking,Active,False,False,True,True,38,3,t.gagnon,True,False,Low
+ID-01499,user01499,Employee,Retail Banking,Shared Technology,Terminated,False,False,False,True,2,1,c.dubois,True,False,Low
+ID-01500,user01500,Employee,Finance,Wealth Management,Active,False,False,True,True,57,5,a.tremblay,True,False,Low

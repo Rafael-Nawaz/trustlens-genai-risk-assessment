@@ -1,0 +1,251 @@
+resource_id,resource_type,environment,business_unit,internet_facing,public_access,encryption_enabled,logging_enabled,approved_config,excess_admin_assignments,backup_enabled,network_restricted,unsupported_runtime,owner,risk_tier
+RES-0001,SQLDatabase,Prod,Digital & AI,False,False,False,False,True,False,True,False,True,s.okafor,High
+RES-0002,StorageAccount,NonProd,Wealth Management,False,True,True,True,True,True,True,False,False,t.gagnon,Medium
+RES-0003,SQLDatabase,Prod,Shared Technology,True,False,False,False,False,False,True,True,True,j.nguyen,High
+RES-0004,SQLDatabase,Prod,Digital & AI,False,False,False,False,True,False,True,False,True,t.gagnon,High
+RES-0005,VirtualMachine,NonProd,Retail Banking,False,False,False,False,True,True,True,True,True,r.patel,Medium
+RES-0006,StorageAccount,Prod,Digital & AI,False,True,False,False,True,False,True,False,True,k.anderson,High
+RES-0007,VirtualMachine,Prod,Commercial Banking,False,False,True,True,True,True,True,True,False,c.dubois,High
+RES-0008,StorageAccount,Prod,Wealth Management,False,True,True,True,True,True,True,False,False,c.dubois,High
+RES-0009,StorageAccount,Prod,Retail Banking,False,False,False,False,True,True,True,True,True,s.okafor,High
+RES-0010,StorageAccount,NonProd,Retail Banking,False,False,True,True,True,True,True,True,True,k.anderson,Medium
+RES-0011,VirtualMachine,NonProd,Shared Technology,False,False,False,False,True,False,True,True,True,r.patel,Medium
+RES-0012,StorageAccount,NonProd,Commercial Banking,True,False,True,True,False,True,True,True,False,t.gagnon,Medium
+RES-0013,AKSCluster,Prod,Digital & AI,True,False,False,False,True,False,True,True,True,c.dubois,Critical
+RES-0014,StorageAccount,Prod,Shared Technology,False,True,False,False,True,False,True,True,True,b.oconnell,High
+RES-0015,VirtualMachine,Prod,Digital & AI,False,False,False,False,True,False,True,True,False,j.nguyen,High
+RES-0016,FunctionApp,NonProd,Wealth Management,True,False,True,True,True,True,True,False,False,j.nguyen,Medium
+RES-0017,StorageAccount,NonProd,Commercial Banking,False,False,True,True,True,True,True,True,False,a.tremblay,Medium
+RES-0018,SQLDatabase,Prod,Retail Banking,False,False,True,True,True,True,True,True,True,d.singh,High
+RES-0019,FunctionApp,NonProd,Retail Banking,False,False,True,True,True,True,True,True,False,a.tremblay,Medium
+RES-0020,StorageAccount,NonProd,Payments,False,True,False,True,True,True,True,False,True,j.nguyen,Medium
+RES-0021,StorageAccount,Prod,Shared Technology,True,True,False,False,False,False,True,True,False,t.gagnon,Critical
+RES-0022,AppService,NonProd,Commercial Banking,False,False,True,True,True,True,True,True,False,l.moreau,Medium
+RES-0023,AppService,NonProd,Digital & AI,False,False,True,False,True,False,True,True,False,k.anderson,Medium
+RES-0024,VirtualMachine,Prod,Retail Banking,False,False,True,True,True,False,True,True,False,h.romano,High
+RES-0025,StorageAccount,Prod,Shared Technology,False,True,False,False,True,False,True,True,False,h.romano,High
+RES-0026,StorageAccount,NonProd,Digital & AI,False,True,True,False,True,False,True,True,False,t.gagnon,Medium
+RES-0027,FunctionApp,NonProd,Commercial Banking,False,False,True,True,True,True,True,True,False,l.moreau,Medium
+RES-0028,VirtualMachine,NonProd,Retail Banking,False,False,True,True,True,False,True,True,False,c.dubois,Medium
+RES-0029,StorageAccount,NonProd,Wealth Management,False,True,True,True,True,True,True,False,False,s.okafor,Medium
+RES-0030,SQLDatabase,NonProd,Commercial Banking,False,False,True,True,True,True,True,True,False,r.patel,Medium
+RES-0031,AKSCluster,Prod,Payments,False,False,False,True,True,True,True,False,True,d.singh,High
+RES-0032,StorageAccount,Prod,Commercial Banking,False,False,True,True,True,False,True,True,False,j.nguyen,High
+RES-0033,StorageAccount,Prod,Payments,False,True,False,True,True,True,True,False,True,d.singh,High
+RES-0034,VirtualMachine,NonProd,Retail Banking,False,False,True,True,True,False,True,True,False,s.okafor,Medium
+RES-0035,KeyVault,NonProd,Wealth Management,True,False,True,True,True,False,True,False,False,a.tremblay,Medium
+RES-0036,SQLDatabase,NonProd,Payments,False,False,False,True,True,False,True,False,True,r.patel,Medium
+RES-0037,FunctionApp,Prod,Commercial Banking,False,False,True,True,True,False,True,True,False,m.leblanc,High
+RES-0038,StorageAccount,Prod,Wealth Management,False,True,True,True,True,False,True,False,False,t.gagnon,High
+RES-0039,VirtualMachine,NonProd,Digital & AI,True,False,True,False,True,False,True,True,False,r.patel,Medium
+RES-0040,VirtualMachine,Prod,Payments,False,False,False,True,True,False,True,True,True,c.dubois,High
+RES-0041,VirtualMachine,Prod,Commercial Banking,False,False,True,True,True,False,True,True,False,r.patel,High
+RES-0042,SQLDatabase,NonProd,Payments,False,False,False,True,True,False,True,True,True,j.nguyen,Medium
+RES-0043,AppService,NonProd,Digital & AI,False,False,True,False,True,False,True,True,False,b.oconnell,Medium
+RES-0044,VirtualMachine,NonProd,Digital & AI,False,False,True,False,True,False,True,True,False,d.singh,Medium
+RES-0045,AppService,Prod,Wealth Management,False,False,True,True,True,False,True,True,False,s.okafor,High
+RES-0046,StorageAccount,Prod,Retail Banking,True,False,True,True,False,False,True,True,False,m.leblanc,Critical
+RES-0047,SQLDatabase,Prod,Retail Banking,False,False,True,True,True,False,True,True,False,a.tremblay,High
+RES-0048,VirtualMachine,Prod,Wealth Management,False,False,True,True,True,False,True,True,False,j.nguyen,High
+RES-0049,SQLDatabase,Prod,Digital & AI,False,False,True,False,True,False,True,True,False,l.moreau,High
+RES-0050,StorageAccount,Prod,Commercial Banking,True,False,True,True,False,False,True,True,False,b.oconnell,Critical
+RES-0051,AKSCluster,NonProd,Shared Technology,False,False,False,False,True,False,True,True,False,c.dubois,Medium
+RES-0052,FunctionApp,Prod,Payments,False,False,False,True,True,False,True,True,False,a.tremblay,High
+RES-0053,FunctionApp,Prod,Payments,True,False,True,True,True,False,True,True,False,a.tremblay,Critical
+RES-0054,FunctionApp,Prod,Payments,True,False,True,True,True,False,True,True,False,r.patel,Critical
+RES-0055,StorageAccount,NonProd,Payments,True,True,True,True,True,False,True,True,False,j.nguyen,Medium
+RES-0056,SQLDatabase,Prod,Wealth Management,True,False,True,True,True,False,True,True,False,k.anderson,Critical
+RES-0057,VirtualMachine,Prod,Commercial Banking,False,False,True,True,True,False,True,True,False,s.okafor,High
+RES-0058,FunctionApp,Prod,Payments,False,False,True,True,True,False,True,True,False,m.leblanc,High
+RES-0059,StorageAccount,Prod,Retail Banking,False,False,True,True,True,False,True,True,False,k.anderson,High
+RES-0060,StorageAccount,NonProd,Wealth Management,False,True,True,True,True,False,True,True,False,j.nguyen,Medium
+RES-0061,AppService,Prod,Commercial Banking,False,False,True,True,True,False,True,True,False,r.patel,High
+RES-0062,StorageAccount,Prod,Commercial Banking,False,False,True,True,True,False,True,True,False,m.leblanc,High
+RES-0063,AppService,NonProd,Wealth Management,False,False,True,True,True,False,True,True,False,a.tremblay,Medium
+RES-0064,VirtualMachine,Prod,Payments,True,False,True,True,True,False,True,True,False,r.patel,Critical
+RES-0065,KeyVault,NonProd,Commercial Banking,False,False,True,True,True,False,True,True,False,j.nguyen,Medium
+RES-0066,FunctionApp,Prod,Payments,False,False,True,True,True,False,True,True,False,t.gagnon,High
+RES-0067,KeyVault,NonProd,Digital & AI,False,False,True,True,True,False,True,True,False,t.gagnon,Medium
+RES-0068,StorageAccount,Prod,Digital & AI,False,True,True,True,True,False,True,True,False,c.dubois,High
+RES-0069,StorageAccount,Prod,Digital & AI,False,True,True,True,True,False,True,True,False,j.nguyen,High
+RES-0070,StorageAccount,Prod,Retail Banking,False,False,True,True,True,False,True,True,False,c.dubois,High
+RES-0071,StorageAccount,NonProd,Digital & AI,False,True,True,True,True,False,True,True,False,l.moreau,Medium
+RES-0072,SQLDatabase,Prod,Retail Banking,False,False,True,True,True,False,True,True,False,r.patel,High
+RES-0073,VirtualMachine,NonProd,Retail Banking,False,False,True,True,True,False,True,True,False,h.romano,Medium
+RES-0074,VirtualMachine,NonProd,Digital & AI,False,False,True,True,True,False,True,True,False,b.oconnell,Medium
+RES-0075,StorageAccount,Prod,Wealth Management,False,True,True,True,True,False,True,True,False,r.patel,High
+RES-0076,AKSCluster,Prod,Digital & AI,False,False,True,True,True,False,True,True,False,s.okafor,High
+RES-0077,StorageAccount,Prod,Retail Banking,False,False,True,True,True,False,True,True,False,s.okafor,High
+RES-0078,VirtualMachine,NonProd,Retail Banking,True,False,True,True,False,False,True,True,False,t.gagnon,Medium
+RES-0079,SQLDatabase,NonProd,Wealth Management,True,False,True,True,True,False,True,True,False,r.patel,Medium
+RES-0080,StorageAccount,Prod,Commercial Banking,False,False,True,True,True,False,True,True,False,j.nguyen,High
+RES-0081,AKSCluster,Prod,Shared Technology,True,False,True,True,False,False,True,True,False,l.moreau,Critical
+RES-0082,StorageAccount,NonProd,Commercial Banking,False,False,True,True,True,False,True,True,False,b.oconnell,Medium
+RES-0083,AppService,Prod,Payments,False,False,True,True,True,False,True,True,False,c.dubois,High
+RES-0084,KeyVault,Prod,Shared Technology,False,False,True,True,True,False,True,True,False,j.nguyen,High
+RES-0085,AppService,Prod,Commercial Banking,False,False,True,True,True,False,True,True,False,t.gagnon,High
+RES-0086,KeyVault,Prod,Retail Banking,False,False,True,True,True,False,True,True,False,a.tremblay,High
+RES-0087,AppService,NonProd,Wealth Management,False,False,True,True,True,False,True,True,False,t.gagnon,Medium
+RES-0088,SQLDatabase,NonProd,Payments,True,False,True,True,True,False,True,True,False,k.anderson,Medium
+RES-0089,SQLDatabase,Prod,Commercial Banking,False,False,True,True,True,False,True,True,False,a.tremblay,High
+RES-0090,AppService,Prod,Shared Technology,True,False,True,True,False,False,True,True,False,m.leblanc,Critical
+RES-0091,SQLDatabase,NonProd,Retail Banking,False,False,True,True,True,False,True,True,False,d.singh,Medium
+RES-0092,SQLDatabase,Prod,Retail Banking,False,False,True,True,True,False,True,True,False,h.romano,High
+RES-0093,StorageAccount,Prod,Shared Technology,False,True,True,True,True,False,True,True,False,m.leblanc,High
+RES-0094,VirtualMachine,Prod,Retail Banking,False,False,True,True,True,False,True,True,False,l.moreau,High
+RES-0095,VirtualMachine,NonProd,Payments,False,False,True,True,True,False,True,True,False,b.oconnell,Medium
+RES-0096,StorageAccount,NonProd,Shared Technology,False,False,True,True,True,False,True,True,False,d.singh,Medium
+RES-0097,VirtualMachine,NonProd,Retail Banking,False,False,True,True,True,False,True,True,False,d.singh,Medium
+RES-0098,StorageAccount,Prod,Digital & AI,False,False,True,True,True,False,True,True,False,m.leblanc,High
+RES-0099,SQLDatabase,NonProd,Retail Banking,True,False,True,True,False,False,True,True,False,l.moreau,Medium
+RES-0100,AppService,Prod,Retail Banking,False,False,True,True,True,False,True,True,False,d.singh,High
+RES-0101,SQLDatabase,NonProd,Digital & AI,False,False,True,True,True,False,True,True,False,s.okafor,Medium
+RES-0102,AppService,Prod,Shared Technology,False,False,True,True,True,False,True,True,False,j.nguyen,High
+RES-0103,StorageAccount,Prod,Digital & AI,False,False,True,True,True,False,True,True,False,t.gagnon,High
+RES-0104,StorageAccount,Prod,Commercial Banking,True,False,True,True,True,False,True,True,False,b.oconnell,Critical
+RES-0105,AppService,Prod,Wealth Management,False,False,True,True,True,False,True,True,False,m.leblanc,High
+RES-0106,AppService,Prod,Commercial Banking,True,False,True,True,True,False,True,True,False,d.singh,Critical
+RES-0107,AppService,NonProd,Commercial Banking,False,False,True,True,True,False,True,True,False,k.anderson,Medium
+RES-0108,KeyVault,NonProd,Payments,True,False,True,True,True,False,True,True,False,l.moreau,Medium
+RES-0109,AppService,NonProd,Payments,True,False,True,True,True,False,True,True,False,k.anderson,Medium
+RES-0110,AppService,Prod,Shared Technology,False,False,True,True,True,False,True,True,False,t.gagnon,High
+RES-0111,AppService,Prod,Payments,False,False,True,True,True,False,True,True,False,c.dubois,High
+RES-0112,AppService,Prod,Wealth Management,False,False,True,True,True,False,True,True,False,l.moreau,High
+RES-0113,StorageAccount,Prod,Shared Technology,False,False,True,True,True,False,True,True,False,d.singh,High
+RES-0114,StorageAccount,Prod,Shared Technology,False,False,True,True,True,False,True,True,False,k.anderson,High
+RES-0115,VirtualMachine,NonProd,Shared Technology,False,False,True,True,True,False,True,True,False,t.gagnon,Medium
+RES-0116,SQLDatabase,NonProd,Digital & AI,False,False,True,True,True,False,True,True,False,m.leblanc,Medium
+RES-0117,AppService,Prod,Wealth Management,True,False,True,True,True,False,True,True,False,b.oconnell,Critical
+RES-0118,VirtualMachine,NonProd,Wealth Management,False,False,True,True,True,False,True,True,False,d.singh,Medium
+RES-0119,VirtualMachine,NonProd,Retail Banking,False,False,True,True,True,False,True,True,False,b.oconnell,Medium
+RES-0120,AppService,Prod,Payments,False,False,True,True,True,False,True,True,False,r.patel,High
+RES-0121,VirtualMachine,NonProd,Commercial Banking,False,False,True,True,True,False,True,True,False,c.dubois,Medium
+RES-0122,FunctionApp,Prod,Shared Technology,False,False,True,True,True,False,True,True,False,a.tremblay,High
+RES-0123,StorageAccount,Prod,Commercial Banking,False,False,True,True,True,False,True,True,False,b.oconnell,High
+RES-0124,VirtualMachine,NonProd,Shared Technology,False,False,True,True,True,False,True,True,False,h.romano,Medium
+RES-0125,VirtualMachine,NonProd,Shared Technology,False,False,True,True,True,False,True,True,False,j.nguyen,Medium
+RES-0126,VirtualMachine,Prod,Digital & AI,False,False,True,True,True,False,True,True,False,a.tremblay,High
+RES-0127,StorageAccount,Prod,Payments,False,True,True,True,True,False,True,True,False,d.singh,High
+RES-0128,VirtualMachine,NonProd,Retail Banking,True,False,True,True,False,False,True,True,False,d.singh,Medium
+RES-0129,VirtualMachine,Prod,Payments,False,False,True,True,True,False,True,True,False,k.anderson,High
+RES-0130,VirtualMachine,NonProd,Retail Banking,False,False,True,True,True,False,True,True,False,s.okafor,Medium
+RES-0131,AppService,NonProd,Payments,False,False,True,True,True,False,True,True,False,b.oconnell,Medium
+RES-0132,StorageAccount,Prod,Wealth Management,False,True,True,True,True,False,True,True,False,c.dubois,High
+RES-0133,VirtualMachine,NonProd,Digital & AI,False,False,True,True,True,False,True,True,False,d.singh,Medium
+RES-0134,StorageAccount,NonProd,Payments,False,True,True,True,True,False,True,True,False,t.gagnon,Medium
+RES-0135,AKSCluster,NonProd,Shared Technology,True,False,True,True,False,False,True,True,False,k.anderson,Medium
+RES-0136,AppService,Prod,Payments,False,False,True,True,True,False,True,True,False,s.okafor,High
+RES-0137,AKSCluster,Prod,Shared Technology,False,False,True,True,True,False,True,True,False,t.gagnon,High
+RES-0138,FunctionApp,Prod,Digital & AI,False,False,True,True,True,False,True,True,False,d.singh,High
+RES-0139,VirtualMachine,NonProd,Commercial Banking,True,False,True,True,True,False,True,True,False,t.gagnon,Medium
+RES-0140,AppService,NonProd,Commercial Banking,False,False,True,True,True,False,True,True,False,l.moreau,Medium
+RES-0141,VirtualMachine,NonProd,Wealth Management,False,False,True,True,True,False,True,True,False,t.gagnon,Medium
+RES-0142,FunctionApp,NonProd,Retail Banking,False,False,True,True,True,False,True,True,False,t.gagnon,Medium
+RES-0143,VirtualMachine,Prod,Payments,False,False,True,True,True,False,True,True,False,m.leblanc,High
+RES-0144,VirtualMachine,Prod,Shared Technology,False,False,True,True,True,False,True,True,False,m.leblanc,High
+RES-0145,FunctionApp,NonProd,Commercial Banking,False,False,True,True,True,False,True,True,False,s.okafor,Medium
+RES-0146,FunctionApp,Prod,Wealth Management,True,False,True,True,True,False,True,True,False,h.romano,Critical
+RES-0147,AKSCluster,NonProd,Retail Banking,False,False,True,True,True,False,True,True,False,m.leblanc,Medium
+RES-0148,StorageAccount,Prod,Wealth Management,True,True,True,True,True,False,True,True,False,c.dubois,Critical
+RES-0149,VirtualMachine,Prod,Commercial Banking,False,False,True,True,True,False,True,True,False,h.romano,High
+RES-0150,VirtualMachine,NonProd,Payments,False,False,True,True,True,False,True,True,False,c.dubois,Medium
+RES-0151,SQLDatabase,Prod,Commercial Banking,False,False,True,True,True,False,True,True,False,a.tremblay,High
+RES-0152,SQLDatabase,Prod,Commercial Banking,True,False,True,True,True,False,True,True,False,r.patel,Critical
+RES-0153,VirtualMachine,NonProd,Retail Banking,False,False,True,True,True,False,True,True,False,s.okafor,Medium
+RES-0154,AppService,NonProd,Shared Technology,False,False,True,True,True,False,True,True,False,r.patel,Medium
+RES-0155,VirtualMachine,NonProd,Commercial Banking,False,False,True,True,True,False,True,True,False,d.singh,Medium
+RES-0156,AppService,NonProd,Digital & AI,True,False,True,True,True,False,True,True,False,k.anderson,Medium
+RES-0157,FunctionApp,NonProd,Digital & AI,False,False,True,True,True,False,True,True,False,d.singh,Medium
+RES-0158,KeyVault,Prod,Commercial Banking,False,False,True,True,True,False,True,True,False,s.okafor,High
+RES-0159,VirtualMachine,Prod,Shared Technology,False,False,True,True,True,False,True,True,False,h.romano,High
+RES-0160,StorageAccount,NonProd,Digital & AI,True,False,True,True,True,False,True,True,False,c.dubois,Medium
+RES-0161,StorageAccount,Prod,Commercial Banking,False,False,True,True,True,False,True,True,False,j.nguyen,High
+RES-0162,AppService,NonProd,Shared Technology,False,False,True,True,True,False,True,True,False,l.moreau,Medium
+RES-0163,SQLDatabase,NonProd,Digital & AI,False,False,True,True,True,False,True,True,False,s.okafor,Medium
+RES-0164,StorageAccount,Prod,Digital & AI,False,False,True,True,True,False,True,True,False,c.dubois,High
+RES-0165,AKSCluster,Prod,Payments,False,False,True,True,True,False,True,True,False,c.dubois,High
+RES-0166,KeyVault,NonProd,Digital & AI,False,False,True,True,True,False,True,True,False,s.okafor,Medium
+RES-0167,FunctionApp,Prod,Wealth Management,False,False,True,True,True,False,True,True,False,b.oconnell,High
+RES-0168,SQLDatabase,Prod,Wealth Management,False,False,True,True,True,False,True,True,False,r.patel,High
+RES-0169,AKSCluster,NonProd,Wealth Management,True,False,True,True,True,False,True,True,False,a.tremblay,Medium
+RES-0170,StorageAccount,Prod,Digital & AI,False,False,True,True,True,False,True,True,False,c.dubois,High
+RES-0171,StorageAccount,Prod,Shared Technology,False,False,True,True,True,False,True,True,False,b.oconnell,High
+RES-0172,FunctionApp,NonProd,Digital & AI,False,False,True,True,True,False,True,True,False,d.singh,Medium
+RES-0173,FunctionApp,NonProd,Shared Technology,True,False,True,True,False,False,True,True,False,l.moreau,Medium
+RES-0174,SQLDatabase,Prod,Digital & AI,True,False,True,True,True,False,True,True,False,t.gagnon,Critical
+RES-0175,StorageAccount,NonProd,Wealth Management,True,True,True,True,True,False,True,True,False,s.okafor,Medium
+RES-0176,VirtualMachine,NonProd,Wealth Management,False,False,True,True,True,False,True,True,False,k.anderson,Medium
+RES-0177,AppService,Prod,Commercial Banking,False,False,True,True,True,False,True,True,False,j.nguyen,High
+RES-0178,FunctionApp,Prod,Shared Technology,False,False,True,True,True,False,True,True,False,d.singh,High
+RES-0179,VirtualMachine,NonProd,Shared Technology,False,False,True,True,True,False,True,True,False,t.gagnon,Medium
+RES-0180,StorageAccount,Prod,Wealth Management,True,True,True,True,True,False,True,True,False,a.tremblay,Critical
+RES-0181,KeyVault,NonProd,Commercial Banking,False,False,True,True,True,False,True,True,False,s.okafor,Medium
+RES-0182,AppService,NonProd,Retail Banking,True,False,True,True,False,False,True,True,False,b.oconnell,Medium
+RES-0183,SQLDatabase,Prod,Payments,False,False,True,True,True,False,True,True,False,c.dubois,High
+RES-0184,KeyVault,NonProd,Digital & AI,False,False,True,True,True,False,True,True,False,j.nguyen,Medium
+RES-0185,AKSCluster,Prod,Wealth Management,False,False,True,True,True,False,True,True,False,s.okafor,High
+RES-0186,VirtualMachine,NonProd,Retail Banking,True,False,True,True,False,False,True,True,False,r.patel,Medium
+RES-0187,SQLDatabase,Prod,Wealth Management,True,False,True,True,True,False,True,True,False,a.tremblay,Critical
+RES-0188,KeyVault,NonProd,Shared Technology,False,False,True,True,True,False,True,True,False,m.leblanc,Medium
+RES-0189,SQLDatabase,Prod,Wealth Management,True,False,True,True,True,False,True,True,False,m.leblanc,Critical
+RES-0190,FunctionApp,NonProd,Shared Technology,False,False,True,True,True,False,True,True,False,s.okafor,Medium
+RES-0191,KeyVault,NonProd,Commercial Banking,False,False,True,True,True,False,True,True,False,b.oconnell,Medium
+RES-0192,SQLDatabase,Prod,Shared Technology,False,False,True,True,True,False,True,True,False,h.romano,High
+RES-0193,StorageAccount,Prod,Shared Technology,False,False,True,True,True,False,True,True,False,b.oconnell,High
+RES-0194,AppService,NonProd,Digital & AI,True,False,True,True,True,False,True,True,False,m.leblanc,Medium
+RES-0195,StorageAccount,NonProd,Payments,False,True,True,True,True,False,True,True,False,j.nguyen,Medium
+RES-0196,StorageAccount,Prod,Payments,False,True,True,True,True,False,True,True,False,j.nguyen,High
+RES-0197,SQLDatabase,Prod,Retail Banking,False,False,True,True,True,False,True,True,False,k.anderson,High
+RES-0198,SQLDatabase,NonProd,Wealth Management,False,False,True,True,True,False,True,True,False,m.leblanc,Medium
+RES-0199,AKSCluster,Prod,Commercial Banking,False,False,True,True,True,False,True,True,False,m.leblanc,High
+RES-0200,AppService,NonProd,Digital & AI,True,False,True,True,True,False,True,True,False,b.oconnell,Medium
+RES-0201,FunctionApp,Prod,Wealth Management,True,False,True,True,True,False,True,True,False,r.patel,Critical
+RES-0202,VirtualMachine,Prod,Digital & AI,False,False,True,True,True,False,True,True,False,h.romano,High
+RES-0203,SQLDatabase,NonProd,Payments,False,False,True,True,True,False,True,True,False,m.leblanc,Medium
+RES-0204,AKSCluster,Prod,Payments,False,False,True,True,True,False,True,True,False,b.oconnell,High
+RES-0205,VirtualMachine,NonProd,Wealth Management,False,False,True,True,True,False,True,True,False,d.singh,Medium
+RES-0206,AppService,NonProd,Wealth Management,False,False,True,True,True,False,True,True,False,t.gagnon,Medium
+RES-0207,SQLDatabase,Prod,Retail Banking,True,False,True,True,True,False,True,True,False,k.anderson,Critical
+RES-0208,VirtualMachine,Prod,Commercial Banking,True,False,True,True,True,False,True,True,False,t.gagnon,Critical
+RES-0209,KeyVault,Prod,Retail Banking,False,False,True,True,True,False,True,True,False,r.patel,High
+RES-0210,StorageAccount,NonProd,Shared Technology,False,False,True,True,True,False,True,True,False,c.dubois,Medium
+RES-0211,StorageAccount,NonProd,Retail Banking,False,False,True,True,True,False,True,True,False,a.tremblay,Medium
+RES-0212,VirtualMachine,NonProd,Commercial Banking,False,False,True,True,True,False,True,True,False,m.leblanc,Medium
+RES-0213,StorageAccount,Prod,Shared Technology,False,False,True,True,True,False,True,True,False,h.romano,High
+RES-0214,VirtualMachine,Prod,Commercial Banking,False,False,True,True,True,False,True,True,False,j.nguyen,High
+RES-0215,FunctionApp,Prod,Digital & AI,False,False,True,True,True,False,True,True,False,s.okafor,High
+RES-0216,VirtualMachine,NonProd,Shared Technology,False,False,True,True,True,False,True,True,False,j.nguyen,Medium
+RES-0217,FunctionApp,Prod,Retail Banking,True,False,True,True,True,False,True,True,False,r.patel,Critical
+RES-0218,SQLDatabase,Prod,Commercial Banking,False,False,True,True,True,False,True,True,False,d.singh,High
+RES-0219,StorageAccount,Prod,Wealth Management,False,True,True,True,True,False,True,True,False,s.okafor,High
+RES-0220,StorageAccount,Prod,Commercial Banking,False,False,True,True,True,False,True,True,False,a.tremblay,High
+RES-0221,AKSCluster,NonProd,Wealth Management,True,False,True,True,True,False,True,True,False,d.singh,Medium
+RES-0222,KeyVault,NonProd,Shared Technology,False,False,True,True,True,False,True,True,False,s.okafor,Medium
+RES-0223,AKSCluster,NonProd,Digital & AI,False,False,True,True,True,False,True,True,False,c.dubois,Medium
+RES-0224,VirtualMachine,Prod,Wealth Management,True,False,True,True,True,False,True,True,False,d.singh,Critical
+RES-0225,AppService,NonProd,Payments,False,False,True,True,True,False,True,True,False,k.anderson,Medium
+RES-0226,AppService,Prod,Retail Banking,False,False,True,True,True,False,True,True,False,s.okafor,High
+RES-0227,AKSCluster,NonProd,Retail Banking,False,False,True,True,True,False,True,True,False,d.singh,Medium
+RES-0228,StorageAccount,NonProd,Wealth Management,True,True,True,True,True,False,True,True,False,a.tremblay,Medium
+RES-0229,AKSCluster,Prod,Payments,False,False,True,True,True,False,True,True,False,m.leblanc,High
+RES-0230,VirtualMachine,NonProd,Payments,True,False,True,True,True,False,True,True,False,s.okafor,Medium
+RES-0231,FunctionApp,Prod,Payments,False,False,True,True,True,False,True,True,False,k.anderson,High
+RES-0232,SQLDatabase,Prod,Wealth Management,False,False,True,True,True,False,True,True,False,d.singh,High
+RES-0233,SQLDatabase,Prod,Shared Technology,True,False,True,True,False,False,True,True,False,l.moreau,Critical
+RES-0234,VirtualMachine,Prod,Payments,False,False,True,True,True,False,True,True,False,s.okafor,High
+RES-0235,FunctionApp,NonProd,Retail Banking,False,False,True,True,True,False,True,True,False,r.patel,Medium
+RES-0236,VirtualMachine,NonProd,Retail Banking,False,False,True,True,True,False,True,True,False,s.okafor,Medium
+RES-0237,SQLDatabase,NonProd,Wealth Management,False,False,True,True,True,False,True,True,False,r.patel,Medium
+RES-0238,SQLDatabase,NonProd,Shared Technology,False,False,True,True,True,False,True,True,False,m.leblanc,Medium
+RES-0239,AppService,NonProd,Payments,False,False,True,True,True,False,True,True,False,d.singh,Medium
+RES-0240,SQLDatabase,Prod,Digital & AI,False,False,True,True,True,False,True,True,False,h.romano,High
+RES-0241,AppService,Prod,Wealth Management,False,False,True,True,True,False,True,True,False,h.romano,High
+RES-0242,SQLDatabase,Prod,Payments,False,False,True,True,True,False,True,True,False,m.leblanc,High
+RES-0243,KeyVault,NonProd,Shared Technology,False,False,True,True,True,False,True,True,False,a.tremblay,Medium
+RES-0244,KeyVault,NonProd,Commercial Banking,False,False,True,True,True,False,True,True,False,a.tremblay,Medium
+RES-0245,AppService,NonProd,Payments,False,False,True,True,True,False,True,True,False,t.gagnon,Medium
+RES-0246,FunctionApp,Prod,Retail Banking,False,False,True,True,True,False,True,True,False,t.gagnon,High
+RES-0247,SQLDatabase,Prod,Payments,False,False,True,True,True,False,True,True,False,m.leblanc,High
+RES-0248,StorageAccount,NonProd,Digital & AI,False,False,True,True,True,False,True,True,False,t.gagnon,Medium
+RES-0249,KeyVault,Prod,Shared Technology,True,False,True,True,False,False,True,True,False,k.anderson,Critical
+RES-0250,StorageAccount,NonProd,Retail Banking,False,False,True,True,True,False,True,True,False,m.leblanc,Medium
