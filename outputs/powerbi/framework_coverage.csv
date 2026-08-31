@@ -1,0 +1,5 @@
+framework,controls_mapped,controls_total,coverage_pct,findings_mapped
+NIST CSF 2.0,48,48,100.0,137
+NIST AI RMF,27,48,56.2,78
+OSFI B-13,48,48,100.0,137
+ISO/IEC 27001:2022,48,48,100.0,137

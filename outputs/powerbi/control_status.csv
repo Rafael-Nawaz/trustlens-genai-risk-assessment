@@ -1,0 +1,49 @@
+control_id,control_name,domain,status,findings,max_severity,assets_in_scope,assets_in_violation
+IAM-01,Privileged accounts must enforce phishing-resistant MFA,Identity & Access Management,Not Effective,4,Critical,199,35
+IAM-02,Terminated and disabled staff must not retain active access,Identity & Access Management,Not Effective,3,Critical,171,30
+IAM-03,Dormant accounts must be reviewed and disabled,Identity & Access Management,Not Effective,5,High,1359,31
+IAM-04,Excessive privileged role assignments must be limited,Identity & Access Management,Not Effective,3,High,199,20
+IAM-05,Service accounts must follow least privilege,Identity & Access Management,Effective,0,None,110,0
+IAM-06,Privileged accounts must have a documented owner,Identity & Access Management,Partially Effective,2,Medium,199,10
+IAM-07,Periodic access certifications must be completed,Identity & Access Management,Partially Effective,3,Medium,199,16
+IAM-08,Administrative accounts must not be used for daily activity,Identity & Access Management,Not Effective,4,High,199,24
+CLD-01,Storage resources must not be publicly accessible,Cloud Security,Not Effective,4,Critical,60,28
+CLD-02,Sensitive cloud resources must have encryption enabled,Cloud Security,Not Effective,4,High,250,20
+CLD-03,Security and diagnostic logging must be enabled,Cloud Security,Not Effective,3,Critical,250,19
+CLD-04,Internet-facing services must use approved configurations,Cloud Security,Not Effective,3,High,54,16
+CLD-05,Cloud administrator permissions must follow least privilege,Cloud Security,Partially Effective,4,Medium,250,18
+CLD-06,Production resources must have backup configured,Cloud Security,Effective,0,None,134,0
+CLD-07,Network access to cloud resources must be restricted,Cloud Security,Partially Effective,3,Medium,250,13
+CLD-08,Unsupported or non-compliant resources must be identified,Cloud Security,Partially Effective,4,Medium,250,17
+PRV-01,Personal information must be classified and registered,Privacy & Data Protection,Not Effective,4,High,60,13
+PRV-02,Confidential and Restricted data must be encrypted,Privacy & Data Protection,Not Effective,4,Critical,60,18
+PRV-03,AI systems must only access approved customer data,Privacy & Data Protection,Not Effective,3,Critical,45,13
+PRV-04,Data retention requirements must be defined,Privacy & Data Protection,Partially Effective,4,Medium,100,13
+PRV-05,Customer data must not be retained indefinitely,Privacy & Data Protection,Partially Effective,3,Medium,60,9
+PRV-06,Sensitive datasets must have an accountable owner,Privacy & Data Protection,Not Effective,3,High,60,11
+PRV-07,Data minimisation must be enforced for AI use,Privacy & Data Protection,Effective,0,None,45,0
+PRV-08,Cross-border transfers of personal data must be approved,Privacy & Data Protection,Not Effective,2,High,60,7
+AIG-01,AI systems must have a documented accountable owner,AI Governance,Not Effective,3,High,69,10
+AIG-02,High-risk AI actions must have human oversight,AI Governance,Not Effective,4,High,69,14
+AIG-03,AI activity must be logged,AI Governance,Not Effective,3,Critical,69,12
+AIG-04,"AI systems must have documented, approved use cases",AI Governance,Partially Effective,3,Medium,69,9
+AIG-05,Sensitive inputs to AI must be controlled,AI Governance,Not Effective,4,Critical,69,14
+AIG-06,AI systems must have a defined risk classification,AI Governance,Partially Effective,2,Medium,69,7
+AIG-07,Model outputs must have monitoring procedures,AI Governance,Partially Effective,2,Medium,69,5
+AIG-08,Third-party AI models must disclose data-handling practices,AI Governance,Partially Effective,2,Medium,44,6
+SOC-01,Critical systems must forward security logs to the SIEM,Security Operations,Not Effective,3,Critical,30,12
+SOC-02,Security alerts must have assigned owners,Security Operations,Not Effective,4,High,100,13
+SOC-03,High-risk systems must be actively monitored,Security Operations,Not Effective,3,High,54,10
+SOC-04,Incident-response runbooks must exist for critical systems,Security Operations,Partially Effective,2,Medium,30,6
+SOC-05,Critical vulnerabilities must have remediation targets,Security Operations,Not Effective,3,High,21,10
+SOC-06,AI-related incidents must be built into response procedures,Security Operations,Partially Effective,4,Medium,69,12
+SOC-07,Security events must have severity classifications,Security Operations,Partially Effective,2,Medium,100,6
+SOC-08,Log retention must meet the internal minimum,Security Operations,Effective,0,None,100,0
+TPR-01,Critical vendors must have a current security assessment,Governance & Third-Party Risk,Not Effective,3,High,17,8
+TPR-02,AI vendors must have a completed AI risk review,Governance & Third-Party Risk,Not Effective,3,High,11,8
+TPR-03,Identified risks must have an assigned owner,Governance & Third-Party Risk,Partially Effective,3,Medium,50,7
+TPR-04,Contracts and policies must have defined review dates,Governance & Third-Party Risk,Partially Effective,4,Medium,50,11
+TPR-05,Critical controls must have evidence on file,Governance & Third-Party Risk,Effective,0,None,17,0
+TPR-06,High-risk exceptions must be formally approved,Governance & Third-Party Risk,Partially Effective,4,Medium,26,12
+TPR-07,Technology risks must have remediation dates,Governance & Third-Party Risk,Effective,0,None,28,0
+TPR-08,Critical suppliers must have documented oversight,Governance & Third-Party Risk,Not Effective,4,High,17,9

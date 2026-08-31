@@ -1,0 +1,20 @@
+metric,value
+GenAI Readiness Score,67.9 / 100
+Readiness Band,HIGH RISK
+Launch Recommendation,Controlled launch after resolving Critical and High findings
+Controls Tested,48
+Controls Not Effective,25
+Controls Partially Effective,17
+Controls Effective,6
+Total Findings,137
+Critical Findings,9
+High Findings,23
+Medium Findings,61
+Low Findings,44
+Assets / Identities Assessed,2000
+Readiness - Identity & Access Management,65.8 / 100
+Readiness - Cloud Security,68.5 / 100
+Readiness - Privacy & Data Protection,68.4 / 100
+Readiness - AI Governance,68.4 / 100
+Readiness - Security Operations,73.7 / 100
+Readiness - Governance & Third-Party Risk,79.1 / 100

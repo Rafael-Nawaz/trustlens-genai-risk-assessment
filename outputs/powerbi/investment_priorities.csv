@@ -1,0 +1,11 @@
+initiative,implementation_effort,effort_rank,expected_risk_reduction_pct,risk_points_removed,total_risk_score,findings,critical_high,quadrant,priority_score,rank
+AI Governance Operating Model,Low,1,28.7,39.5,120,12,2,Quick Win,51.5,1
+Cloud Exposure Remediation,Medium,2,33.9,53.9,128,11,4,Strategic Initiative,39.0,2
+AI Audit Logging,Medium,2,48.5,53.9,98,6,4,Strategic Initiative,39.0,3
+Third-Party AI Risk Review,Medium,2,29.9,52.6,147,14,4,Strategic Initiative,38.3,4
+Privileged MFA Enforcement,Low,1,38.2,25.8,54,4,2,Quick Win,37.8,5
+Automated Access Reviews,Low,1,27.6,25.3,81,8,1,Quick Win,31.3,6
+Technology Risk Governance,Low,1,26.0,27.5,98,11,0,Quick Win,27.5,7
+Continuous Cloud Control Monitoring,Medium,2,30.7,42.3,106,10,2,Strategic Initiative,27.1,8
+Privileged Access Modernisation,Medium,2,29.0,36.1,107,11,2,Strategic Initiative,24.1,9
+SOC Operating Model Uplift,Low,1,25.7,17.2,55,6,1,Quick Win,23.2,10

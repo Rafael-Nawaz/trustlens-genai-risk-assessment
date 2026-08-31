@@ -1,0 +1,7 @@
+domain,readiness_score,findings,critical,high,medium,low,total_risk_score,avg_risk_score,controls_not_effective,controls_partially_effective,controls_effective
+Identity & Access Management,65.8,24,2,5,10,7,271,11.3,5,2,1
+Cloud Security,68.5,25,2,3,12,8,268,10.7,4,3,1
+Privacy & Data Protection,68.4,23,2,4,10,7,258,11.2,5,2,1
+AI Governance,68.4,23,2,4,10,7,259,11.3,4,4,0
+Security Operations,73.7,21,1,4,9,7,224,10.7,4,3,1
+Governance & Third-Party Risk,79.1,21,0,3,10,8,199,9.5,3,3,2

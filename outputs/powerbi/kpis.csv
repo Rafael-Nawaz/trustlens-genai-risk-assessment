@@ -1,0 +1,18 @@
+metric,value
+genai_readiness_score,67.9
+readiness_band,HIGH RISK
+controls_tested,48
+controls_not_effective,25
+controls_partially_effective,17
+controls_effective,6
+total_findings,137
+critical_findings,9
+high_findings,23
+medium_findings,61
+low_findings,44
+assets_assessed,2000
+identities_assessed,1500
+cloud_resources_assessed,250
+applications_assessed,100
+data_assets_assessed,100
+vendors_assessed,50
