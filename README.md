@@ -6,8 +6,8 @@
 > security-operations risks; translates technical control gaps into quantified business
 > risk; and develops an executive 90-day remediation roadmap.
 
-**Client (fictional):** NorthStar Bank — a mid-size Canadian retail & commercial bank
-**Engagement question:** *Is NorthStar Bank ready to deploy its GenAI platform securely,
+**Client (fictional):** FI/Bank — a mid-size Canadian retail & commercial bank
+**Engagement question:** *Is the Bank ready to deploy its GenAI platform securely,
 responsibly, and in alignment with enterprise risk requirements?*
 **Headline answer:** **Not yet — proceed with a controlled launch only after resolving the
 Critical and High findings.** Overall GenAI readiness scores **68 / 100 (HIGH RISK)**.
@@ -16,7 +16,7 @@ Critical and High findings.** Overall GenAI readiness scores **68 / 100 (HIGH RI
 
 ## 1. Project Overview
 
-NorthStar Bank plans to launch an Azure-hosted generative AI assistant for customer service.
+The Bank plans to launch an Azure-hosted generative AI assistant for customer service.
 The assistant can reach customer profiles, transaction history, internal knowledge bases and
 customer-support systems. TrustLens performs the work a technology-risk / cyber consultant
 would do before such a launch:
@@ -48,7 +48,7 @@ application review does not capture:
 - **Third-party & concentration risk** — a small number of AI/cloud providers underpin the
   whole capability.
 
-NorthStar Bank has **real cyber capability** (encryption, logging, a SOC, a vendor programme)
+The Bank has **real cyber capability** (encryption, logging, a SOC, a vendor programme)
 but has **material gaps** in exactly these GenAI-sensitive areas. The engagement quantifies
 those gaps and tells the CISO what to fund first.
 
@@ -266,7 +266,7 @@ Expected tail of the output:
 
 ## 13. Disclaimer
 
-**NorthStar Bank is fictional. All data in this repository is synthetic and was generated
+**The FI/Bank is fictional. All data in this repository is synthetic and was generated
 by the scripts provided. Nothing here represents real customer, employee, banking or
 confidential information, or the security posture of any real organisation. The framework
 mappings are illustrative. This project is a personal portfolio exercise and is not a
